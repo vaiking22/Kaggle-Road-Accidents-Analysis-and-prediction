@@ -3,4 +3,4 @@ We hvae tried to predict the number of road accidents that can take place in ind
 
 Open the directory in terminal and type the following command to run the project
 
-** python3 sdl_MiniPro_v2.py **
+python3 sdl_MiniPro_v2.py 
