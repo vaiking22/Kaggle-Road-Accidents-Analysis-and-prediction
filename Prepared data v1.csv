@@ -1,0 +1,3921 @@
+,STATE/UT,YEAR,TIME,ACCIDENTS
+0,A & N Islands,2001,0-3 hrs. (Night),2
+1,A & N Islands,2001,3-6 hrs. (Night),6
+2,A & N Islands,2001,6-9 hrs (Day),29
+3,A & N Islands,2001,9-12 hrs (Day),40
+4,A & N Islands,2001,12-15 hrs (Day),39
+5,A & N Islands,2001,15-18 hrs (Day),40
+6,A & N Islands,2001,18-21 hrs (Night),18
+7,A & N Islands,2001,21-24 hrs (Night),7
+8,A & N Islands,2002,0-3 hrs. (Night),2
+9,A & N Islands,2002,3-6 hrs. (Night),6
+10,A & N Islands,2002,6-9 hrs (Day),22
+11,A & N Islands,2002,9-12 hrs (Day),41
+12,A & N Islands,2002,12-15 hrs (Day),33
+13,A & N Islands,2002,15-18 hrs (Day),33
+14,A & N Islands,2002,18-21 hrs (Night),23
+15,A & N Islands,2002,21-24 hrs (Night),8
+16,A & N Islands,2003,0-3 hrs. (Night),2
+17,A & N Islands,2003,3-6 hrs. (Night),8
+18,A & N Islands,2003,6-9 hrs (Day),31
+19,A & N Islands,2003,9-12 hrs (Day),35
+20,A & N Islands,2003,12-15 hrs (Day),28
+21,A & N Islands,2003,15-18 hrs (Day),36
+22,A & N Islands,2003,18-21 hrs (Night),25
+23,A & N Islands,2003,21-24 hrs (Night),15
+24,A & N Islands,2004,0-3 hrs. (Night),2
+25,A & N Islands,2004,3-6 hrs. (Night),5
+26,A & N Islands,2004,6-9 hrs (Day),29
+27,A & N Islands,2004,9-12 hrs (Day),42
+28,A & N Islands,2004,12-15 hrs (Day),43
+29,A & N Islands,2004,15-18 hrs (Day),43
+30,A & N Islands,2004,18-21 hrs (Night),37
+31,A & N Islands,2004,21-24 hrs (Night),14
+32,A & N Islands,2005,0-3 hrs. (Night),0
+33,A & N Islands,2005,3-6 hrs. (Night),8
+34,A & N Islands,2005,6-9 hrs (Day),27
+35,A & N Islands,2005,9-12 hrs (Day),28
+36,A & N Islands,2005,12-15 hrs (Day),38
+37,A & N Islands,2005,15-18 hrs (Day),42
+38,A & N Islands,2005,18-21 hrs (Night),50
+39,A & N Islands,2005,21-24 hrs (Night),13
+40,A & N Islands,2006,0-3 hrs. (Night),1
+41,A & N Islands,2006,3-6 hrs. (Night),3
+42,A & N Islands,2006,6-9 hrs (Day),17
+43,A & N Islands,2006,9-12 hrs (Day),33
+44,A & N Islands,2006,12-15 hrs (Day),33
+45,A & N Islands,2006,15-18 hrs (Day),23
+46,A & N Islands,2006,18-21 hrs (Night),38
+47,A & N Islands,2006,21-24 hrs (Night),7
+48,A & N Islands,2007,0-3 hrs. (Night),2
+49,A & N Islands,2007,3-6 hrs. (Night),5
+50,A & N Islands,2007,6-9 hrs (Day),20
+51,A & N Islands,2007,9-12 hrs (Day),30
+52,A & N Islands,2007,12-15 hrs (Day),30
+53,A & N Islands,2007,15-18 hrs (Day),27
+54,A & N Islands,2007,18-21 hrs (Night),31
+55,A & N Islands,2007,21-24 hrs (Night),7
+56,A & N Islands,2008,0-3 hrs. (Night),3
+57,A & N Islands,2008,3-6 hrs. (Night),7
+58,A & N Islands,2008,6-9 hrs (Day),33
+59,A & N Islands,2008,9-12 hrs (Day),24
+60,A & N Islands,2008,12-15 hrs (Day),40
+61,A & N Islands,2008,15-18 hrs (Day),31
+62,A & N Islands,2008,18-21 hrs (Night),40
+63,A & N Islands,2008,21-24 hrs (Night),13
+64,A & N Islands,2009,0-3 hrs. (Night),2
+65,A & N Islands,2009,3-6 hrs. (Night),6
+66,A & N Islands,2009,6-9 hrs (Day),35
+67,A & N Islands,2009,9-12 hrs (Day),41
+68,A & N Islands,2009,12-15 hrs (Day),64
+69,A & N Islands,2009,15-18 hrs (Day),54
+70,A & N Islands,2009,18-21 hrs (Night),50
+71,A & N Islands,2009,21-24 hrs (Night),19
+72,A & N Islands,2010,0-3 hrs. (Night),2
+73,A & N Islands,2010,3-6 hrs. (Night),10
+74,A & N Islands,2010,6-9 hrs (Day),36
+75,A & N Islands,2010,9-12 hrs (Day),45
+76,A & N Islands,2010,12-15 hrs (Day),64
+77,A & N Islands,2010,15-18 hrs (Day),57
+78,A & N Islands,2010,18-21 hrs (Night),53
+79,A & N Islands,2010,21-24 hrs (Night),18
+80,A & N Islands,2011,0-3 hrs. (Night),4
+81,A & N Islands,2011,3-6 hrs. (Night),3
+82,A & N Islands,2011,6-9 hrs (Day),36
+83,A & N Islands,2011,9-12 hrs (Day),27
+84,A & N Islands,2011,12-15 hrs (Day),46
+85,A & N Islands,2011,15-18 hrs (Day),50
+86,A & N Islands,2011,18-21 hrs (Night),51
+87,A & N Islands,2011,21-24 hrs (Night),18
+88,A & N Islands,2012,0-3 hrs. (Night),4
+89,A & N Islands,2012,3-6 hrs. (Night),6
+90,A & N Islands,2012,6-9 hrs (Day),26
+91,A & N Islands,2012,9-12 hrs (Day),29
+92,A & N Islands,2012,12-15 hrs (Day),54
+93,A & N Islands,2012,15-18 hrs (Day),45
+94,A & N Islands,2012,18-21 hrs (Night),58
+95,A & N Islands,2012,21-24 hrs (Night),14
+96,A & N Islands,2013,0-3 hrs. (Night),2
+97,A & N Islands,2013,3-6 hrs. (Night),3
+98,A & N Islands,2013,6-9 hrs (Day),22
+99,A & N Islands,2013,9-12 hrs (Day),31
+100,A & N Islands,2013,12-15 hrs (Day),40
+101,A & N Islands,2013,15-18 hrs (Day),40
+102,A & N Islands,2013,18-21 hrs (Night),37
+103,A & N Islands,2013,21-24 hrs (Night),25
+104,A & N Islands,2014,0-3 hrs. (Night),4
+105,A & N Islands,2014,3-6 hrs. (Night),6
+106,A & N Islands,2014,6-9 hrs (Day),25
+107,A & N Islands,2014,9-12 hrs (Day),28
+108,A & N Islands,2014,12-15 hrs (Day),55
+109,A & N Islands,2014,15-18 hrs (Day),36
+110,A & N Islands,2014,18-21 hrs (Night),41
+111,A & N Islands,2014,21-24 hrs (Night),23
+112,Andhra Pradesh,2001,0-3 hrs. (Night),2239
+113,Andhra Pradesh,2001,3-6 hrs. (Night),3265
+114,Andhra Pradesh,2001,6-9 hrs (Day),3198
+115,Andhra Pradesh,2001,9-12 hrs (Day),3729
+116,Andhra Pradesh,2001,12-15 hrs (Day),3604
+117,Andhra Pradesh,2001,15-18 hrs (Day),3792
+118,Andhra Pradesh,2001,18-21 hrs (Night),4098
+119,Andhra Pradesh,2001,21-24 hrs (Night),3263
+120,Andhra Pradesh,2002,0-3 hrs. (Night),2931
+121,Andhra Pradesh,2002,3-6 hrs. (Night),3857
+122,Andhra Pradesh,2002,6-9 hrs (Day),3671
+123,Andhra Pradesh,2002,9-12 hrs (Day),4255
+124,Andhra Pradesh,2002,12-15 hrs (Day),4153
+125,Andhra Pradesh,2002,15-18 hrs (Day),4778
+126,Andhra Pradesh,2002,18-21 hrs (Night),4844
+127,Andhra Pradesh,2002,21-24 hrs (Night),4088
+128,Andhra Pradesh,2003,0-3 hrs. (Night),3158
+129,Andhra Pradesh,2003,3-6 hrs. (Night),4865
+130,Andhra Pradesh,2003,6-9 hrs (Day),3749
+131,Andhra Pradesh,2003,9-12 hrs (Day),4319
+132,Andhra Pradesh,2003,12-15 hrs (Day),4266
+133,Andhra Pradesh,2003,15-18 hrs (Day),4853
+134,Andhra Pradesh,2003,18-21 hrs (Night),5218
+135,Andhra Pradesh,2003,21-24 hrs (Night),4109
+136,Andhra Pradesh,2004,0-3 hrs. (Night),3191
+137,Andhra Pradesh,2004,3-6 hrs. (Night),4770
+138,Andhra Pradesh,2004,6-9 hrs (Day),4598
+139,Andhra Pradesh,2004,9-12 hrs (Day),5030
+140,Andhra Pradesh,2004,12-15 hrs (Day),4033
+141,Andhra Pradesh,2004,15-18 hrs (Day),4971
+142,Andhra Pradesh,2004,18-21 hrs (Night),6031
+143,Andhra Pradesh,2004,21-24 hrs (Night),4454
+144,Andhra Pradesh,2005,0-3 hrs. (Night),3826
+145,Andhra Pradesh,2005,3-6 hrs. (Night),6011
+146,Andhra Pradesh,2005,6-9 hrs (Day),5002
+147,Andhra Pradesh,2005,9-12 hrs (Day),4137
+148,Andhra Pradesh,2005,12-15 hrs (Day),4261
+149,Andhra Pradesh,2005,15-18 hrs (Day),4524
+150,Andhra Pradesh,2005,18-21 hrs (Night),5096
+151,Andhra Pradesh,2005,21-24 hrs (Night),4432
+152,Andhra Pradesh,2006,0-3 hrs. (Night),3635
+153,Andhra Pradesh,2006,3-6 hrs. (Night),5525
+154,Andhra Pradesh,2006,6-9 hrs (Day),4270
+155,Andhra Pradesh,2006,9-12 hrs (Day),5108
+156,Andhra Pradesh,2006,12-15 hrs (Day),4918
+157,Andhra Pradesh,2006,15-18 hrs (Day),6101
+158,Andhra Pradesh,2006,18-21 hrs (Night),6757
+159,Andhra Pradesh,2006,21-24 hrs (Night),5009
+160,Andhra Pradesh,2007,0-3 hrs. (Night),4054
+161,Andhra Pradesh,2007,3-6 hrs. (Night),4890
+162,Andhra Pradesh,2007,6-9 hrs (Day),4748
+163,Andhra Pradesh,2007,9-12 hrs (Day),5826
+164,Andhra Pradesh,2007,12-15 hrs (Day),5547
+165,Andhra Pradesh,2007,15-18 hrs (Day),6236
+166,Andhra Pradesh,2007,18-21 hrs (Night),6719
+167,Andhra Pradesh,2007,21-24 hrs (Night),5574
+168,Andhra Pradesh,2008,0-3 hrs. (Night),4051
+169,Andhra Pradesh,2008,3-6 hrs. (Night),4492
+170,Andhra Pradesh,2008,6-9 hrs (Day),4532
+171,Andhra Pradesh,2008,9-12 hrs (Day),5558
+172,Andhra Pradesh,2008,12-15 hrs (Day),5620
+173,Andhra Pradesh,2008,15-18 hrs (Day),6045
+174,Andhra Pradesh,2008,18-21 hrs (Night),6453
+175,Andhra Pradesh,2008,21-24 hrs (Night),5355
+176,Andhra Pradesh,2009,0-3 hrs. (Night),3718
+177,Andhra Pradesh,2009,3-6 hrs. (Night),4433
+178,Andhra Pradesh,2009,6-9 hrs (Day),4569
+179,Andhra Pradesh,2009,9-12 hrs (Day),5332
+180,Andhra Pradesh,2009,12-15 hrs (Day),5320
+181,Andhra Pradesh,2009,15-18 hrs (Day),6154
+182,Andhra Pradesh,2009,18-21 hrs (Night),6302
+183,Andhra Pradesh,2009,21-24 hrs (Night),6183
+184,Andhra Pradesh,2010,0-3 hrs. (Night),3822
+185,Andhra Pradesh,2010,3-6 hrs. (Night),5347
+186,Andhra Pradesh,2010,6-9 hrs (Day),5553
+187,Andhra Pradesh,2010,9-12 hrs (Day),5438
+188,Andhra Pradesh,2010,12-15 hrs (Day),5176
+189,Andhra Pradesh,2010,15-18 hrs (Day),5548
+190,Andhra Pradesh,2010,18-21 hrs (Night),6363
+191,Andhra Pradesh,2010,21-24 hrs (Night),5181
+192,Andhra Pradesh,2011,0-3 hrs. (Night),3577
+193,Andhra Pradesh,2011,3-6 hrs. (Night),4958
+194,Andhra Pradesh,2011,6-9 hrs (Day),4494
+195,Andhra Pradesh,2011,9-12 hrs (Day),5897
+196,Andhra Pradesh,2011,12-15 hrs (Day),5420
+197,Andhra Pradesh,2011,15-18 hrs (Day),5716
+198,Andhra Pradesh,2011,18-21 hrs (Night),6418
+199,Andhra Pradesh,2011,21-24 hrs (Night),4586
+200,Andhra Pradesh,2012,0-3 hrs. (Night),3026
+201,Andhra Pradesh,2012,3-6 hrs. (Night),3795
+202,Andhra Pradesh,2012,6-9 hrs (Day),4413
+203,Andhra Pradesh,2012,9-12 hrs (Day),5413
+204,Andhra Pradesh,2012,12-15 hrs (Day),4978
+205,Andhra Pradesh,2012,15-18 hrs (Day),5616
+206,Andhra Pradesh,2012,18-21 hrs (Night),6877
+207,Andhra Pradesh,2012,21-24 hrs (Night),5226
+208,Andhra Pradesh,2013,0-3 hrs. (Night),3742
+209,Andhra Pradesh,2013,3-6 hrs. (Night),4679
+210,Andhra Pradesh,2013,6-9 hrs (Day),4857
+211,Andhra Pradesh,2013,9-12 hrs (Day),5539
+212,Andhra Pradesh,2013,12-15 hrs (Day),5430
+213,Andhra Pradesh,2013,15-18 hrs (Day),6171
+214,Andhra Pradesh,2013,18-21 hrs (Night),7269
+215,Andhra Pradesh,2013,21-24 hrs (Night),5361
+216,Andhra Pradesh,2014,0-3 hrs. (Night),3336
+217,Andhra Pradesh,2014,3-6 hrs. (Night),4466
+218,Andhra Pradesh,2014,6-9 hrs (Day),4312
+219,Andhra Pradesh,2014,9-12 hrs (Day),5631
+220,Andhra Pradesh,2014,12-15 hrs (Day),5882
+221,Andhra Pradesh,2014,15-18 hrs (Day),6669
+222,Andhra Pradesh,2014,18-21 hrs (Night),7177
+223,Andhra Pradesh,2014,21-24 hrs (Night),5759
+224,Arunachal Pradesh,2001,0-3 hrs. (Night),9
+225,Arunachal Pradesh,2001,3-6 hrs. (Night),24
+226,Arunachal Pradesh,2001,6-9 hrs (Day),21
+227,Arunachal Pradesh,2001,9-12 hrs (Day),46
+228,Arunachal Pradesh,2001,12-15 hrs (Day),31
+229,Arunachal Pradesh,2001,15-18 hrs (Day),45
+230,Arunachal Pradesh,2001,18-21 hrs (Night),36
+231,Arunachal Pradesh,2001,21-24 hrs (Night),24
+232,Arunachal Pradesh,2002,0-3 hrs. (Night),8
+233,Arunachal Pradesh,2002,3-6 hrs. (Night),22
+234,Arunachal Pradesh,2002,6-9 hrs (Day),32
+235,Arunachal Pradesh,2002,9-12 hrs (Day),46
+236,Arunachal Pradesh,2002,12-15 hrs (Day),40
+237,Arunachal Pradesh,2002,15-18 hrs (Day),36
+238,Arunachal Pradesh,2002,18-21 hrs (Night),38
+239,Arunachal Pradesh,2002,21-24 hrs (Night),13
+240,Arunachal Pradesh,2003,0-3 hrs. (Night),9
+241,Arunachal Pradesh,2003,3-6 hrs. (Night),21
+242,Arunachal Pradesh,2003,6-9 hrs (Day),29
+243,Arunachal Pradesh,2003,9-12 hrs (Day),47
+244,Arunachal Pradesh,2003,12-15 hrs (Day),36
+245,Arunachal Pradesh,2003,15-18 hrs (Day),37
+246,Arunachal Pradesh,2003,18-21 hrs (Night),36
+247,Arunachal Pradesh,2003,21-24 hrs (Night),14
+248,Arunachal Pradesh,2004,0-3 hrs. (Night),6
+249,Arunachal Pradesh,2004,3-6 hrs. (Night),9
+250,Arunachal Pradesh,2004,6-9 hrs (Day),32
+251,Arunachal Pradesh,2004,9-12 hrs (Day),47
+252,Arunachal Pradesh,2004,12-15 hrs (Day),39
+253,Arunachal Pradesh,2004,15-18 hrs (Day),45
+254,Arunachal Pradesh,2004,18-21 hrs (Night),30
+255,Arunachal Pradesh,2004,21-24 hrs (Night),9
+256,Arunachal Pradesh,2005,0-3 hrs. (Night),5
+257,Arunachal Pradesh,2005,3-6 hrs. (Night),12
+258,Arunachal Pradesh,2005,6-9 hrs (Day),29
+259,Arunachal Pradesh,2005,9-12 hrs (Day),46
+260,Arunachal Pradesh,2005,12-15 hrs (Day),44
+261,Arunachal Pradesh,2005,15-18 hrs (Day),49
+262,Arunachal Pradesh,2005,18-21 hrs (Night),38
+263,Arunachal Pradesh,2005,21-24 hrs (Night),14
+264,Arunachal Pradesh,2006,0-3 hrs. (Night),16
+265,Arunachal Pradesh,2006,3-6 hrs. (Night),19
+266,Arunachal Pradesh,2006,6-9 hrs (Day),32
+267,Arunachal Pradesh,2006,9-12 hrs (Day),44
+268,Arunachal Pradesh,2006,12-15 hrs (Day),40
+269,Arunachal Pradesh,2006,15-18 hrs (Day),43
+270,Arunachal Pradesh,2006,18-21 hrs (Night),33
+271,Arunachal Pradesh,2006,21-24 hrs (Night),16
+272,Arunachal Pradesh,2007,0-3 hrs. (Night),20
+273,Arunachal Pradesh,2007,3-6 hrs. (Night),23
+274,Arunachal Pradesh,2007,6-9 hrs (Day),24
+275,Arunachal Pradesh,2007,9-12 hrs (Day),40
+276,Arunachal Pradesh,2007,12-15 hrs (Day),37
+277,Arunachal Pradesh,2007,15-18 hrs (Day),45
+278,Arunachal Pradesh,2007,18-21 hrs (Night),25
+279,Arunachal Pradesh,2007,21-24 hrs (Night),16
+280,Arunachal Pradesh,2008,0-3 hrs. (Night),21
+281,Arunachal Pradesh,2008,3-6 hrs. (Night),15
+282,Arunachal Pradesh,2008,6-9 hrs (Day),17
+283,Arunachal Pradesh,2008,9-12 hrs (Day),44
+284,Arunachal Pradesh,2008,12-15 hrs (Day),58
+285,Arunachal Pradesh,2008,15-18 hrs (Day),50
+286,Arunachal Pradesh,2008,18-21 hrs (Night),41
+287,Arunachal Pradesh,2008,21-24 hrs (Night),15
+288,Arunachal Pradesh,2009,0-3 hrs. (Night),21
+289,Arunachal Pradesh,2009,3-6 hrs. (Night),15
+290,Arunachal Pradesh,2009,6-9 hrs (Day),17
+291,Arunachal Pradesh,2009,9-12 hrs (Day),44
+292,Arunachal Pradesh,2009,12-15 hrs (Day),58
+293,Arunachal Pradesh,2009,15-18 hrs (Day),50
+294,Arunachal Pradesh,2009,18-21 hrs (Night),41
+295,Arunachal Pradesh,2009,21-24 hrs (Night),15
+296,Arunachal Pradesh,2010,0-3 hrs. (Night),8
+297,Arunachal Pradesh,2010,3-6 hrs. (Night),16
+298,Arunachal Pradesh,2010,6-9 hrs (Day),38
+299,Arunachal Pradesh,2010,9-12 hrs (Day),48
+300,Arunachal Pradesh,2010,12-15 hrs (Day),50
+301,Arunachal Pradesh,2010,15-18 hrs (Day),68
+302,Arunachal Pradesh,2010,18-21 hrs (Night),35
+303,Arunachal Pradesh,2010,21-24 hrs (Night),17
+304,Arunachal Pradesh,2011,0-3 hrs. (Night),12
+305,Arunachal Pradesh,2011,3-6 hrs. (Night),12
+306,Arunachal Pradesh,2011,6-9 hrs (Day),36
+307,Arunachal Pradesh,2011,9-12 hrs (Day),46
+308,Arunachal Pradesh,2011,12-15 hrs (Day),52
+309,Arunachal Pradesh,2011,15-18 hrs (Day),55
+310,Arunachal Pradesh,2011,18-21 hrs (Night),39
+311,Arunachal Pradesh,2011,21-24 hrs (Night),11
+312,Arunachal Pradesh,2012,0-3 hrs. (Night),4
+313,Arunachal Pradesh,2012,3-6 hrs. (Night),17
+314,Arunachal Pradesh,2012,6-9 hrs (Day),22
+315,Arunachal Pradesh,2012,9-12 hrs (Day),41
+316,Arunachal Pradesh,2012,12-15 hrs (Day),34
+317,Arunachal Pradesh,2012,15-18 hrs (Day),51
+318,Arunachal Pradesh,2012,18-21 hrs (Night),23
+319,Arunachal Pradesh,2012,21-24 hrs (Night),12
+320,Arunachal Pradesh,2013,0-3 hrs. (Night),4
+321,Arunachal Pradesh,2013,3-6 hrs. (Night),16
+322,Arunachal Pradesh,2013,6-9 hrs (Day),27
+323,Arunachal Pradesh,2013,9-12 hrs (Day),56
+324,Arunachal Pradesh,2013,12-15 hrs (Day),61
+325,Arunachal Pradesh,2013,15-18 hrs (Day),76
+326,Arunachal Pradesh,2013,18-21 hrs (Night),51
+327,Arunachal Pradesh,2013,21-24 hrs (Night),17
+328,Arunachal Pradesh,2014,0-3 hrs. (Night),6
+329,Arunachal Pradesh,2014,3-6 hrs. (Night),5
+330,Arunachal Pradesh,2014,6-9 hrs (Day),13
+331,Arunachal Pradesh,2014,9-12 hrs (Day),24
+332,Arunachal Pradesh,2014,12-15 hrs (Day),26
+333,Arunachal Pradesh,2014,15-18 hrs (Day),45
+334,Arunachal Pradesh,2014,18-21 hrs (Night),36
+335,Arunachal Pradesh,2014,21-24 hrs (Night),30
+336,Assam,2001,0-3 hrs. (Night),133
+337,Assam,2001,3-6 hrs. (Night),150
+338,Assam,2001,6-9 hrs (Day),259
+339,Assam,2001,9-12 hrs (Day),346
+340,Assam,2001,12-15 hrs (Day),300
+341,Assam,2001,15-18 hrs (Day),285
+342,Assam,2001,18-21 hrs (Night),234
+343,Assam,2001,21-24 hrs (Night),99
+344,Assam,2002,0-3 hrs. (Night),167
+345,Assam,2002,3-6 hrs. (Night),240
+346,Assam,2002,6-9 hrs (Day),322
+347,Assam,2002,9-12 hrs (Day),411
+348,Assam,2002,12-15 hrs (Day),335
+349,Assam,2002,15-18 hrs (Day),339
+350,Assam,2002,18-21 hrs (Night),272
+351,Assam,2002,21-24 hrs (Night),157
+352,Assam,2003,0-3 hrs. (Night),129
+353,Assam,2003,3-6 hrs. (Night),219
+354,Assam,2003,6-9 hrs (Day),295
+355,Assam,2003,9-12 hrs (Day),434
+356,Assam,2003,12-15 hrs (Day),330
+357,Assam,2003,15-18 hrs (Day),364
+358,Assam,2003,18-21 hrs (Night),247
+359,Assam,2003,21-24 hrs (Night),127
+360,Assam,2004,0-3 hrs. (Night),101
+361,Assam,2004,3-6 hrs. (Night),170
+362,Assam,2004,6-9 hrs (Day),287
+363,Assam,2004,9-12 hrs (Day),457
+364,Assam,2004,12-15 hrs (Day),340
+365,Assam,2004,15-18 hrs (Day),339
+366,Assam,2004,18-21 hrs (Night),204
+367,Assam,2004,21-24 hrs (Night),104
+368,Assam,2005,0-3 hrs. (Night),172
+369,Assam,2005,3-6 hrs. (Night),282
+370,Assam,2005,6-9 hrs (Day),584
+371,Assam,2005,9-12 hrs (Day),731
+372,Assam,2005,12-15 hrs (Day),664
+373,Assam,2005,15-18 hrs (Day),668
+374,Assam,2005,18-21 hrs (Night),365
+375,Assam,2005,21-24 hrs (Night),190
+376,Assam,2006,0-3 hrs. (Night),159
+377,Assam,2006,3-6 hrs. (Night),275
+378,Assam,2006,6-9 hrs (Day),679
+379,Assam,2006,9-12 hrs (Day),916
+380,Assam,2006,12-15 hrs (Day),753
+381,Assam,2006,15-18 hrs (Day),799
+382,Assam,2006,18-21 hrs (Night),313
+383,Assam,2006,21-24 hrs (Night),186
+384,Assam,2007,0-3 hrs. (Night),195
+385,Assam,2007,3-6 hrs. (Night),230
+386,Assam,2007,6-9 hrs (Day),690
+387,Assam,2007,9-12 hrs (Day),941
+388,Assam,2007,12-15 hrs (Day),752
+389,Assam,2007,15-18 hrs (Day),610
+390,Assam,2007,18-21 hrs (Night),362
+391,Assam,2007,21-24 hrs (Night),215
+392,Assam,2008,0-3 hrs. (Night),220
+393,Assam,2008,3-6 hrs. (Night),259
+394,Assam,2008,6-9 hrs (Day),777
+395,Assam,2008,9-12 hrs (Day),915
+396,Assam,2008,12-15 hrs (Day),747
+397,Assam,2008,15-18 hrs (Day),780
+398,Assam,2008,18-21 hrs (Night),369
+399,Assam,2008,21-24 hrs (Night),195
+400,Assam,2009,0-3 hrs. (Night),165
+401,Assam,2009,3-6 hrs. (Night),218
+402,Assam,2009,6-9 hrs (Day),667
+403,Assam,2009,9-12 hrs (Day),1039
+404,Assam,2009,12-15 hrs (Day),912
+405,Assam,2009,15-18 hrs (Day),961
+406,Assam,2009,18-21 hrs (Night),437
+407,Assam,2009,21-24 hrs (Night),186
+408,Assam,2010,0-3 hrs. (Night),231
+409,Assam,2010,3-6 hrs. (Night),255
+410,Assam,2010,6-9 hrs (Day),898
+411,Assam,2010,9-12 hrs (Day),1313
+412,Assam,2010,12-15 hrs (Day),972
+413,Assam,2010,15-18 hrs (Day),1058
+414,Assam,2010,18-21 hrs (Night),480
+415,Assam,2010,21-24 hrs (Night),278
+416,Assam,2011,0-3 hrs. (Night),275
+417,Assam,2011,3-6 hrs. (Night),216
+418,Assam,2011,6-9 hrs (Day),1110
+419,Assam,2011,9-12 hrs (Day),1494
+420,Assam,2011,12-15 hrs (Day),1166
+421,Assam,2011,15-18 hrs (Day),1118
+422,Assam,2011,18-21 hrs (Night),762
+423,Assam,2011,21-24 hrs (Night),428
+424,Assam,2012,0-3 hrs. (Night),176
+425,Assam,2012,3-6 hrs. (Night),206
+426,Assam,2012,6-9 hrs (Day),955
+427,Assam,2012,9-12 hrs (Day),1357
+428,Assam,2012,12-15 hrs (Day),1260
+429,Assam,2012,15-18 hrs (Day),1219
+430,Assam,2012,18-21 hrs (Night),905
+431,Assam,2012,21-24 hrs (Night),457
+432,Assam,2013,0-3 hrs. (Night),181
+433,Assam,2013,3-6 hrs. (Night),283
+434,Assam,2013,6-9 hrs (Day),1078
+435,Assam,2013,9-12 hrs (Day),1501
+436,Assam,2013,12-15 hrs (Day),1356
+437,Assam,2013,15-18 hrs (Day),1315
+438,Assam,2013,18-21 hrs (Night),942
+439,Assam,2013,21-24 hrs (Night),555
+440,Assam,2014,0-3 hrs. (Night),212
+441,Assam,2014,3-6 hrs. (Night),277
+442,Assam,2014,6-9 hrs (Day),939
+443,Assam,2014,9-12 hrs (Day),1475
+444,Assam,2014,12-15 hrs (Day),1225
+445,Assam,2014,15-18 hrs (Day),1438
+446,Assam,2014,18-21 hrs (Night),1023
+447,Assam,2014,21-24 hrs (Night),555
+448,Bihar,2001,0-3 hrs. (Night),344
+449,Bihar,2001,3-6 hrs. (Night),541
+450,Bihar,2001,6-9 hrs (Day),618
+451,Bihar,2001,9-12 hrs (Day),690
+452,Bihar,2001,12-15 hrs (Day),552
+453,Bihar,2001,15-18 hrs (Day),625
+454,Bihar,2001,18-21 hrs (Night),503
+455,Bihar,2001,21-24 hrs (Night),461
+456,Bihar,2002,0-3 hrs. (Night),297
+457,Bihar,2002,3-6 hrs. (Night),395
+458,Bihar,2002,6-9 hrs (Day),710
+459,Bihar,2002,9-12 hrs (Day),777
+460,Bihar,2002,12-15 hrs (Day),718
+461,Bihar,2002,15-18 hrs (Day),637
+462,Bihar,2002,18-21 hrs (Night),495
+463,Bihar,2002,21-24 hrs (Night),343
+464,Bihar,2003,0-3 hrs. (Night),374
+465,Bihar,2003,3-6 hrs. (Night),423
+466,Bihar,2003,6-9 hrs (Day),531
+467,Bihar,2003,9-12 hrs (Day),664
+468,Bihar,2003,12-15 hrs (Day),580
+469,Bihar,2003,15-18 hrs (Day),567
+470,Bihar,2003,18-21 hrs (Night),477
+471,Bihar,2003,21-24 hrs (Night),286
+472,Bihar,2004,0-3 hrs. (Night),286
+473,Bihar,2004,3-6 hrs. (Night),494
+474,Bihar,2004,6-9 hrs (Day),466
+475,Bihar,2004,9-12 hrs (Day),638
+476,Bihar,2004,12-15 hrs (Day),689
+477,Bihar,2004,15-18 hrs (Day),537
+478,Bihar,2004,18-21 hrs (Night),436
+479,Bihar,2004,21-24 hrs (Night),344
+480,Bihar,2005,0-3 hrs. (Night),233
+481,Bihar,2005,3-6 hrs. (Night),435
+482,Bihar,2005,6-9 hrs (Day),643
+483,Bihar,2005,9-12 hrs (Day),632
+484,Bihar,2005,12-15 hrs (Day),644
+485,Bihar,2005,15-18 hrs (Day),540
+486,Bihar,2005,18-21 hrs (Night),419
+487,Bihar,2005,21-24 hrs (Night),200
+488,Bihar,2006,0-3 hrs. (Night),263
+489,Bihar,2006,3-6 hrs. (Night),524
+490,Bihar,2006,6-9 hrs (Day),661
+491,Bihar,2006,9-12 hrs (Day),745
+492,Bihar,2006,12-15 hrs (Day),709
+493,Bihar,2006,15-18 hrs (Day),610
+494,Bihar,2006,18-21 hrs (Night),500
+495,Bihar,2006,21-24 hrs (Night),370
+496,Bihar,2007,0-3 hrs. (Night),356
+497,Bihar,2007,3-6 hrs. (Night),739
+498,Bihar,2007,6-9 hrs (Day),868
+499,Bihar,2007,9-12 hrs (Day),866
+500,Bihar,2007,12-15 hrs (Day),838
+501,Bihar,2007,15-18 hrs (Day),918
+502,Bihar,2007,18-21 hrs (Night),664
+503,Bihar,2007,21-24 hrs (Night),382
+504,Bihar,2008,0-3 hrs. (Night),361
+505,Bihar,2008,3-6 hrs. (Night),907
+506,Bihar,2008,6-9 hrs (Day),928
+507,Bihar,2008,9-12 hrs (Day),1006
+508,Bihar,2008,12-15 hrs (Day),845
+509,Bihar,2008,15-18 hrs (Day),1002
+510,Bihar,2008,18-21 hrs (Night),702
+511,Bihar,2008,21-24 hrs (Night),429
+512,Bihar,2009,0-3 hrs. (Night),703
+513,Bihar,2009,3-6 hrs. (Night),1052
+514,Bihar,2009,6-9 hrs (Day),1232
+515,Bihar,2009,9-12 hrs (Day),1215
+516,Bihar,2009,12-15 hrs (Day),1007
+517,Bihar,2009,15-18 hrs (Day),1335
+518,Bihar,2009,18-21 hrs (Night),1126
+519,Bihar,2009,21-24 hrs (Night),696
+520,Bihar,2010,0-3 hrs. (Night),720
+521,Bihar,2010,3-6 hrs. (Night),923
+522,Bihar,2010,6-9 hrs (Day),1037
+523,Bihar,2010,9-12 hrs (Day),1267
+524,Bihar,2010,12-15 hrs (Day),1210
+525,Bihar,2010,15-18 hrs (Day),1288
+526,Bihar,2010,18-21 hrs (Night),1168
+527,Bihar,2010,21-24 hrs (Night),828
+528,Bihar,2011,0-3 hrs. (Night),690
+529,Bihar,2011,3-6 hrs. (Night),903
+530,Bihar,2011,6-9 hrs (Day),1167
+531,Bihar,2011,9-12 hrs (Day),1512
+532,Bihar,2011,12-15 hrs (Day),1511
+533,Bihar,2011,15-18 hrs (Day),1492
+534,Bihar,2011,18-21 hrs (Night),1240
+535,Bihar,2011,21-24 hrs (Night),840
+536,Bihar,2012,0-3 hrs. (Night),666
+537,Bihar,2012,3-6 hrs. (Night),763
+538,Bihar,2012,6-9 hrs (Day),1733
+539,Bihar,2012,9-12 hrs (Day),1725
+540,Bihar,2012,12-15 hrs (Day),1653
+541,Bihar,2012,15-18 hrs (Day),1569
+542,Bihar,2012,18-21 hrs (Night),1269
+543,Bihar,2012,21-24 hrs (Night),942
+544,Bihar,2013,0-3 hrs. (Night),640
+545,Bihar,2013,3-6 hrs. (Night),1622
+546,Bihar,2013,6-9 hrs (Day),1555
+547,Bihar,2013,9-12 hrs (Day),1500
+548,Bihar,2013,12-15 hrs (Day),1369
+549,Bihar,2013,15-18 hrs (Day),1455
+550,Bihar,2013,18-21 hrs (Night),1337
+551,Bihar,2013,21-24 hrs (Night),720
+552,Bihar,2014,0-3 hrs. (Night),672
+553,Bihar,2014,3-6 hrs. (Night),987
+554,Bihar,2014,6-9 hrs (Day),1429
+555,Bihar,2014,9-12 hrs (Day),1429
+556,Bihar,2014,12-15 hrs (Day),1460
+557,Bihar,2014,15-18 hrs (Day),1421
+558,Bihar,2014,18-21 hrs (Night),1262
+559,Bihar,2014,21-24 hrs (Night),871
+560,Chandigarh,2001,0-3 hrs. (Night),15
+561,Chandigarh,2001,3-6 hrs. (Night),10
+562,Chandigarh,2001,6-9 hrs (Day),41
+563,Chandigarh,2001,9-12 hrs (Day),81
+564,Chandigarh,2001,12-15 hrs (Day),81
+565,Chandigarh,2001,15-18 hrs (Day),90
+566,Chandigarh,2001,18-21 hrs (Night),94
+567,Chandigarh,2001,21-24 hrs (Night),81
+568,Chandigarh,2002,0-3 hrs. (Night),40
+569,Chandigarh,2002,3-6 hrs. (Night),49
+570,Chandigarh,2002,6-9 hrs (Day),54
+571,Chandigarh,2002,9-12 hrs (Day),63
+572,Chandigarh,2002,12-15 hrs (Day),68
+573,Chandigarh,2002,15-18 hrs (Day),74
+574,Chandigarh,2002,18-21 hrs (Night),89
+575,Chandigarh,2002,21-24 hrs (Night),57
+576,Chandigarh,2003,0-3 hrs. (Night),17
+577,Chandigarh,2003,3-6 hrs. (Night),10
+578,Chandigarh,2003,6-9 hrs (Day),35
+579,Chandigarh,2003,9-12 hrs (Day),54
+580,Chandigarh,2003,12-15 hrs (Day),63
+581,Chandigarh,2003,15-18 hrs (Day),85
+582,Chandigarh,2003,18-21 hrs (Night),111
+583,Chandigarh,2003,21-24 hrs (Night),68
+584,Chandigarh,2004,0-3 hrs. (Night),20
+585,Chandigarh,2004,3-6 hrs. (Night),4
+586,Chandigarh,2004,6-9 hrs (Day),27
+587,Chandigarh,2004,9-12 hrs (Day),65
+588,Chandigarh,2004,12-15 hrs (Day),80
+589,Chandigarh,2004,15-18 hrs (Day),72
+590,Chandigarh,2004,18-21 hrs (Night),72
+591,Chandigarh,2004,21-24 hrs (Night),71
+592,Chandigarh,2005,0-3 hrs. (Night),23
+593,Chandigarh,2005,3-6 hrs. (Night),15
+594,Chandigarh,2005,6-9 hrs (Day),30
+595,Chandigarh,2005,9-12 hrs (Day),70
+596,Chandigarh,2005,12-15 hrs (Day),88
+597,Chandigarh,2005,15-18 hrs (Day),95
+598,Chandigarh,2005,18-21 hrs (Night),117
+599,Chandigarh,2005,21-24 hrs (Night),90
+600,Chandigarh,2006,0-3 hrs. (Night),28
+601,Chandigarh,2006,3-6 hrs. (Night),8
+602,Chandigarh,2006,6-9 hrs (Day),35
+603,Chandigarh,2006,9-12 hrs (Day),58
+604,Chandigarh,2006,12-15 hrs (Day),93
+605,Chandigarh,2006,15-18 hrs (Day),83
+606,Chandigarh,2006,18-21 hrs (Night),114
+607,Chandigarh,2006,21-24 hrs (Night),102
+608,Chandigarh,2007,0-3 hrs. (Night),29
+609,Chandigarh,2007,3-6 hrs. (Night),9
+610,Chandigarh,2007,6-9 hrs (Day),39
+611,Chandigarh,2007,9-12 hrs (Day),77
+612,Chandigarh,2007,12-15 hrs (Day),80
+613,Chandigarh,2007,15-18 hrs (Day),75
+614,Chandigarh,2007,18-21 hrs (Night),122
+615,Chandigarh,2007,21-24 hrs (Night),105
+616,Chandigarh,2008,0-3 hrs. (Night),27
+617,Chandigarh,2008,3-6 hrs. (Night),15
+618,Chandigarh,2008,6-9 hrs (Day),35
+619,Chandigarh,2008,9-12 hrs (Day),50
+620,Chandigarh,2008,12-15 hrs (Day),76
+621,Chandigarh,2008,15-18 hrs (Day),68
+622,Chandigarh,2008,18-21 hrs (Night),108
+623,Chandigarh,2008,21-24 hrs (Night),98
+624,Chandigarh,2009,0-3 hrs. (Night),29
+625,Chandigarh,2009,3-6 hrs. (Night),15
+626,Chandigarh,2009,6-9 hrs (Day),43
+627,Chandigarh,2009,9-12 hrs (Day),54
+628,Chandigarh,2009,12-15 hrs (Day),56
+629,Chandigarh,2009,15-18 hrs (Day),53
+630,Chandigarh,2009,18-21 hrs (Night),91
+631,Chandigarh,2009,21-24 hrs (Night),83
+632,Chandigarh,2010,0-3 hrs. (Night),17
+633,Chandigarh,2010,3-6 hrs. (Night),19
+634,Chandigarh,2010,6-9 hrs (Day),45
+635,Chandigarh,2010,9-12 hrs (Day),62
+636,Chandigarh,2010,12-15 hrs (Day),57
+637,Chandigarh,2010,15-18 hrs (Day),78
+638,Chandigarh,2010,18-21 hrs (Night),94
+639,Chandigarh,2010,21-24 hrs (Night),84
+640,Chandigarh,2011,0-3 hrs. (Night),33
+641,Chandigarh,2011,3-6 hrs. (Night),47
+642,Chandigarh,2011,6-9 hrs (Day),27
+643,Chandigarh,2011,9-12 hrs (Day),52
+644,Chandigarh,2011,12-15 hrs (Day),47
+645,Chandigarh,2011,15-18 hrs (Day),38
+646,Chandigarh,2011,18-21 hrs (Night),109
+647,Chandigarh,2011,21-24 hrs (Night),88
+648,Chandigarh,2012,0-3 hrs. (Night),22
+649,Chandigarh,2012,3-6 hrs. (Night),7
+650,Chandigarh,2012,6-9 hrs (Day),36
+651,Chandigarh,2012,9-12 hrs (Day),49
+652,Chandigarh,2012,12-15 hrs (Day),60
+653,Chandigarh,2012,15-18 hrs (Day),62
+654,Chandigarh,2012,18-21 hrs (Night),94
+655,Chandigarh,2012,21-24 hrs (Night),82
+656,Chandigarh,2013,0-3 hrs. (Night),41
+657,Chandigarh,2013,3-6 hrs. (Night),16
+658,Chandigarh,2013,6-9 hrs (Day),26
+659,Chandigarh,2013,9-12 hrs (Day),40
+660,Chandigarh,2013,12-15 hrs (Day),59
+661,Chandigarh,2013,15-18 hrs (Day),65
+662,Chandigarh,2013,18-21 hrs (Night),87
+663,Chandigarh,2013,21-24 hrs (Night),75
+664,Chandigarh,2014,0-3 hrs. (Night),32
+665,Chandigarh,2014,3-6 hrs. (Night),29
+666,Chandigarh,2014,6-9 hrs (Day),42
+667,Chandigarh,2014,9-12 hrs (Day),51
+668,Chandigarh,2014,12-15 hrs (Day),41
+669,Chandigarh,2014,15-18 hrs (Day),56
+670,Chandigarh,2014,18-21 hrs (Night),66
+671,Chandigarh,2014,21-24 hrs (Night),49
+672,Chhattisgarh,2001,0-3 hrs. (Night),279
+673,Chhattisgarh,2001,3-6 hrs. (Night),353
+674,Chhattisgarh,2001,6-9 hrs (Day),632
+675,Chhattisgarh,2001,9-12 hrs (Day),1026
+676,Chhattisgarh,2001,12-15 hrs (Day),762
+677,Chhattisgarh,2001,15-18 hrs (Day),859
+678,Chhattisgarh,2001,18-21 hrs (Night),684
+679,Chhattisgarh,2001,21-24 hrs (Night),392
+680,Chhattisgarh,2002,0-3 hrs. (Night),384
+681,Chhattisgarh,2002,3-6 hrs. (Night),528
+682,Chhattisgarh,2002,6-9 hrs (Day),847
+683,Chhattisgarh,2002,9-12 hrs (Day),813
+684,Chhattisgarh,2002,12-15 hrs (Day),892
+685,Chhattisgarh,2002,15-18 hrs (Day),927
+686,Chhattisgarh,2002,18-21 hrs (Night),794
+687,Chhattisgarh,2002,21-24 hrs (Night),616
+688,Chhattisgarh,2003,0-3 hrs. (Night),611
+689,Chhattisgarh,2003,3-6 hrs. (Night),732
+690,Chhattisgarh,2003,6-9 hrs (Day),859
+691,Chhattisgarh,2003,9-12 hrs (Day),1099
+692,Chhattisgarh,2003,12-15 hrs (Day),959
+693,Chhattisgarh,2003,15-18 hrs (Day),929
+694,Chhattisgarh,2003,18-21 hrs (Night),938
+695,Chhattisgarh,2003,21-24 hrs (Night),896
+696,Chhattisgarh,2004,0-3 hrs. (Night),359
+697,Chhattisgarh,2004,3-6 hrs. (Night),431
+698,Chhattisgarh,2004,6-9 hrs (Day),719
+699,Chhattisgarh,2004,9-12 hrs (Day),1165
+700,Chhattisgarh,2004,12-15 hrs (Day),868
+701,Chhattisgarh,2004,15-18 hrs (Day),910
+702,Chhattisgarh,2004,18-21 hrs (Night),818
+703,Chhattisgarh,2004,21-24 hrs (Night),805
+704,Chhattisgarh,2005,0-3 hrs. (Night),445
+705,Chhattisgarh,2005,3-6 hrs. (Night),712
+706,Chhattisgarh,2005,6-9 hrs (Day),782
+707,Chhattisgarh,2005,9-12 hrs (Day),1016
+708,Chhattisgarh,2005,12-15 hrs (Day),920
+709,Chhattisgarh,2005,15-18 hrs (Day),805
+710,Chhattisgarh,2005,18-21 hrs (Night),716
+711,Chhattisgarh,2005,21-24 hrs (Night),600
+712,Chhattisgarh,2006,0-3 hrs. (Night),531
+713,Chhattisgarh,2006,3-6 hrs. (Night),570
+714,Chhattisgarh,2006,6-9 hrs (Day),918
+715,Chhattisgarh,2006,9-12 hrs (Day),1229
+716,Chhattisgarh,2006,12-15 hrs (Day),1197
+717,Chhattisgarh,2006,15-18 hrs (Day),1069
+718,Chhattisgarh,2006,18-21 hrs (Night),958
+719,Chhattisgarh,2006,21-24 hrs (Night),639
+720,Chhattisgarh,2007,0-3 hrs. (Night),498
+721,Chhattisgarh,2007,3-6 hrs. (Night),846
+722,Chhattisgarh,2007,6-9 hrs (Day),1081
+723,Chhattisgarh,2007,9-12 hrs (Day),1230
+724,Chhattisgarh,2007,12-15 hrs (Day),1210
+725,Chhattisgarh,2007,15-18 hrs (Day),1173
+726,Chhattisgarh,2007,18-21 hrs (Night),990
+727,Chhattisgarh,2007,21-24 hrs (Night),809
+728,Chhattisgarh,2008,0-3 hrs. (Night),594
+729,Chhattisgarh,2008,3-6 hrs. (Night),957
+730,Chhattisgarh,2008,6-9 hrs (Day),1199
+731,Chhattisgarh,2008,9-12 hrs (Day),1452
+732,Chhattisgarh,2008,12-15 hrs (Day),1414
+733,Chhattisgarh,2008,15-18 hrs (Day),1141
+734,Chhattisgarh,2008,18-21 hrs (Night),1133
+735,Chhattisgarh,2008,21-24 hrs (Night),879
+736,Chhattisgarh,2009,0-3 hrs. (Night),414
+737,Chhattisgarh,2009,3-6 hrs. (Night),692
+738,Chhattisgarh,2009,6-9 hrs (Day),998
+739,Chhattisgarh,2009,9-12 hrs (Day),1408
+740,Chhattisgarh,2009,12-15 hrs (Day),1219
+741,Chhattisgarh,2009,15-18 hrs (Day),1165
+742,Chhattisgarh,2009,18-21 hrs (Night),1193
+743,Chhattisgarh,2009,21-24 hrs (Night),824
+744,Chhattisgarh,2010,0-3 hrs. (Night),579
+745,Chhattisgarh,2010,3-6 hrs. (Night),756
+746,Chhattisgarh,2010,6-9 hrs (Day),1007
+747,Chhattisgarh,2010,9-12 hrs (Day),1417
+748,Chhattisgarh,2010,12-15 hrs (Day),1254
+749,Chhattisgarh,2010,15-18 hrs (Day),1095
+750,Chhattisgarh,2010,18-21 hrs (Night),1034
+751,Chhattisgarh,2010,21-24 hrs (Night),660
+752,Chhattisgarh,2011,0-3 hrs. (Night),572
+753,Chhattisgarh,2011,3-6 hrs. (Night),814
+754,Chhattisgarh,2011,6-9 hrs (Day),1275
+755,Chhattisgarh,2011,9-12 hrs (Day),1514
+756,Chhattisgarh,2011,12-15 hrs (Day),1493
+757,Chhattisgarh,2011,15-18 hrs (Day),1385
+758,Chhattisgarh,2011,18-21 hrs (Night),1293
+759,Chhattisgarh,2011,21-24 hrs (Night),849
+760,Chhattisgarh,2012,0-3 hrs. (Night),1159
+761,Chhattisgarh,2012,3-6 hrs. (Night),1415
+762,Chhattisgarh,2012,6-9 hrs (Day),1708
+763,Chhattisgarh,2012,9-12 hrs (Day),1885
+764,Chhattisgarh,2012,12-15 hrs (Day),1936
+765,Chhattisgarh,2012,15-18 hrs (Day),1886
+766,Chhattisgarh,2012,18-21 hrs (Night),1995
+767,Chhattisgarh,2012,21-24 hrs (Night),1527
+768,Chhattisgarh,2013,0-3 hrs. (Night),1261
+769,Chhattisgarh,2013,3-6 hrs. (Night),1477
+770,Chhattisgarh,2013,6-9 hrs (Day),1691
+771,Chhattisgarh,2013,9-12 hrs (Day),1863
+772,Chhattisgarh,2013,12-15 hrs (Day),1889
+773,Chhattisgarh,2013,15-18 hrs (Day),2035
+774,Chhattisgarh,2013,18-21 hrs (Night),1993
+775,Chhattisgarh,2013,21-24 hrs (Night),1448
+776,Chhattisgarh,2014,0-3 hrs. (Night),648
+777,Chhattisgarh,2014,3-6 hrs. (Night),849
+778,Chhattisgarh,2014,6-9 hrs (Day),1469
+779,Chhattisgarh,2014,9-12 hrs (Day),1916
+780,Chhattisgarh,2014,12-15 hrs (Day),1702
+781,Chhattisgarh,2014,15-18 hrs (Day),2102
+782,Chhattisgarh,2014,18-21 hrs (Night),2072
+783,Chhattisgarh,2014,21-24 hrs (Night),1382
+784,D & N Haveli,2001,0-3 hrs. (Night),3
+785,D & N Haveli,2001,3-6 hrs. (Night),0
+786,D & N Haveli,2001,6-9 hrs (Day),13
+787,D & N Haveli,2001,9-12 hrs (Day),13
+788,D & N Haveli,2001,12-15 hrs (Day),13
+789,D & N Haveli,2001,15-18 hrs (Day),17
+790,D & N Haveli,2001,18-21 hrs (Night),20
+791,D & N Haveli,2001,21-24 hrs (Night),8
+792,D & N Haveli,2002,0-3 hrs. (Night),1
+793,D & N Haveli,2002,3-6 hrs. (Night),2
+794,D & N Haveli,2002,6-9 hrs (Day),11
+795,D & N Haveli,2002,9-12 hrs (Day),11
+796,D & N Haveli,2002,12-15 hrs (Day),7
+797,D & N Haveli,2002,15-18 hrs (Day),17
+798,D & N Haveli,2002,18-21 hrs (Night),19
+799,D & N Haveli,2002,21-24 hrs (Night),12
+800,D & N Haveli,2003,0-3 hrs. (Night),4
+801,D & N Haveli,2003,3-6 hrs. (Night),2
+802,D & N Haveli,2003,6-9 hrs (Day),4
+803,D & N Haveli,2003,9-12 hrs (Day),12
+804,D & N Haveli,2003,12-15 hrs (Day),10
+805,D & N Haveli,2003,15-18 hrs (Day),12
+806,D & N Haveli,2003,18-21 hrs (Night),17
+807,D & N Haveli,2003,21-24 hrs (Night),12
+808,D & N Haveli,2004,0-3 hrs. (Night),7
+809,D & N Haveli,2004,3-6 hrs. (Night),8
+810,D & N Haveli,2004,6-9 hrs (Day),7
+811,D & N Haveli,2004,9-12 hrs (Day),15
+812,D & N Haveli,2004,12-15 hrs (Day),19
+813,D & N Haveli,2004,15-18 hrs (Day),22
+814,D & N Haveli,2004,18-21 hrs (Night),22
+815,D & N Haveli,2004,21-24 hrs (Night),11
+816,D & N Haveli,2005,0-3 hrs. (Night),6
+817,D & N Haveli,2005,3-6 hrs. (Night),3
+818,D & N Haveli,2005,6-9 hrs (Day),14
+819,D & N Haveli,2005,9-12 hrs (Day),20
+820,D & N Haveli,2005,12-15 hrs (Day),17
+821,D & N Haveli,2005,15-18 hrs (Day),24
+822,D & N Haveli,2005,18-21 hrs (Night),32
+823,D & N Haveli,2005,21-24 hrs (Night),11
+824,D & N Haveli,2006,0-3 hrs. (Night),2
+825,D & N Haveli,2006,3-6 hrs. (Night),6
+826,D & N Haveli,2006,6-9 hrs (Day),8
+827,D & N Haveli,2006,9-12 hrs (Day),10
+828,D & N Haveli,2006,12-15 hrs (Day),17
+829,D & N Haveli,2006,15-18 hrs (Day),18
+830,D & N Haveli,2006,18-21 hrs (Night),28
+831,D & N Haveli,2006,21-24 hrs (Night),14
+832,D & N Haveli,2007,0-3 hrs. (Night),9
+833,D & N Haveli,2007,3-6 hrs. (Night),1
+834,D & N Haveli,2007,6-9 hrs (Day),10
+835,D & N Haveli,2007,9-12 hrs (Day),13
+836,D & N Haveli,2007,12-15 hrs (Day),16
+837,D & N Haveli,2007,15-18 hrs (Day),17
+838,D & N Haveli,2007,18-21 hrs (Night),29
+839,D & N Haveli,2007,21-24 hrs (Night),21
+840,D & N Haveli,2008,0-3 hrs. (Night),2
+841,D & N Haveli,2008,3-6 hrs. (Night),2
+842,D & N Haveli,2008,6-9 hrs (Day),7
+843,D & N Haveli,2008,9-12 hrs (Day),17
+844,D & N Haveli,2008,12-15 hrs (Day),15
+845,D & N Haveli,2008,15-18 hrs (Day),20
+846,D & N Haveli,2008,18-21 hrs (Night),30
+847,D & N Haveli,2008,21-24 hrs (Night),23
+848,D & N Haveli,2009,0-3 hrs. (Night),1
+849,D & N Haveli,2009,3-6 hrs. (Night),0
+850,D & N Haveli,2009,6-9 hrs (Day),5
+851,D & N Haveli,2009,9-12 hrs (Day),6
+852,D & N Haveli,2009,12-15 hrs (Day),3
+853,D & N Haveli,2009,15-18 hrs (Day),6
+854,D & N Haveli,2009,18-21 hrs (Night),14
+855,D & N Haveli,2009,21-24 hrs (Night),10
+856,D & N Haveli,2010,0-3 hrs. (Night),2
+857,D & N Haveli,2010,3-6 hrs. (Night),0
+858,D & N Haveli,2010,6-9 hrs (Day),11
+859,D & N Haveli,2010,9-12 hrs (Day),8
+860,D & N Haveli,2010,12-15 hrs (Day),11
+861,D & N Haveli,2010,15-18 hrs (Day),13
+862,D & N Haveli,2010,18-21 hrs (Night),21
+863,D & N Haveli,2010,21-24 hrs (Night),13
+864,D & N Haveli,2011,0-3 hrs. (Night),4
+865,D & N Haveli,2011,3-6 hrs. (Night),2
+866,D & N Haveli,2011,6-9 hrs (Day),8
+867,D & N Haveli,2011,9-12 hrs (Day),10
+868,D & N Haveli,2011,12-15 hrs (Day),13
+869,D & N Haveli,2011,15-18 hrs (Day),20
+870,D & N Haveli,2011,18-21 hrs (Night),32
+871,D & N Haveli,2011,21-24 hrs (Night),14
+872,D & N Haveli,2012,0-3 hrs. (Night),3
+873,D & N Haveli,2012,3-6 hrs. (Night),1
+874,D & N Haveli,2012,6-9 hrs (Day),9
+875,D & N Haveli,2012,9-12 hrs (Day),9
+876,D & N Haveli,2012,12-15 hrs (Day),11
+877,D & N Haveli,2012,15-18 hrs (Day),18
+878,D & N Haveli,2012,18-21 hrs (Night),21
+879,D & N Haveli,2012,21-24 hrs (Night),13
+880,D & N Haveli,2013,0-3 hrs. (Night),3
+881,D & N Haveli,2013,3-6 hrs. (Night),2
+882,D & N Haveli,2013,6-9 hrs (Day),7
+883,D & N Haveli,2013,9-12 hrs (Day),12
+884,D & N Haveli,2013,12-15 hrs (Day),20
+885,D & N Haveli,2013,15-18 hrs (Day),19
+886,D & N Haveli,2013,18-21 hrs (Night),19
+887,D & N Haveli,2013,21-24 hrs (Night),9
+888,D & N Haveli,2014,0-3 hrs. (Night),1
+889,D & N Haveli,2014,3-6 hrs. (Night),1
+890,D & N Haveli,2014,6-9 hrs (Day),8
+891,D & N Haveli,2014,9-12 hrs (Day),7
+892,D & N Haveli,2014,12-15 hrs (Day),13
+893,D & N Haveli,2014,15-18 hrs (Day),22
+894,D & N Haveli,2014,18-21 hrs (Night),27
+895,D & N Haveli,2014,21-24 hrs (Night),8
+896,Daman & Diu,2001,0-3 hrs. (Night),0
+897,Daman & Diu,2001,3-6 hrs. (Night),2
+898,Daman & Diu,2001,6-9 hrs (Day),2
+899,Daman & Diu,2001,9-12 hrs (Day),6
+900,Daman & Diu,2001,12-15 hrs (Day),9
+901,Daman & Diu,2001,15-18 hrs (Day),9
+902,Daman & Diu,2001,18-21 hrs (Night),5
+903,Daman & Diu,2001,21-24 hrs (Night),2
+904,Daman & Diu,2002,0-3 hrs. (Night),7
+905,Daman & Diu,2002,3-6 hrs. (Night),6
+906,Daman & Diu,2002,6-9 hrs (Day),7
+907,Daman & Diu,2002,9-12 hrs (Day),8
+908,Daman & Diu,2002,12-15 hrs (Day),7
+909,Daman & Diu,2002,15-18 hrs (Day),10
+910,Daman & Diu,2002,18-21 hrs (Night),13
+911,Daman & Diu,2002,21-24 hrs (Night),10
+912,Daman & Diu,2003,0-3 hrs. (Night),4
+913,Daman & Diu,2003,3-6 hrs. (Night),0
+914,Daman & Diu,2003,6-9 hrs (Day),3
+915,Daman & Diu,2003,9-12 hrs (Day),5
+916,Daman & Diu,2003,12-15 hrs (Day),10
+917,Daman & Diu,2003,15-18 hrs (Day),15
+918,Daman & Diu,2003,18-21 hrs (Night),17
+919,Daman & Diu,2003,21-24 hrs (Night),18
+920,Daman & Diu,2004,0-3 hrs. (Night),5
+921,Daman & Diu,2004,3-6 hrs. (Night),0
+922,Daman & Diu,2004,6-9 hrs (Day),4
+923,Daman & Diu,2004,9-12 hrs (Day),7
+924,Daman & Diu,2004,12-15 hrs (Day),6
+925,Daman & Diu,2004,15-18 hrs (Day),9
+926,Daman & Diu,2004,18-21 hrs (Night),10
+927,Daman & Diu,2004,21-24 hrs (Night),6
+928,Daman & Diu,2005,0-3 hrs. (Night),4
+929,Daman & Diu,2005,3-6 hrs. (Night),0
+930,Daman & Diu,2005,6-9 hrs (Day),1
+931,Daman & Diu,2005,9-12 hrs (Day),10
+932,Daman & Diu,2005,12-15 hrs (Day),9
+933,Daman & Diu,2005,15-18 hrs (Day),11
+934,Daman & Diu,2005,18-21 hrs (Night),12
+935,Daman & Diu,2005,21-24 hrs (Night),10
+936,Daman & Diu,2006,0-3 hrs. (Night),3
+937,Daman & Diu,2006,3-6 hrs. (Night),1
+938,Daman & Diu,2006,6-9 hrs (Day),5
+939,Daman & Diu,2006,9-12 hrs (Day),7
+940,Daman & Diu,2006,12-15 hrs (Day),10
+941,Daman & Diu,2006,15-18 hrs (Day),12
+942,Daman & Diu,2006,18-21 hrs (Night),7
+943,Daman & Diu,2006,21-24 hrs (Night),12
+944,Daman & Diu,2007,0-3 hrs. (Night),7
+945,Daman & Diu,2007,3-6 hrs. (Night),0
+946,Daman & Diu,2007,6-9 hrs (Day),1
+947,Daman & Diu,2007,9-12 hrs (Day),2
+948,Daman & Diu,2007,12-15 hrs (Day),14
+949,Daman & Diu,2007,15-18 hrs (Day),10
+950,Daman & Diu,2007,18-21 hrs (Night),17
+951,Daman & Diu,2007,21-24 hrs (Night),9
+952,Daman & Diu,2008,0-3 hrs. (Night),4
+953,Daman & Diu,2008,3-6 hrs. (Night),1
+954,Daman & Diu,2008,6-9 hrs (Day),3
+955,Daman & Diu,2008,9-12 hrs (Day),6
+956,Daman & Diu,2008,12-15 hrs (Day),6
+957,Daman & Diu,2008,15-18 hrs (Day),9
+958,Daman & Diu,2008,18-21 hrs (Night),11
+959,Daman & Diu,2008,21-24 hrs (Night),10
+960,Daman & Diu,2009,0-3 hrs. (Night),1
+961,Daman & Diu,2009,3-6 hrs. (Night),0
+962,Daman & Diu,2009,6-9 hrs (Day),3
+963,Daman & Diu,2009,9-12 hrs (Day),2
+964,Daman & Diu,2009,12-15 hrs (Day),5
+965,Daman & Diu,2009,15-18 hrs (Day),5
+966,Daman & Diu,2009,18-21 hrs (Night),4
+967,Daman & Diu,2009,21-24 hrs (Night),1
+968,Daman & Diu,2010,0-3 hrs. (Night),1
+969,Daman & Diu,2010,3-6 hrs. (Night),1
+970,Daman & Diu,2010,6-9 hrs (Day),1
+971,Daman & Diu,2010,9-12 hrs (Day),4
+972,Daman & Diu,2010,12-15 hrs (Day),5
+973,Daman & Diu,2010,15-18 hrs (Day),8
+974,Daman & Diu,2010,18-21 hrs (Night),8
+975,Daman & Diu,2010,21-24 hrs (Night),8
+976,Daman & Diu,2011,0-3 hrs. (Night),2
+977,Daman & Diu,2011,3-6 hrs. (Night),0
+978,Daman & Diu,2011,6-9 hrs (Day),2
+979,Daman & Diu,2011,9-12 hrs (Day),4
+980,Daman & Diu,2011,12-15 hrs (Day),7
+981,Daman & Diu,2011,15-18 hrs (Day),3
+982,Daman & Diu,2011,18-21 hrs (Night),2
+983,Daman & Diu,2011,21-24 hrs (Night),1
+984,Daman & Diu,2012,0-3 hrs. (Night),1
+985,Daman & Diu,2012,3-6 hrs. (Night),1
+986,Daman & Diu,2012,6-9 hrs (Day),4
+987,Daman & Diu,2012,9-12 hrs (Day),4
+988,Daman & Diu,2012,12-15 hrs (Day),9
+989,Daman & Diu,2012,15-18 hrs (Day),11
+990,Daman & Diu,2012,18-21 hrs (Night),13
+991,Daman & Diu,2012,21-24 hrs (Night),7
+992,Daman & Diu,2013,0-3 hrs. (Night),3
+993,Daman & Diu,2013,3-6 hrs. (Night),0
+994,Daman & Diu,2013,6-9 hrs (Day),1
+995,Daman & Diu,2013,9-12 hrs (Day),4
+996,Daman & Diu,2013,12-15 hrs (Day),4
+997,Daman & Diu,2013,15-18 hrs (Day),7
+998,Daman & Diu,2013,18-21 hrs (Night),5
+999,Daman & Diu,2013,21-24 hrs (Night),6
+1000,Daman & Diu,2014,0-3 hrs. (Night),3
+1001,Daman & Diu,2014,3-6 hrs. (Night),0
+1002,Daman & Diu,2014,6-9 hrs (Day),4
+1003,Daman & Diu,2014,9-12 hrs (Day),6
+1004,Daman & Diu,2014,12-15 hrs (Day),5
+1005,Daman & Diu,2014,15-18 hrs (Day),7
+1006,Daman & Diu,2014,18-21 hrs (Night),12
+1007,Daman & Diu,2014,21-24 hrs (Night),2
+1008,Delhi (Ut),2001,0-3 hrs. (Night),998
+1009,Delhi (Ut),2001,3-6 hrs. (Night),762
+1010,Delhi (Ut),2001,6-9 hrs (Day),1102
+1011,Delhi (Ut),2001,9-12 hrs (Day),1176
+1012,Delhi (Ut),2001,12-15 hrs (Day),1140
+1013,Delhi (Ut),2001,15-18 hrs (Day),1189
+1014,Delhi (Ut),2001,18-21 hrs (Night),1393
+1015,Delhi (Ut),2001,21-24 hrs (Night),1522
+1016,Delhi (Ut),2002,0-3 hrs. (Night),788
+1017,Delhi (Ut),2002,3-6 hrs. (Night),527
+1018,Delhi (Ut),2002,6-9 hrs (Day),931
+1019,Delhi (Ut),2002,9-12 hrs (Day),1132
+1020,Delhi (Ut),2002,12-15 hrs (Day),1148
+1021,Delhi (Ut),2002,15-18 hrs (Day),1200
+1022,Delhi (Ut),2002,18-21 hrs (Night),1491
+1023,Delhi (Ut),2002,21-24 hrs (Night),1493
+1024,Delhi (Ut),2003,0-3 hrs. (Night),764
+1025,Delhi (Ut),2003,3-6 hrs. (Night),565
+1026,Delhi (Ut),2003,6-9 hrs (Day),906
+1027,Delhi (Ut),2003,9-12 hrs (Day),1091
+1028,Delhi (Ut),2003,12-15 hrs (Day),1151
+1029,Delhi (Ut),2003,15-18 hrs (Day),1248
+1030,Delhi (Ut),2003,18-21 hrs (Night),1507
+1031,Delhi (Ut),2003,21-24 hrs (Night),1637
+1032,Delhi (Ut),2004,0-3 hrs. (Night),836
+1033,Delhi (Ut),2004,3-6 hrs. (Night),709
+1034,Delhi (Ut),2004,6-9 hrs (Day),817
+1035,Delhi (Ut),2004,9-12 hrs (Day),1189
+1036,Delhi (Ut),2004,12-15 hrs (Day),1230
+1037,Delhi (Ut),2004,15-18 hrs (Day),1206
+1038,Delhi (Ut),2004,18-21 hrs (Night),1617
+1039,Delhi (Ut),2004,21-24 hrs (Night),1506
+1040,Delhi (Ut),2005,0-3 hrs. (Night),825
+1041,Delhi (Ut),2005,3-6 hrs. (Night),640
+1042,Delhi (Ut),2005,6-9 hrs (Day),988
+1043,Delhi (Ut),2005,9-12 hrs (Day),1250
+1044,Delhi (Ut),2005,12-15 hrs (Day),1264
+1045,Delhi (Ut),2005,15-18 hrs (Day),1387
+1046,Delhi (Ut),2005,18-21 hrs (Night),1708
+1047,Delhi (Ut),2005,21-24 hrs (Night),1518
+1048,Delhi (Ut),2006,0-3 hrs. (Night),964
+1049,Delhi (Ut),2006,3-6 hrs. (Night),743
+1050,Delhi (Ut),2006,6-9 hrs (Day),946
+1051,Delhi (Ut),2006,9-12 hrs (Day),1270
+1052,Delhi (Ut),2006,12-15 hrs (Day),1207
+1053,Delhi (Ut),2006,15-18 hrs (Day),1328
+1054,Delhi (Ut),2006,18-21 hrs (Night),1592
+1055,Delhi (Ut),2006,21-24 hrs (Night),1649
+1056,Delhi (Ut),2007,0-3 hrs. (Night),1183
+1057,Delhi (Ut),2007,3-6 hrs. (Night),902
+1058,Delhi (Ut),2007,6-9 hrs (Day),1087
+1059,Delhi (Ut),2007,9-12 hrs (Day),1296
+1060,Delhi (Ut),2007,12-15 hrs (Day),1250
+1061,Delhi (Ut),2007,15-18 hrs (Day),1434
+1062,Delhi (Ut),2007,18-21 hrs (Night),1818
+1063,Delhi (Ut),2007,21-24 hrs (Night),1558
+1064,Delhi (Ut),2008,0-3 hrs. (Night),839
+1065,Delhi (Ut),2008,3-6 hrs. (Night),730
+1066,Delhi (Ut),2008,6-9 hrs (Day),865
+1067,Delhi (Ut),2008,9-12 hrs (Day),1003
+1068,Delhi (Ut),2008,12-15 hrs (Day),1138
+1069,Delhi (Ut),2008,15-18 hrs (Day),1255
+1070,Delhi (Ut),2008,18-21 hrs (Night),1373
+1071,Delhi (Ut),2008,21-24 hrs (Night),1363
+1072,Delhi (Ut),2009,0-3 hrs. (Night),644
+1073,Delhi (Ut),2009,3-6 hrs. (Night),574
+1074,Delhi (Ut),2009,6-9 hrs (Day),886
+1075,Delhi (Ut),2009,9-12 hrs (Day),944
+1076,Delhi (Ut),2009,12-15 hrs (Day),1069
+1077,Delhi (Ut),2009,15-18 hrs (Day),1066
+1078,Delhi (Ut),2009,18-21 hrs (Night),1306
+1079,Delhi (Ut),2009,21-24 hrs (Night),1125
+1080,Delhi (Ut),2010,0-3 hrs. (Night),597
+1081,Delhi (Ut),2010,3-6 hrs. (Night),502
+1082,Delhi (Ut),2010,6-9 hrs (Day),778
+1083,Delhi (Ut),2010,9-12 hrs (Day),905
+1084,Delhi (Ut),2010,12-15 hrs (Day),928
+1085,Delhi (Ut),2010,15-18 hrs (Day),998
+1086,Delhi (Ut),2010,18-21 hrs (Night),1234
+1087,Delhi (Ut),2010,21-24 hrs (Night),1278
+1088,Delhi (Ut),2011,0-3 hrs. (Night),607
+1089,Delhi (Ut),2011,3-6 hrs. (Night),535
+1090,Delhi (Ut),2011,6-9 hrs (Day),794
+1091,Delhi (Ut),2011,9-12 hrs (Day),936
+1092,Delhi (Ut),2011,12-15 hrs (Day),963
+1093,Delhi (Ut),2011,15-18 hrs (Day),1087
+1094,Delhi (Ut),2011,18-21 hrs (Night),1100
+1095,Delhi (Ut),2011,21-24 hrs (Night),1258
+1096,Delhi (Ut),2012,0-3 hrs. (Night),638
+1097,Delhi (Ut),2012,3-6 hrs. (Night),509
+1098,Delhi (Ut),2012,6-9 hrs (Day),648
+1099,Delhi (Ut),2012,9-12 hrs (Day),872
+1100,Delhi (Ut),2012,12-15 hrs (Day),920
+1101,Delhi (Ut),2012,15-18 hrs (Day),1039
+1102,Delhi (Ut),2012,18-21 hrs (Night),1131
+1103,Delhi (Ut),2012,21-24 hrs (Night),1180
+1104,Delhi (Ut),2013,0-3 hrs. (Night),764
+1105,Delhi (Ut),2013,3-6 hrs. (Night),662
+1106,Delhi (Ut),2013,6-9 hrs (Day),718
+1107,Delhi (Ut),2013,9-12 hrs (Day),828
+1108,Delhi (Ut),2013,12-15 hrs (Day),896
+1109,Delhi (Ut),2013,15-18 hrs (Day),981
+1110,Delhi (Ut),2013,18-21 hrs (Night),1341
+1111,Delhi (Ut),2013,21-24 hrs (Night),1379
+1112,Delhi (Ut),2014,0-3 hrs. (Night),757
+1113,Delhi (Ut),2014,3-6 hrs. (Night),581
+1114,Delhi (Ut),2014,6-9 hrs (Day),867
+1115,Delhi (Ut),2014,9-12 hrs (Day),925
+1116,Delhi (Ut),2014,12-15 hrs (Day),909
+1117,Delhi (Ut),2014,15-18 hrs (Day),1208
+1118,Delhi (Ut),2014,18-21 hrs (Night),1502
+1119,Delhi (Ut),2014,21-24 hrs (Night),1561
+1120,Goa,2001,0-3 hrs. (Night),52
+1121,Goa,2001,3-6 hrs. (Night),33
+1122,Goa,2001,6-9 hrs (Day),152
+1123,Goa,2001,9-12 hrs (Day),248
+1124,Goa,2001,12-15 hrs (Day),233
+1125,Goa,2001,15-18 hrs (Day),299
+1126,Goa,2001,18-21 hrs (Night),229
+1127,Goa,2001,21-24 hrs (Night),129
+1128,Goa,2002,0-3 hrs. (Night),57
+1129,Goa,2002,3-6 hrs. (Night),44
+1130,Goa,2002,6-9 hrs (Day),147
+1131,Goa,2002,9-12 hrs (Day),204
+1132,Goa,2002,12-15 hrs (Day),173
+1133,Goa,2002,15-18 hrs (Day),209
+1134,Goa,2002,18-21 hrs (Night),239
+1135,Goa,2002,21-24 hrs (Night),128
+1136,Goa,2003,0-3 hrs. (Night),81
+1137,Goa,2003,3-6 hrs. (Night),38
+1138,Goa,2003,6-9 hrs (Day),144
+1139,Goa,2003,9-12 hrs (Day),284
+1140,Goa,2003,12-15 hrs (Day),306
+1141,Goa,2003,15-18 hrs (Day),345
+1142,Goa,2003,18-21 hrs (Night),323
+1143,Goa,2003,21-24 hrs (Night),157
+1144,Goa,2004,0-3 hrs. (Night),74
+1145,Goa,2004,3-6 hrs. (Night),33
+1146,Goa,2004,6-9 hrs (Day),161
+1147,Goa,2004,9-12 hrs (Day),220
+1148,Goa,2004,12-15 hrs (Day),274
+1149,Goa,2004,15-18 hrs (Day),263
+1150,Goa,2004,18-21 hrs (Night),248
+1151,Goa,2004,21-24 hrs (Night),269
+1152,Goa,2005,0-3 hrs. (Night),56
+1153,Goa,2005,3-6 hrs. (Night),38
+1154,Goa,2005,6-9 hrs (Day),110
+1155,Goa,2005,9-12 hrs (Day),165
+1156,Goa,2005,12-15 hrs (Day),187
+1157,Goa,2005,15-18 hrs (Day),208
+1158,Goa,2005,18-21 hrs (Night),191
+1159,Goa,2005,21-24 hrs (Night),114
+1160,Goa,2006,0-3 hrs. (Night),200
+1161,Goa,2006,3-6 hrs. (Night),138
+1162,Goa,2006,6-9 hrs (Day),335
+1163,Goa,2006,9-12 hrs (Day),559
+1164,Goa,2006,12-15 hrs (Day),702
+1165,Goa,2006,15-18 hrs (Day),712
+1166,Goa,2006,18-21 hrs (Night),692
+1167,Goa,2006,21-24 hrs (Night),411
+1168,Goa,2007,0-3 hrs. (Night),212
+1169,Goa,2007,3-6 hrs. (Night),117
+1170,Goa,2007,6-9 hrs (Day),407
+1171,Goa,2007,9-12 hrs (Day),599
+1172,Goa,2007,12-15 hrs (Day),719
+1173,Goa,2007,15-18 hrs (Day),798
+1174,Goa,2007,18-21 hrs (Night),755
+1175,Goa,2007,21-24 hrs (Night),415
+1176,Goa,2008,0-3 hrs. (Night),194
+1177,Goa,2008,3-6 hrs. (Night),139
+1178,Goa,2008,6-9 hrs (Day),378
+1179,Goa,2008,9-12 hrs (Day),618
+1180,Goa,2008,12-15 hrs (Day),772
+1181,Goa,2008,15-18 hrs (Day),828
+1182,Goa,2008,18-21 hrs (Night),760
+1183,Goa,2008,21-24 hrs (Night),490
+1184,Goa,2009,0-3 hrs. (Night),200
+1185,Goa,2009,3-6 hrs. (Night),132
+1186,Goa,2009,6-9 hrs (Day),410
+1187,Goa,2009,9-12 hrs (Day),635
+1188,Goa,2009,12-15 hrs (Day),740
+1189,Goa,2009,15-18 hrs (Day),837
+1190,Goa,2009,18-21 hrs (Night),756
+1191,Goa,2009,21-24 hrs (Night),460
+1192,Goa,2010,0-3 hrs. (Night),195
+1193,Goa,2010,3-6 hrs. (Night),164
+1194,Goa,2010,6-9 hrs (Day),443
+1195,Goa,2010,9-12 hrs (Day),736
+1196,Goa,2010,12-15 hrs (Day),848
+1197,Goa,2010,15-18 hrs (Day),873
+1198,Goa,2010,18-21 hrs (Night),876
+1199,Goa,2010,21-24 hrs (Night),439
+1200,Goa,2011,0-3 hrs. (Night),261
+1201,Goa,2011,3-6 hrs. (Night),178
+1202,Goa,2011,6-9 hrs (Day),431
+1203,Goa,2011,9-12 hrs (Day),749
+1204,Goa,2011,12-15 hrs (Day),783
+1205,Goa,2011,15-18 hrs (Day),901
+1206,Goa,2011,18-21 hrs (Night),812
+1207,Goa,2011,21-24 hrs (Night),446
+1208,Goa,2012,0-3 hrs. (Night),208
+1209,Goa,2012,3-6 hrs. (Night),155
+1210,Goa,2012,6-9 hrs (Day),424
+1211,Goa,2012,9-12 hrs (Day),666
+1212,Goa,2012,12-15 hrs (Day),807
+1213,Goa,2012,15-18 hrs (Day),799
+1214,Goa,2012,18-21 hrs (Night),775
+1215,Goa,2012,21-24 hrs (Night),454
+1216,Goa,2013,0-3 hrs. (Night),226
+1217,Goa,2013,3-6 hrs. (Night),175
+1218,Goa,2013,6-9 hrs (Day),374
+1219,Goa,2013,9-12 hrs (Day),703
+1220,Goa,2013,12-15 hrs (Day),785
+1221,Goa,2013,15-18 hrs (Day),819
+1222,Goa,2013,18-21 hrs (Night),753
+1223,Goa,2013,21-24 hrs (Night),458
+1224,Goa,2014,0-3 hrs. (Night),189
+1225,Goa,2014,3-6 hrs. (Night),173
+1226,Goa,2014,6-9 hrs (Day),371
+1227,Goa,2014,9-12 hrs (Day),712
+1228,Goa,2014,12-15 hrs (Day),752
+1229,Goa,2014,15-18 hrs (Day),791
+1230,Goa,2014,18-21 hrs (Night),785
+1231,Goa,2014,21-24 hrs (Night),457
+1232,Gujarat,2001,0-3 hrs. (Night),1267
+1233,Gujarat,2001,3-6 hrs. (Night),1338
+1234,Gujarat,2001,6-9 hrs (Day),2316
+1235,Gujarat,2001,9-12 hrs (Day),3263
+1236,Gujarat,2001,12-15 hrs (Day),3119
+1237,Gujarat,2001,15-18 hrs (Day),3163
+1238,Gujarat,2001,18-21 hrs (Night),3161
+1239,Gujarat,2001,21-24 hrs (Night),2181
+1240,Gujarat,2002,0-3 hrs. (Night),1106
+1241,Gujarat,2002,3-6 hrs. (Night),1120
+1242,Gujarat,2002,6-9 hrs (Day),2239
+1243,Gujarat,2002,9-12 hrs (Day),3150
+1244,Gujarat,2002,12-15 hrs (Day),2968
+1245,Gujarat,2002,15-18 hrs (Day),3030
+1246,Gujarat,2002,18-21 hrs (Night),2985
+1247,Gujarat,2002,21-24 hrs (Night),2142
+1248,Gujarat,2003,0-3 hrs. (Night),1070
+1249,Gujarat,2003,3-6 hrs. (Night),1238
+1250,Gujarat,2003,6-9 hrs (Day),2170
+1251,Gujarat,2003,9-12 hrs (Day),3094
+1252,Gujarat,2003,12-15 hrs (Day),2733
+1253,Gujarat,2003,15-18 hrs (Day),2881
+1254,Gujarat,2003,18-21 hrs (Night),2998
+1255,Gujarat,2003,21-24 hrs (Night),1918
+1256,Gujarat,2004,0-3 hrs. (Night),1152
+1257,Gujarat,2004,3-6 hrs. (Night),1339
+1258,Gujarat,2004,6-9 hrs (Day),2109
+1259,Gujarat,2004,9-12 hrs (Day),2895
+1260,Gujarat,2004,12-15 hrs (Day),2856
+1261,Gujarat,2004,15-18 hrs (Day),3079
+1262,Gujarat,2004,18-21 hrs (Night),2994
+1263,Gujarat,2004,21-24 hrs (Night),2054
+1264,Gujarat,2005,0-3 hrs. (Night),1428
+1265,Gujarat,2005,3-6 hrs. (Night),1324
+1266,Gujarat,2005,6-9 hrs (Day),2091
+1267,Gujarat,2005,9-12 hrs (Day),2860
+1268,Gujarat,2005,12-15 hrs (Day),2917
+1269,Gujarat,2005,15-18 hrs (Day),2846
+1270,Gujarat,2005,18-21 hrs (Night),2928
+1271,Gujarat,2005,21-24 hrs (Night),2147
+1272,Gujarat,2006,0-3 hrs. (Night),1277
+1273,Gujarat,2006,3-6 hrs. (Night),1533
+1274,Gujarat,2006,6-9 hrs (Day),2216
+1275,Gujarat,2006,9-12 hrs (Day),2837
+1276,Gujarat,2006,12-15 hrs (Day),2968
+1277,Gujarat,2006,15-18 hrs (Day),2960
+1278,Gujarat,2006,18-21 hrs (Night),3029
+1279,Gujarat,2006,21-24 hrs (Night),2124
+1280,Gujarat,2007,0-3 hrs. (Night),1468
+1281,Gujarat,2007,3-6 hrs. (Night),2013
+1282,Gujarat,2007,6-9 hrs (Day),2503
+1283,Gujarat,2007,9-12 hrs (Day),3085
+1284,Gujarat,2007,12-15 hrs (Day),3009
+1285,Gujarat,2007,15-18 hrs (Day),3419
+1286,Gujarat,2007,18-21 hrs (Night),3319
+1287,Gujarat,2007,21-24 hrs (Night),2617
+1288,Gujarat,2008,0-3 hrs. (Night),1432
+1289,Gujarat,2008,3-6 hrs. (Night),1631
+1290,Gujarat,2008,6-9 hrs (Day),2535
+1291,Gujarat,2008,9-12 hrs (Day),3263
+1292,Gujarat,2008,12-15 hrs (Day),3169
+1293,Gujarat,2008,15-18 hrs (Day),3323
+1294,Gujarat,2008,18-21 hrs (Night),3449
+1295,Gujarat,2008,21-24 hrs (Night),2225
+1296,Gujarat,2009,0-3 hrs. (Night),1239
+1297,Gujarat,2009,3-6 hrs. (Night),1640
+1298,Gujarat,2009,6-9 hrs (Day),2545
+1299,Gujarat,2009,9-12 hrs (Day),3110
+1300,Gujarat,2009,12-15 hrs (Day),2918
+1301,Gujarat,2009,15-18 hrs (Day),3282
+1302,Gujarat,2009,18-21 hrs (Night),3255
+1303,Gujarat,2009,21-24 hrs (Night),2112
+1304,Gujarat,2010,0-3 hrs. (Night),1348
+1305,Gujarat,2010,3-6 hrs. (Night),1670
+1306,Gujarat,2010,6-9 hrs (Day),2507
+1307,Gujarat,2010,9-12 hrs (Day),3232
+1308,Gujarat,2010,12-15 hrs (Day),2968
+1309,Gujarat,2010,15-18 hrs (Day),3267
+1310,Gujarat,2010,18-21 hrs (Night),3341
+1311,Gujarat,2010,21-24 hrs (Night),2165
+1312,Gujarat,2011,0-3 hrs. (Night),1962
+1313,Gujarat,2011,3-6 hrs. (Night),2282
+1314,Gujarat,2011,6-9 hrs (Day),3571
+1315,Gujarat,2011,9-12 hrs (Day),4941
+1316,Gujarat,2011,12-15 hrs (Day),4595
+1317,Gujarat,2011,15-18 hrs (Day),4751
+1318,Gujarat,2011,18-21 hrs (Night),4767
+1319,Gujarat,2011,21-24 hrs (Night),3330
+1320,Gujarat,2012,0-3 hrs. (Night),2085
+1321,Gujarat,2012,3-6 hrs. (Night),2603
+1322,Gujarat,2012,6-9 hrs (Day),3286
+1323,Gujarat,2012,9-12 hrs (Day),4190
+1324,Gujarat,2012,12-15 hrs (Day),3802
+1325,Gujarat,2012,15-18 hrs (Day),4045
+1326,Gujarat,2012,18-21 hrs (Night),4403
+1327,Gujarat,2012,21-24 hrs (Night),2853
+1328,Gujarat,2013,0-3 hrs. (Night),1747
+1329,Gujarat,2013,3-6 hrs. (Night),2023
+1330,Gujarat,2013,6-9 hrs (Day),2910
+1331,Gujarat,2013,9-12 hrs (Day),3836
+1332,Gujarat,2013,12-15 hrs (Day),3681
+1333,Gujarat,2013,15-18 hrs (Day),4003
+1334,Gujarat,2013,18-21 hrs (Night),4134
+1335,Gujarat,2013,21-24 hrs (Night),2701
+1336,Gujarat,2014,0-3 hrs. (Night),1232
+1337,Gujarat,2014,3-6 hrs. (Night),1541
+1338,Gujarat,2014,6-9 hrs (Day),2496
+1339,Gujarat,2014,9-12 hrs (Day),3595
+1340,Gujarat,2014,12-15 hrs (Day),3328
+1341,Gujarat,2014,15-18 hrs (Day),3735
+1342,Gujarat,2014,18-21 hrs (Night),3791
+1343,Gujarat,2014,21-24 hrs (Night),2434
+1344,Haryana,2001,0-3 hrs. (Night),407
+1345,Haryana,2001,3-6 hrs. (Night),625
+1346,Haryana,2001,6-9 hrs (Day),1003
+1347,Haryana,2001,9-12 hrs (Day),1015
+1348,Haryana,2001,12-15 hrs (Day),894
+1349,Haryana,2001,15-18 hrs (Day),882
+1350,Haryana,2001,18-21 hrs (Night),832
+1351,Haryana,2001,21-24 hrs (Night),715
+1352,Haryana,2002,0-3 hrs. (Night),615
+1353,Haryana,2002,3-6 hrs. (Night),740
+1354,Haryana,2002,6-9 hrs (Day),1070
+1355,Haryana,2002,9-12 hrs (Day),1004
+1356,Haryana,2002,12-15 hrs (Day),877
+1357,Haryana,2002,15-18 hrs (Day),992
+1358,Haryana,2002,18-21 hrs (Night),1006
+1359,Haryana,2002,21-24 hrs (Night),783
+1360,Haryana,2003,0-3 hrs. (Night),709
+1361,Haryana,2003,3-6 hrs. (Night),910
+1362,Haryana,2003,6-9 hrs (Day),793
+1363,Haryana,2003,9-12 hrs (Day),888
+1364,Haryana,2003,12-15 hrs (Day),823
+1365,Haryana,2003,15-18 hrs (Day),837
+1366,Haryana,2003,18-21 hrs (Night),826
+1367,Haryana,2003,21-24 hrs (Night),638
+1368,Haryana,2004,0-3 hrs. (Night),845
+1369,Haryana,2004,3-6 hrs. (Night),1014
+1370,Haryana,2004,6-9 hrs (Day),1042
+1371,Haryana,2004,9-12 hrs (Day),1069
+1372,Haryana,2004,12-15 hrs (Day),998
+1373,Haryana,2004,15-18 hrs (Day),989
+1374,Haryana,2004,18-21 hrs (Night),1070
+1375,Haryana,2004,21-24 hrs (Night),881
+1376,Haryana,2005,0-3 hrs. (Night),760
+1377,Haryana,2005,3-6 hrs. (Night),859
+1378,Haryana,2005,6-9 hrs (Day),1020
+1379,Haryana,2005,9-12 hrs (Day),962
+1380,Haryana,2005,12-15 hrs (Day),898
+1381,Haryana,2005,15-18 hrs (Day),1065
+1382,Haryana,2005,18-21 hrs (Night),1165
+1383,Haryana,2005,21-24 hrs (Night),953
+1384,Haryana,2006,0-3 hrs. (Night),1155
+1385,Haryana,2006,3-6 hrs. (Night),1112
+1386,Haryana,2006,6-9 hrs (Day),1277
+1387,Haryana,2006,9-12 hrs (Day),1191
+1388,Haryana,2006,12-15 hrs (Day),1114
+1389,Haryana,2006,15-18 hrs (Day),1317
+1390,Haryana,2006,18-21 hrs (Night),1760
+1391,Haryana,2006,21-24 hrs (Night),1336
+1392,Haryana,2007,0-3 hrs. (Night),1080
+1393,Haryana,2007,3-6 hrs. (Night),1033
+1394,Haryana,2007,6-9 hrs (Day),1313
+1395,Haryana,2007,9-12 hrs (Day),1312
+1396,Haryana,2007,12-15 hrs (Day),1267
+1397,Haryana,2007,15-18 hrs (Day),1407
+1398,Haryana,2007,18-21 hrs (Night),1767
+1399,Haryana,2007,21-24 hrs (Night),1137
+1400,Haryana,2008,0-3 hrs. (Night),1089
+1401,Haryana,2008,3-6 hrs. (Night),1236
+1402,Haryana,2008,6-9 hrs (Day),1367
+1403,Haryana,2008,9-12 hrs (Day),1374
+1404,Haryana,2008,12-15 hrs (Day),1380
+1405,Haryana,2008,15-18 hrs (Day),1622
+1406,Haryana,2008,18-21 hrs (Night),1911
+1407,Haryana,2008,21-24 hrs (Night),1262
+1408,Haryana,2009,0-3 hrs. (Night),860
+1409,Haryana,2009,3-6 hrs. (Night),1184
+1410,Haryana,2009,6-9 hrs (Day),1488
+1411,Haryana,2009,9-12 hrs (Day),1580
+1412,Haryana,2009,12-15 hrs (Day),1526
+1413,Haryana,2009,15-18 hrs (Day),1670
+1414,Haryana,2009,18-21 hrs (Night),1870
+1415,Haryana,2009,21-24 hrs (Night),1249
+1416,Haryana,2010,0-3 hrs. (Night),799
+1417,Haryana,2010,3-6 hrs. (Night),1105
+1418,Haryana,2010,6-9 hrs (Day),1617
+1419,Haryana,2010,9-12 hrs (Day),1517
+1420,Haryana,2010,12-15 hrs (Day),1481
+1421,Haryana,2010,15-18 hrs (Day),1715
+1422,Haryana,2010,18-21 hrs (Night),1756
+1423,Haryana,2010,21-24 hrs (Night),1171
+1424,Haryana,2011,0-3 hrs. (Night),685
+1425,Haryana,2011,3-6 hrs. (Night),1049
+1426,Haryana,2011,6-9 hrs (Day),1319
+1427,Haryana,2011,9-12 hrs (Day),1302
+1428,Haryana,2011,12-15 hrs (Day),1364
+1429,Haryana,2011,15-18 hrs (Day),1720
+1430,Haryana,2011,18-21 hrs (Night),1811
+1431,Haryana,2011,21-24 hrs (Night),1303
+1432,Haryana,2012,0-3 hrs. (Night),578
+1433,Haryana,2012,3-6 hrs. (Night),941
+1434,Haryana,2012,6-9 hrs (Day),1263
+1435,Haryana,2012,9-12 hrs (Day),1268
+1436,Haryana,2012,12-15 hrs (Day),1350
+1437,Haryana,2012,15-18 hrs (Day),1613
+1438,Haryana,2012,18-21 hrs (Night),1802
+1439,Haryana,2012,21-24 hrs (Night),1156
+1440,Haryana,2013,0-3 hrs. (Night),651
+1441,Haryana,2013,3-6 hrs. (Night),957
+1442,Haryana,2013,6-9 hrs (Day),1423
+1443,Haryana,2013,9-12 hrs (Day),1485
+1444,Haryana,2013,12-15 hrs (Day),1474
+1445,Haryana,2013,15-18 hrs (Day),1546
+1446,Haryana,2013,18-21 hrs (Night),1714
+1447,Haryana,2013,21-24 hrs (Night),1223
+1448,Haryana,2014,0-3 hrs. (Night),726
+1449,Haryana,2014,3-6 hrs. (Night),868
+1450,Haryana,2014,6-9 hrs (Day),1459
+1451,Haryana,2014,9-12 hrs (Day),1646
+1452,Haryana,2014,12-15 hrs (Day),1493
+1453,Haryana,2014,15-18 hrs (Day),1740
+1454,Haryana,2014,18-21 hrs (Night),1887
+1455,Haryana,2014,21-24 hrs (Night),1224
+1456,Himachal Pradesh,2001,0-3 hrs. (Night),75
+1457,Himachal Pradesh,2001,3-6 hrs. (Night),145
+1458,Himachal Pradesh,2001,6-9 hrs (Day),207
+1459,Himachal Pradesh,2001,9-12 hrs (Day),271
+1460,Himachal Pradesh,2001,12-15 hrs (Day),252
+1461,Himachal Pradesh,2001,15-18 hrs (Day),362
+1462,Himachal Pradesh,2001,18-21 hrs (Night),446
+1463,Himachal Pradesh,2001,21-24 hrs (Night),352
+1464,Himachal Pradesh,2002,0-3 hrs. (Night),81
+1465,Himachal Pradesh,2002,3-6 hrs. (Night),124
+1466,Himachal Pradesh,2002,6-9 hrs (Day),267
+1467,Himachal Pradesh,2002,9-12 hrs (Day),352
+1468,Himachal Pradesh,2002,12-15 hrs (Day),255
+1469,Himachal Pradesh,2002,15-18 hrs (Day),345
+1470,Himachal Pradesh,2002,18-21 hrs (Night),497
+1471,Himachal Pradesh,2002,21-24 hrs (Night),360
+1472,Himachal Pradesh,2003,0-3 hrs. (Night),87
+1473,Himachal Pradesh,2003,3-6 hrs. (Night),85
+1474,Himachal Pradesh,2003,6-9 hrs (Day),320
+1475,Himachal Pradesh,2003,9-12 hrs (Day),484
+1476,Himachal Pradesh,2003,12-15 hrs (Day),334
+1477,Himachal Pradesh,2003,15-18 hrs (Day),377
+1478,Himachal Pradesh,2003,18-21 hrs (Night),402
+1479,Himachal Pradesh,2003,21-24 hrs (Night),270
+1480,Himachal Pradesh,2004,0-3 hrs. (Night),135
+1481,Himachal Pradesh,2004,3-6 hrs. (Night),141
+1482,Himachal Pradesh,2004,6-9 hrs (Day),323
+1483,Himachal Pradesh,2004,9-12 hrs (Day),451
+1484,Himachal Pradesh,2004,12-15 hrs (Day),358
+1485,Himachal Pradesh,2004,15-18 hrs (Day),453
+1486,Himachal Pradesh,2004,18-21 hrs (Night),357
+1487,Himachal Pradesh,2004,21-24 hrs (Night),297
+1488,Himachal Pradesh,2005,0-3 hrs. (Night),123
+1489,Himachal Pradesh,2005,3-6 hrs. (Night),88
+1490,Himachal Pradesh,2005,6-9 hrs (Day),268
+1491,Himachal Pradesh,2005,9-12 hrs (Day),395
+1492,Himachal Pradesh,2005,12-15 hrs (Day),397
+1493,Himachal Pradesh,2005,15-18 hrs (Day),396
+1494,Himachal Pradesh,2005,18-21 hrs (Night),444
+1495,Himachal Pradesh,2005,21-24 hrs (Night),290
+1496,Himachal Pradesh,2006,0-3 hrs. (Night),112
+1497,Himachal Pradesh,2006,3-6 hrs. (Night),120
+1498,Himachal Pradesh,2006,6-9 hrs (Day),314
+1499,Himachal Pradesh,2006,9-12 hrs (Day),495
+1500,Himachal Pradesh,2006,12-15 hrs (Day),444
+1501,Himachal Pradesh,2006,15-18 hrs (Day),425
+1502,Himachal Pradesh,2006,18-21 hrs (Night),307
+1503,Himachal Pradesh,2006,21-24 hrs (Night),199
+1504,Himachal Pradesh,2007,0-3 hrs. (Night),120
+1505,Himachal Pradesh,2007,3-6 hrs. (Night),151
+1506,Himachal Pradesh,2007,6-9 hrs (Day),273
+1507,Himachal Pradesh,2007,9-12 hrs (Day),309
+1508,Himachal Pradesh,2007,12-15 hrs (Day),436
+1509,Himachal Pradesh,2007,15-18 hrs (Day),443
+1510,Himachal Pradesh,2007,18-21 hrs (Night),513
+1511,Himachal Pradesh,2007,21-24 hrs (Night),337
+1512,Himachal Pradesh,2008,0-3 hrs. (Night),103
+1513,Himachal Pradesh,2008,3-6 hrs. (Night),106
+1514,Himachal Pradesh,2008,6-9 hrs (Day),219
+1515,Himachal Pradesh,2008,9-12 hrs (Day),255
+1516,Himachal Pradesh,2008,12-15 hrs (Day),297
+1517,Himachal Pradesh,2008,15-18 hrs (Day),414
+1518,Himachal Pradesh,2008,18-21 hrs (Night),382
+1519,Himachal Pradesh,2008,21-24 hrs (Night),206
+1520,Himachal Pradesh,2009,0-3 hrs. (Night),135
+1521,Himachal Pradesh,2009,3-6 hrs. (Night),153
+1522,Himachal Pradesh,2009,6-9 hrs (Day),322
+1523,Himachal Pradesh,2009,9-12 hrs (Day),366
+1524,Himachal Pradesh,2009,12-15 hrs (Day),500
+1525,Himachal Pradesh,2009,15-18 hrs (Day),653
+1526,Himachal Pradesh,2009,18-21 hrs (Night),566
+1527,Himachal Pradesh,2009,21-24 hrs (Night),383
+1528,Himachal Pradesh,2010,0-3 hrs. (Night),153
+1529,Himachal Pradesh,2010,3-6 hrs. (Night),192
+1530,Himachal Pradesh,2010,6-9 hrs (Day),372
+1531,Himachal Pradesh,2010,9-12 hrs (Day),360
+1532,Himachal Pradesh,2010,12-15 hrs (Day),396
+1533,Himachal Pradesh,2010,15-18 hrs (Day),633
+1534,Himachal Pradesh,2010,18-21 hrs (Night),626
+1535,Himachal Pradesh,2010,21-24 hrs (Night),345
+1536,Himachal Pradesh,2011,0-3 hrs. (Night),100
+1537,Himachal Pradesh,2011,3-6 hrs. (Night),124
+1538,Himachal Pradesh,2011,6-9 hrs (Day),353
+1539,Himachal Pradesh,2011,9-12 hrs (Day),465
+1540,Himachal Pradesh,2011,12-15 hrs (Day),472
+1541,Himachal Pradesh,2011,15-18 hrs (Day),693
+1542,Himachal Pradesh,2011,18-21 hrs (Night),577
+1543,Himachal Pradesh,2011,21-24 hrs (Night),315
+1544,Himachal Pradesh,2012,0-3 hrs. (Night),114
+1545,Himachal Pradesh,2012,3-6 hrs. (Night),128
+1546,Himachal Pradesh,2012,6-9 hrs (Day),332
+1547,Himachal Pradesh,2012,9-12 hrs (Day),459
+1548,Himachal Pradesh,2012,12-15 hrs (Day),434
+1549,Himachal Pradesh,2012,15-18 hrs (Day),539
+1550,Himachal Pradesh,2012,18-21 hrs (Night),558
+1551,Himachal Pradesh,2012,21-24 hrs (Night),335
+1552,Himachal Pradesh,2013,0-3 hrs. (Night),100
+1553,Himachal Pradesh,2013,3-6 hrs. (Night),116
+1554,Himachal Pradesh,2013,6-9 hrs (Day),353
+1555,Himachal Pradesh,2013,9-12 hrs (Day),502
+1556,Himachal Pradesh,2013,12-15 hrs (Day),489
+1557,Himachal Pradesh,2013,15-18 hrs (Day),547
+1558,Himachal Pradesh,2013,18-21 hrs (Night),548
+1559,Himachal Pradesh,2013,21-24 hrs (Night),326
+1560,Himachal Pradesh,2014,0-3 hrs. (Night),199
+1561,Himachal Pradesh,2014,3-6 hrs. (Night),183
+1562,Himachal Pradesh,2014,6-9 hrs (Day),418
+1563,Himachal Pradesh,2014,9-12 hrs (Day),517
+1564,Himachal Pradesh,2014,12-15 hrs (Day),517
+1565,Himachal Pradesh,2014,15-18 hrs (Day),603
+1566,Himachal Pradesh,2014,18-21 hrs (Night),558
+1567,Himachal Pradesh,2014,21-24 hrs (Night),330
+1568,Jammu & Kashmir,2001,0-3 hrs. (Night),337
+1569,Jammu & Kashmir,2001,3-6 hrs. (Night),352
+1570,Jammu & Kashmir,2001,6-9 hrs (Day),658
+1571,Jammu & Kashmir,2001,9-12 hrs (Day),1099
+1572,Jammu & Kashmir,2001,12-15 hrs (Day),1062
+1573,Jammu & Kashmir,2001,15-18 hrs (Day),864
+1574,Jammu & Kashmir,2001,18-21 hrs (Night),386
+1575,Jammu & Kashmir,2001,21-24 hrs (Night),253
+1576,Jammu & Kashmir,2002,0-3 hrs. (Night),154
+1577,Jammu & Kashmir,2002,3-6 hrs. (Night),180
+1578,Jammu & Kashmir,2002,6-9 hrs (Day),582
+1579,Jammu & Kashmir,2002,9-12 hrs (Day),1293
+1580,Jammu & Kashmir,2002,12-15 hrs (Day),1118
+1581,Jammu & Kashmir,2002,15-18 hrs (Day),1001
+1582,Jammu & Kashmir,2002,18-21 hrs (Night),641
+1583,Jammu & Kashmir,2002,21-24 hrs (Night),404
+1584,Jammu & Kashmir,2003,0-3 hrs. (Night),298
+1585,Jammu & Kashmir,2003,3-6 hrs. (Night),304
+1586,Jammu & Kashmir,2003,6-9 hrs (Day),639
+1587,Jammu & Kashmir,2003,9-12 hrs (Day),1038
+1588,Jammu & Kashmir,2003,12-15 hrs (Day),1292
+1589,Jammu & Kashmir,2003,15-18 hrs (Day),1177
+1590,Jammu & Kashmir,2003,18-21 hrs (Night),795
+1591,Jammu & Kashmir,2003,21-24 hrs (Night),345
+1592,Jammu & Kashmir,2004,0-3 hrs. (Night),333
+1593,Jammu & Kashmir,2004,3-6 hrs. (Night),239
+1594,Jammu & Kashmir,2004,6-9 hrs (Day),958
+1595,Jammu & Kashmir,2004,9-12 hrs (Day),1677
+1596,Jammu & Kashmir,2004,12-15 hrs (Day),1441
+1597,Jammu & Kashmir,2004,15-18 hrs (Day),966
+1598,Jammu & Kashmir,2004,18-21 hrs (Night),501
+1599,Jammu & Kashmir,2004,21-24 hrs (Night),166
+1600,Jammu & Kashmir,2005,0-3 hrs. (Night),188
+1601,Jammu & Kashmir,2005,3-6 hrs. (Night),396
+1602,Jammu & Kashmir,2005,6-9 hrs (Day),811
+1603,Jammu & Kashmir,2005,9-12 hrs (Day),1233
+1604,Jammu & Kashmir,2005,12-15 hrs (Day),1057
+1605,Jammu & Kashmir,2005,15-18 hrs (Day),1173
+1606,Jammu & Kashmir,2005,18-21 hrs (Night),532
+1607,Jammu & Kashmir,2005,21-24 hrs (Night),279
+1608,Jammu & Kashmir,2006,0-3 hrs. (Night),350
+1609,Jammu & Kashmir,2006,3-6 hrs. (Night),235
+1610,Jammu & Kashmir,2006,6-9 hrs (Day),541
+1611,Jammu & Kashmir,2006,9-12 hrs (Day),1110
+1612,Jammu & Kashmir,2006,12-15 hrs (Day),1061
+1613,Jammu & Kashmir,2006,15-18 hrs (Day),1116
+1614,Jammu & Kashmir,2006,18-21 hrs (Night),728
+1615,Jammu & Kashmir,2006,21-24 hrs (Night),468
+1616,Jammu & Kashmir,2007,0-3 hrs. (Night),326
+1617,Jammu & Kashmir,2007,3-6 hrs. (Night),418
+1618,Jammu & Kashmir,2007,6-9 hrs (Day),697
+1619,Jammu & Kashmir,2007,9-12 hrs (Day),1049
+1620,Jammu & Kashmir,2007,12-15 hrs (Day),1099
+1621,Jammu & Kashmir,2007,15-18 hrs (Day),982
+1622,Jammu & Kashmir,2007,18-21 hrs (Night),842
+1623,Jammu & Kashmir,2007,21-24 hrs (Night),461
+1624,Jammu & Kashmir,2008,0-3 hrs. (Night),261
+1625,Jammu & Kashmir,2008,3-6 hrs. (Night),368
+1626,Jammu & Kashmir,2008,6-9 hrs (Day),631
+1627,Jammu & Kashmir,2008,9-12 hrs (Day),999
+1628,Jammu & Kashmir,2008,12-15 hrs (Day),1139
+1629,Jammu & Kashmir,2008,15-18 hrs (Day),892
+1630,Jammu & Kashmir,2008,18-21 hrs (Night),675
+1631,Jammu & Kashmir,2008,21-24 hrs (Night),461
+1632,Jammu & Kashmir,2009,0-3 hrs. (Night),298
+1633,Jammu & Kashmir,2009,3-6 hrs. (Night),386
+1634,Jammu & Kashmir,2009,6-9 hrs (Day),676
+1635,Jammu & Kashmir,2009,9-12 hrs (Day),1178
+1636,Jammu & Kashmir,2009,12-15 hrs (Day),1240
+1637,Jammu & Kashmir,2009,15-18 hrs (Day),1023
+1638,Jammu & Kashmir,2009,18-21 hrs (Night),802
+1639,Jammu & Kashmir,2009,21-24 hrs (Night),409
+1640,Jammu & Kashmir,2010,0-3 hrs. (Night),239
+1641,Jammu & Kashmir,2010,3-6 hrs. (Night),287
+1642,Jammu & Kashmir,2010,6-9 hrs (Day),699
+1643,Jammu & Kashmir,2010,9-12 hrs (Day),1173
+1644,Jammu & Kashmir,2010,12-15 hrs (Day),1265
+1645,Jammu & Kashmir,2010,15-18 hrs (Day),1099
+1646,Jammu & Kashmir,2010,18-21 hrs (Night),796
+1647,Jammu & Kashmir,2010,21-24 hrs (Night),584
+1648,Jammu & Kashmir,2011,0-3 hrs. (Night),299
+1649,Jammu & Kashmir,2011,3-6 hrs. (Night),298
+1650,Jammu & Kashmir,2011,6-9 hrs (Day),681
+1651,Jammu & Kashmir,2011,9-12 hrs (Day),1424
+1652,Jammu & Kashmir,2011,12-15 hrs (Day),1458
+1653,Jammu & Kashmir,2011,15-18 hrs (Day),1244
+1654,Jammu & Kashmir,2011,18-21 hrs (Night),753
+1655,Jammu & Kashmir,2011,21-24 hrs (Night),508
+1656,Jammu & Kashmir,2012,0-3 hrs. (Night),285
+1657,Jammu & Kashmir,2012,3-6 hrs. (Night),347
+1658,Jammu & Kashmir,2012,6-9 hrs (Day),642
+1659,Jammu & Kashmir,2012,9-12 hrs (Day),1306
+1660,Jammu & Kashmir,2012,12-15 hrs (Day),1444
+1661,Jammu & Kashmir,2012,15-18 hrs (Day),1420
+1662,Jammu & Kashmir,2012,18-21 hrs (Night),748
+1663,Jammu & Kashmir,2012,21-24 hrs (Night),445
+1664,Jammu & Kashmir,2013,0-3 hrs. (Night),296
+1665,Jammu & Kashmir,2013,3-6 hrs. (Night),352
+1666,Jammu & Kashmir,2013,6-9 hrs (Day),612
+1667,Jammu & Kashmir,2013,9-12 hrs (Day),1109
+1668,Jammu & Kashmir,2013,12-15 hrs (Day),1371
+1669,Jammu & Kashmir,2013,15-18 hrs (Day),1275
+1670,Jammu & Kashmir,2013,18-21 hrs (Night),886
+1671,Jammu & Kashmir,2013,21-24 hrs (Night),554
+1672,Jammu & Kashmir,2014,0-3 hrs. (Night),168
+1673,Jammu & Kashmir,2014,3-6 hrs. (Night),442
+1674,Jammu & Kashmir,2014,6-9 hrs (Day),693
+1675,Jammu & Kashmir,2014,9-12 hrs (Day),928
+1676,Jammu & Kashmir,2014,12-15 hrs (Day),1195
+1677,Jammu & Kashmir,2014,15-18 hrs (Day),1126
+1678,Jammu & Kashmir,2014,18-21 hrs (Night),833
+1679,Jammu & Kashmir,2014,21-24 hrs (Night),393
+1680,Jharkhand,2001,0-3 hrs. (Night),103
+1681,Jharkhand,2001,3-6 hrs. (Night),104
+1682,Jharkhand,2001,6-9 hrs (Day),117
+1683,Jharkhand,2001,9-12 hrs (Day),135
+1684,Jharkhand,2001,12-15 hrs (Day),109
+1685,Jharkhand,2001,15-18 hrs (Day),120
+1686,Jharkhand,2001,18-21 hrs (Night),179
+1687,Jharkhand,2001,21-24 hrs (Night),128
+1688,Jharkhand,2002,0-3 hrs. (Night),101
+1689,Jharkhand,2002,3-6 hrs. (Night),99
+1690,Jharkhand,2002,6-9 hrs (Day),109
+1691,Jharkhand,2002,9-12 hrs (Day),100
+1692,Jharkhand,2002,12-15 hrs (Day),110
+1693,Jharkhand,2002,15-18 hrs (Day),112
+1694,Jharkhand,2002,18-21 hrs (Night),138
+1695,Jharkhand,2002,21-24 hrs (Night),111
+1696,Jharkhand,2003,0-3 hrs. (Night),101
+1697,Jharkhand,2003,3-6 hrs. (Night),110
+1698,Jharkhand,2003,6-9 hrs (Day),130
+1699,Jharkhand,2003,9-12 hrs (Day),140
+1700,Jharkhand,2003,12-15 hrs (Day),135
+1701,Jharkhand,2003,15-18 hrs (Day),145
+1702,Jharkhand,2003,18-21 hrs (Night),0
+1703,Jharkhand,2003,21-24 hrs (Night),119
+1704,Jharkhand,2004,0-3 hrs. (Night),151
+1705,Jharkhand,2004,3-6 hrs. (Night),168
+1706,Jharkhand,2004,6-9 hrs (Day),199
+1707,Jharkhand,2004,9-12 hrs (Day),175
+1708,Jharkhand,2004,12-15 hrs (Day),178
+1709,Jharkhand,2004,15-18 hrs (Day),172
+1710,Jharkhand,2004,18-21 hrs (Night),85
+1711,Jharkhand,2004,21-24 hrs (Night),167
+1712,Jharkhand,2005,0-3 hrs. (Night),93
+1713,Jharkhand,2005,3-6 hrs. (Night),289
+1714,Jharkhand,2005,6-9 hrs (Day),405
+1715,Jharkhand,2005,9-12 hrs (Day),451
+1716,Jharkhand,2005,12-15 hrs (Day),384
+1717,Jharkhand,2005,15-18 hrs (Day),516
+1718,Jharkhand,2005,18-21 hrs (Night),377
+1719,Jharkhand,2005,21-24 hrs (Night),224
+1720,Jharkhand,2006,0-3 hrs. (Night),207
+1721,Jharkhand,2006,3-6 hrs. (Night),322
+1722,Jharkhand,2006,6-9 hrs (Day),681
+1723,Jharkhand,2006,9-12 hrs (Day),706
+1724,Jharkhand,2006,12-15 hrs (Day),741
+1725,Jharkhand,2006,15-18 hrs (Day),684
+1726,Jharkhand,2006,18-21 hrs (Night),513
+1727,Jharkhand,2006,21-24 hrs (Night),447
+1728,Jharkhand,2007,0-3 hrs. (Night),250
+1729,Jharkhand,2007,3-6 hrs. (Night),416
+1730,Jharkhand,2007,6-9 hrs (Day),683
+1731,Jharkhand,2007,9-12 hrs (Day),702
+1732,Jharkhand,2007,12-15 hrs (Day),850
+1733,Jharkhand,2007,15-18 hrs (Day),816
+1734,Jharkhand,2007,18-21 hrs (Night),521
+1735,Jharkhand,2007,21-24 hrs (Night),266
+1736,Jharkhand,2008,0-3 hrs. (Night),283
+1737,Jharkhand,2008,3-6 hrs. (Night),345
+1738,Jharkhand,2008,6-9 hrs (Day),414
+1739,Jharkhand,2008,9-12 hrs (Day),489
+1740,Jharkhand,2008,12-15 hrs (Day),474
+1741,Jharkhand,2008,15-18 hrs (Day),472
+1742,Jharkhand,2008,18-21 hrs (Night),477
+1743,Jharkhand,2008,21-24 hrs (Night),305
+1744,Jharkhand,2009,0-3 hrs. (Night),326
+1745,Jharkhand,2009,3-6 hrs. (Night),446
+1746,Jharkhand,2009,6-9 hrs (Day),681
+1747,Jharkhand,2009,9-12 hrs (Day),744
+1748,Jharkhand,2009,12-15 hrs (Day),658
+1749,Jharkhand,2009,15-18 hrs (Day),670
+1750,Jharkhand,2009,18-21 hrs (Night),524
+1751,Jharkhand,2009,21-24 hrs (Night),487
+1752,Jharkhand,2010,0-3 hrs. (Night),247
+1753,Jharkhand,2010,3-6 hrs. (Night),379
+1754,Jharkhand,2010,6-9 hrs (Day),706
+1755,Jharkhand,2010,9-12 hrs (Day),766
+1756,Jharkhand,2010,12-15 hrs (Day),602
+1757,Jharkhand,2010,15-18 hrs (Day),648
+1758,Jharkhand,2010,18-21 hrs (Night),557
+1759,Jharkhand,2010,21-24 hrs (Night),323
+1760,Jharkhand,2011,0-3 hrs. (Night),285
+1761,Jharkhand,2011,3-6 hrs. (Night),355
+1762,Jharkhand,2011,6-9 hrs (Day),585
+1763,Jharkhand,2011,9-12 hrs (Day),640
+1764,Jharkhand,2011,12-15 hrs (Day),582
+1765,Jharkhand,2011,15-18 hrs (Day),581
+1766,Jharkhand,2011,18-21 hrs (Night),512
+1767,Jharkhand,2011,21-24 hrs (Night),361
+1768,Jharkhand,2012,0-3 hrs. (Night),351
+1769,Jharkhand,2012,3-6 hrs. (Night),494
+1770,Jharkhand,2012,6-9 hrs (Day),779
+1771,Jharkhand,2012,9-12 hrs (Day),705
+1772,Jharkhand,2012,12-15 hrs (Day),542
+1773,Jharkhand,2012,15-18 hrs (Day),708
+1774,Jharkhand,2012,18-21 hrs (Night),626
+1775,Jharkhand,2012,21-24 hrs (Night),420
+1776,Jharkhand,2013,0-3 hrs. (Night),645
+1777,Jharkhand,2013,3-6 hrs. (Night),642
+1778,Jharkhand,2013,6-9 hrs (Day),649
+1779,Jharkhand,2013,9-12 hrs (Day),640
+1780,Jharkhand,2013,12-15 hrs (Day),649
+1781,Jharkhand,2013,15-18 hrs (Day),644
+1782,Jharkhand,2013,18-21 hrs (Night),644
+1783,Jharkhand,2013,21-24 hrs (Night),648
+1784,Jharkhand,2014,0-3 hrs. (Night),247
+1785,Jharkhand,2014,3-6 hrs. (Night),592
+1786,Jharkhand,2014,6-9 hrs (Day),703
+1787,Jharkhand,2014,9-12 hrs (Day),749
+1788,Jharkhand,2014,12-15 hrs (Day),670
+1789,Jharkhand,2014,15-18 hrs (Day),847
+1790,Jharkhand,2014,18-21 hrs (Night),678
+1791,Jharkhand,2014,21-24 hrs (Night),419
+1792,Karnataka,2001,0-3 hrs. (Night),2426
+1793,Karnataka,2001,3-6 hrs. (Night),2925
+1794,Karnataka,2001,6-9 hrs (Day),3775
+1795,Karnataka,2001,9-12 hrs (Day),5210
+1796,Karnataka,2001,12-15 hrs (Day),4799
+1797,Karnataka,2001,15-18 hrs (Day),5131
+1798,Karnataka,2001,18-21 hrs (Night),4807
+1799,Karnataka,2001,21-24 hrs (Night),3787
+1800,Karnataka,2002,0-3 hrs. (Night),2663
+1801,Karnataka,2002,3-6 hrs. (Night),3482
+1802,Karnataka,2002,6-9 hrs (Day),4123
+1803,Karnataka,2002,9-12 hrs (Day),5865
+1804,Karnataka,2002,12-15 hrs (Day),5414
+1805,Karnataka,2002,15-18 hrs (Day),5315
+1806,Karnataka,2002,18-21 hrs (Night),5141
+1807,Karnataka,2002,21-24 hrs (Night),3658
+1808,Karnataka,2003,0-3 hrs. (Night),2719
+1809,Karnataka,2003,3-6 hrs. (Night),3398
+1810,Karnataka,2003,6-9 hrs (Day),4095
+1811,Karnataka,2003,9-12 hrs (Day),5735
+1812,Karnataka,2003,12-15 hrs (Day),5696
+1813,Karnataka,2003,15-18 hrs (Day),6154
+1814,Karnataka,2003,18-21 hrs (Night),5687
+1815,Karnataka,2003,21-24 hrs (Night),4027
+1816,Karnataka,2004,0-3 hrs. (Night),2576
+1817,Karnataka,2004,3-6 hrs. (Night),3106
+1818,Karnataka,2004,6-9 hrs (Day),4140
+1819,Karnataka,2004,9-12 hrs (Day),5955
+1820,Karnataka,2004,12-15 hrs (Day),5888
+1821,Karnataka,2004,15-18 hrs (Day),6400
+1822,Karnataka,2004,18-21 hrs (Night),6371
+1823,Karnataka,2004,21-24 hrs (Night),4315
+1824,Karnataka,2005,0-3 hrs. (Night),2949
+1825,Karnataka,2005,3-6 hrs. (Night),3198
+1826,Karnataka,2005,6-9 hrs (Day),4665
+1827,Karnataka,2005,9-12 hrs (Day),6193
+1828,Karnataka,2005,12-15 hrs (Day),6095
+1829,Karnataka,2005,15-18 hrs (Day),6658
+1830,Karnataka,2005,18-21 hrs (Night),6377
+1831,Karnataka,2005,21-24 hrs (Night),4138
+1832,Karnataka,2006,0-3 hrs. (Night),3264
+1833,Karnataka,2006,3-6 hrs. (Night),3702
+1834,Karnataka,2006,6-9 hrs (Day),4738
+1835,Karnataka,2006,9-12 hrs (Day),6871
+1836,Karnataka,2006,12-15 hrs (Day),6425
+1837,Karnataka,2006,15-18 hrs (Day),6709
+1838,Karnataka,2006,18-21 hrs (Night),6839
+1839,Karnataka,2006,21-24 hrs (Night),4732
+1840,Karnataka,2007,0-3 hrs. (Night),3239
+1841,Karnataka,2007,3-6 hrs. (Night),3590
+1842,Karnataka,2007,6-9 hrs (Day),5350
+1843,Karnataka,2007,9-12 hrs (Day),7142
+1844,Karnataka,2007,12-15 hrs (Day),7486
+1845,Karnataka,2007,15-18 hrs (Day),7193
+1846,Karnataka,2007,18-21 hrs (Night),7263
+1847,Karnataka,2007,21-24 hrs (Night),5071
+1848,Karnataka,2008,0-3 hrs. (Night),3181
+1849,Karnataka,2008,3-6 hrs. (Night),3802
+1850,Karnataka,2008,6-9 hrs (Day),5471
+1851,Karnataka,2008,9-12 hrs (Day),6533
+1852,Karnataka,2008,12-15 hrs (Day),7183
+1853,Karnataka,2008,15-18 hrs (Day),7051
+1854,Karnataka,2008,18-21 hrs (Night),7159
+1855,Karnataka,2008,21-24 hrs (Night),5872
+1856,Karnataka,2009,0-3 hrs. (Night),3107
+1857,Karnataka,2009,3-6 hrs. (Night),3750
+1858,Karnataka,2009,6-9 hrs (Day),5001
+1859,Karnataka,2009,9-12 hrs (Day),6399
+1860,Karnataka,2009,12-15 hrs (Day),6733
+1861,Karnataka,2009,15-18 hrs (Day),7066
+1862,Karnataka,2009,18-21 hrs (Night),7258
+1863,Karnataka,2009,21-24 hrs (Night),5876
+1864,Karnataka,2010,0-3 hrs. (Night),3481
+1865,Karnataka,2010,3-6 hrs. (Night),5270
+1866,Karnataka,2010,6-9 hrs (Day),5268
+1867,Karnataka,2010,9-12 hrs (Day),6922
+1868,Karnataka,2010,12-15 hrs (Day),6451
+1869,Karnataka,2010,15-18 hrs (Day),6951
+1870,Karnataka,2010,18-21 hrs (Night),7207
+1871,Karnataka,2010,21-24 hrs (Night),4670
+1872,Karnataka,2011,0-3 hrs. (Night),3468
+1873,Karnataka,2011,3-6 hrs. (Night),3807
+1874,Karnataka,2011,6-9 hrs (Day),4657
+1875,Karnataka,2011,9-12 hrs (Day),6606
+1876,Karnataka,2011,12-15 hrs (Day),6568
+1877,Karnataka,2011,15-18 hrs (Day),7376
+1878,Karnataka,2011,18-21 hrs (Night),7501
+1879,Karnataka,2011,21-24 hrs (Night),4713
+1880,Karnataka,2012,0-3 hrs. (Night),3085
+1881,Karnataka,2012,3-6 hrs. (Night),2802
+1882,Karnataka,2012,6-9 hrs (Day),4472
+1883,Karnataka,2012,9-12 hrs (Day),6842
+1884,Karnataka,2012,12-15 hrs (Day),6753
+1885,Karnataka,2012,15-18 hrs (Day),7802
+1886,Karnataka,2012,18-21 hrs (Night),7431
+1887,Karnataka,2012,21-24 hrs (Night),5261
+1888,Karnataka,2013,0-3 hrs. (Night),3318
+1889,Karnataka,2013,3-6 hrs. (Night),3174
+1890,Karnataka,2013,6-9 hrs (Day),4126
+1891,Karnataka,2013,9-12 hrs (Day),6104
+1892,Karnataka,2013,12-15 hrs (Day),5836
+1893,Karnataka,2013,15-18 hrs (Day),6201
+1894,Karnataka,2013,18-21 hrs (Night),6526
+1895,Karnataka,2013,21-24 hrs (Night),4306
+1896,Karnataka,2014,0-3 hrs. (Night),3022
+1897,Karnataka,2014,3-6 hrs. (Night),3219
+1898,Karnataka,2014,6-9 hrs (Day),4576
+1899,Karnataka,2014,9-12 hrs (Day),6393
+1900,Karnataka,2014,12-15 hrs (Day),6646
+1901,Karnataka,2014,15-18 hrs (Day),7119
+1902,Karnataka,2014,18-21 hrs (Night),7377
+1903,Karnataka,2014,21-24 hrs (Night),5342
+1904,Kerala,2001,0-3 hrs. (Night),892
+1905,Kerala,2001,3-6 hrs. (Night),1610
+1906,Kerala,2001,6-9 hrs (Day),4820
+1907,Kerala,2001,9-12 hrs (Day),6684
+1908,Kerala,2001,12-15 hrs (Day),6119
+1909,Kerala,2001,15-18 hrs (Day),7610
+1910,Kerala,2001,18-21 hrs (Night),5960
+1911,Kerala,2001,21-24 hrs (Night),2744
+1912,Kerala,2002,0-3 hrs. (Night),669
+1913,Kerala,2002,3-6 hrs. (Night),1187
+1914,Kerala,2002,6-9 hrs (Day),4685
+1915,Kerala,2002,9-12 hrs (Day),6397
+1916,Kerala,2002,12-15 hrs (Day),6322
+1917,Kerala,2002,15-18 hrs (Day),7579
+1918,Kerala,2002,18-21 hrs (Night),5296
+1919,Kerala,2002,21-24 hrs (Night),2399
+1920,Kerala,2003,0-3 hrs. (Night),748
+1921,Kerala,2003,3-6 hrs. (Night),1312
+1922,Kerala,2003,6-9 hrs (Day),3882
+1923,Kerala,2003,9-12 hrs (Day),6152
+1924,Kerala,2003,12-15 hrs (Day),4914
+1925,Kerala,2003,15-18 hrs (Day),7019
+1926,Kerala,2003,18-21 hrs (Night),5616
+1927,Kerala,2003,21-24 hrs (Night),2304
+1928,Kerala,2004,0-3 hrs. (Night),1439
+1929,Kerala,2004,3-6 hrs. (Night),2124
+1930,Kerala,2004,6-9 hrs (Day),5143
+1931,Kerala,2004,9-12 hrs (Day),8107
+1932,Kerala,2004,12-15 hrs (Day),6328
+1933,Kerala,2004,15-18 hrs (Day),8252
+1934,Kerala,2004,18-21 hrs (Night),6534
+1935,Kerala,2004,21-24 hrs (Night),3176
+1936,Kerala,2005,0-3 hrs. (Night),1205
+1937,Kerala,2005,3-6 hrs. (Night),1763
+1938,Kerala,2005,6-9 hrs (Day),4977
+1939,Kerala,2005,9-12 hrs (Day),7620
+1940,Kerala,2005,12-15 hrs (Day),6244
+1941,Kerala,2005,15-18 hrs (Day),8601
+1942,Kerala,2005,18-21 hrs (Night),7961
+1943,Kerala,2005,21-24 hrs (Night),3924
+1944,Kerala,2006,0-3 hrs. (Night),1553
+1945,Kerala,2006,3-6 hrs. (Night),1877
+1946,Kerala,2006,6-9 hrs (Day),4438
+1947,Kerala,2006,9-12 hrs (Day),7140
+1948,Kerala,2006,12-15 hrs (Day),6446
+1949,Kerala,2006,15-18 hrs (Day),8461
+1950,Kerala,2006,18-21 hrs (Night),7587
+1951,Kerala,2006,21-24 hrs (Night),4226
+1952,Kerala,2007,0-3 hrs. (Night),1501
+1953,Kerala,2007,3-6 hrs. (Night),2486
+1954,Kerala,2007,6-9 hrs (Day),4064
+1955,Kerala,2007,9-12 hrs (Day),7433
+1956,Kerala,2007,12-15 hrs (Day),5865
+1957,Kerala,2007,15-18 hrs (Day),7854
+1958,Kerala,2007,18-21 hrs (Night),7083
+1959,Kerala,2007,21-24 hrs (Night),3575
+1960,Kerala,2008,0-3 hrs. (Night),836
+1961,Kerala,2008,3-6 hrs. (Night),1356
+1962,Kerala,2008,6-9 hrs (Day),4278
+1963,Kerala,2008,9-12 hrs (Day),6871
+1964,Kerala,2008,12-15 hrs (Day),6077
+1965,Kerala,2008,15-18 hrs (Day),8426
+1966,Kerala,2008,18-21 hrs (Night),6768
+1967,Kerala,2008,21-24 hrs (Night),2626
+1968,Kerala,2009,0-3 hrs. (Night),664
+1969,Kerala,2009,3-6 hrs. (Night),1283
+1970,Kerala,2009,6-9 hrs (Day),4468
+1971,Kerala,2009,9-12 hrs (Day),6606
+1972,Kerala,2009,12-15 hrs (Day),5648
+1973,Kerala,2009,15-18 hrs (Day),7755
+1974,Kerala,2009,18-21 hrs (Night),6762
+1975,Kerala,2009,21-24 hrs (Night),2271
+1976,Kerala,2010,0-3 hrs. (Night),892
+1977,Kerala,2010,3-6 hrs. (Night),1271
+1978,Kerala,2010,6-9 hrs (Day),4127
+1979,Kerala,2010,9-12 hrs (Day),6328
+1980,Kerala,2010,12-15 hrs (Day),5380
+1981,Kerala,2010,15-18 hrs (Day),7838
+1982,Kerala,2010,18-21 hrs (Night),6864
+1983,Kerala,2010,21-24 hrs (Night),2382
+1984,Kerala,2011,0-3 hrs. (Night),595
+1985,Kerala,2011,3-6 hrs. (Night),1265
+1986,Kerala,2011,6-9 hrs (Day),5051
+1987,Kerala,2011,9-12 hrs (Day),6119
+1988,Kerala,2011,12-15 hrs (Day),6393
+1989,Kerala,2011,15-18 hrs (Day),8071
+1990,Kerala,2011,18-21 hrs (Night),6335
+1991,Kerala,2011,21-24 hrs (Night),1387
+1992,Kerala,2012,0-3 hrs. (Night),583
+1993,Kerala,2012,3-6 hrs. (Night),785
+1994,Kerala,2012,6-9 hrs (Day),3720
+1995,Kerala,2012,9-12 hrs (Day),6795
+1996,Kerala,2012,12-15 hrs (Day),6091
+1997,Kerala,2012,15-18 hrs (Day),8075
+1998,Kerala,2012,18-21 hrs (Night),7359
+1999,Kerala,2012,21-24 hrs (Night),2766
+2000,Kerala,2013,0-3 hrs. (Night),620
+2001,Kerala,2013,3-6 hrs. (Night),1341
+2002,Kerala,2013,6-9 hrs (Day),5378
+2003,Kerala,2013,9-12 hrs (Day),6329
+2004,Kerala,2013,12-15 hrs (Day),6210
+2005,Kerala,2013,15-18 hrs (Day),7706
+2006,Kerala,2013,18-21 hrs (Night),6207
+2007,Kerala,2013,21-24 hrs (Night),1424
+2008,Kerala,2014,0-3 hrs. (Night),759
+2009,Kerala,2014,3-6 hrs. (Night),1232
+2010,Kerala,2014,6-9 hrs (Day),4145
+2011,Kerala,2014,9-12 hrs (Day),6709
+2012,Kerala,2014,12-15 hrs (Day),6057
+2013,Kerala,2014,15-18 hrs (Day),8172
+2014,Kerala,2014,18-21 hrs (Night),6114
+2015,Kerala,2014,21-24 hrs (Night),2684
+2016,Lakshadweep,2001,0-3 hrs. (Night),0
+2017,Lakshadweep,2001,3-6 hrs. (Night),0
+2018,Lakshadweep,2001,6-9 hrs (Day),0
+2019,Lakshadweep,2001,9-12 hrs (Day),1
+2020,Lakshadweep,2001,12-15 hrs (Day),0
+2021,Lakshadweep,2001,15-18 hrs (Day),1
+2022,Lakshadweep,2001,18-21 hrs (Night),1
+2023,Lakshadweep,2001,21-24 hrs (Night),3
+2024,Lakshadweep,2002,0-3 hrs. (Night),0
+2025,Lakshadweep,2002,3-6 hrs. (Night),0
+2026,Lakshadweep,2002,6-9 hrs (Day),0
+2027,Lakshadweep,2002,9-12 hrs (Day),0
+2028,Lakshadweep,2002,12-15 hrs (Day),0
+2029,Lakshadweep,2002,15-18 hrs (Day),0
+2030,Lakshadweep,2002,18-21 hrs (Night),0
+2031,Lakshadweep,2002,21-24 hrs (Night),0
+2032,Lakshadweep,2003,0-3 hrs. (Night),0
+2033,Lakshadweep,2003,3-6 hrs. (Night),0
+2034,Lakshadweep,2003,6-9 hrs (Day),0
+2035,Lakshadweep,2003,9-12 hrs (Day),0
+2036,Lakshadweep,2003,12-15 hrs (Day),0
+2037,Lakshadweep,2003,15-18 hrs (Day),0
+2038,Lakshadweep,2003,18-21 hrs (Night),1
+2039,Lakshadweep,2003,21-24 hrs (Night),0
+2040,Lakshadweep,2004,0-3 hrs. (Night),0
+2041,Lakshadweep,2004,3-6 hrs. (Night),0
+2042,Lakshadweep,2004,6-9 hrs (Day),0
+2043,Lakshadweep,2004,9-12 hrs (Day),0
+2044,Lakshadweep,2004,12-15 hrs (Day),1
+2045,Lakshadweep,2004,15-18 hrs (Day),0
+2046,Lakshadweep,2004,18-21 hrs (Night),1
+2047,Lakshadweep,2004,21-24 hrs (Night),0
+2048,Lakshadweep,2005,0-3 hrs. (Night),0
+2049,Lakshadweep,2005,3-6 hrs. (Night),0
+2050,Lakshadweep,2005,6-9 hrs (Day),0
+2051,Lakshadweep,2005,9-12 hrs (Day),0
+2052,Lakshadweep,2005,12-15 hrs (Day),0
+2053,Lakshadweep,2005,15-18 hrs (Day),0
+2054,Lakshadweep,2005,18-21 hrs (Night),0
+2055,Lakshadweep,2005,21-24 hrs (Night),0
+2056,Lakshadweep,2006,0-3 hrs. (Night),0
+2057,Lakshadweep,2006,3-6 hrs. (Night),0
+2058,Lakshadweep,2006,6-9 hrs (Day),0
+2059,Lakshadweep,2006,9-12 hrs (Day),0
+2060,Lakshadweep,2006,12-15 hrs (Day),0
+2061,Lakshadweep,2006,15-18 hrs (Day),0
+2062,Lakshadweep,2006,18-21 hrs (Night),1
+2063,Lakshadweep,2006,21-24 hrs (Night),0
+2064,Lakshadweep,2007,0-3 hrs. (Night),0
+2065,Lakshadweep,2007,3-6 hrs. (Night),0
+2066,Lakshadweep,2007,6-9 hrs (Day),0
+2067,Lakshadweep,2007,9-12 hrs (Day),1
+2068,Lakshadweep,2007,12-15 hrs (Day),1
+2069,Lakshadweep,2007,15-18 hrs (Day),0
+2070,Lakshadweep,2007,18-21 hrs (Night),0
+2071,Lakshadweep,2007,21-24 hrs (Night),0
+2072,Lakshadweep,2008,0-3 hrs. (Night),0
+2073,Lakshadweep,2008,3-6 hrs. (Night),0
+2074,Lakshadweep,2008,6-9 hrs (Day),0
+2075,Lakshadweep,2008,9-12 hrs (Day),0
+2076,Lakshadweep,2008,12-15 hrs (Day),0
+2077,Lakshadweep,2008,15-18 hrs (Day),0
+2078,Lakshadweep,2008,18-21 hrs (Night),0
+2079,Lakshadweep,2008,21-24 hrs (Night),0
+2080,Lakshadweep,2009,0-3 hrs. (Night),1
+2081,Lakshadweep,2009,3-6 hrs. (Night),0
+2082,Lakshadweep,2009,6-9 hrs (Day),0
+2083,Lakshadweep,2009,9-12 hrs (Day),0
+2084,Lakshadweep,2009,12-15 hrs (Day),0
+2085,Lakshadweep,2009,15-18 hrs (Day),0
+2086,Lakshadweep,2009,18-21 hrs (Night),0
+2087,Lakshadweep,2009,21-24 hrs (Night),0
+2088,Lakshadweep,2010,0-3 hrs. (Night),0
+2089,Lakshadweep,2010,3-6 hrs. (Night),0
+2090,Lakshadweep,2010,6-9 hrs (Day),0
+2091,Lakshadweep,2010,9-12 hrs (Day),0
+2092,Lakshadweep,2010,12-15 hrs (Day),0
+2093,Lakshadweep,2010,15-18 hrs (Day),0
+2094,Lakshadweep,2010,18-21 hrs (Night),0
+2095,Lakshadweep,2010,21-24 hrs (Night),0
+2096,Lakshadweep,2011,0-3 hrs. (Night),0
+2097,Lakshadweep,2011,3-6 hrs. (Night),0
+2098,Lakshadweep,2011,6-9 hrs (Day),0
+2099,Lakshadweep,2011,9-12 hrs (Day),0
+2100,Lakshadweep,2011,12-15 hrs (Day),0
+2101,Lakshadweep,2011,15-18 hrs (Day),0
+2102,Lakshadweep,2011,18-21 hrs (Night),0
+2103,Lakshadweep,2011,21-24 hrs (Night),0
+2104,Lakshadweep,2012,0-3 hrs. (Night),0
+2105,Lakshadweep,2012,3-6 hrs. (Night),0
+2106,Lakshadweep,2012,6-9 hrs (Day),0
+2107,Lakshadweep,2012,9-12 hrs (Day),0
+2108,Lakshadweep,2012,12-15 hrs (Day),0
+2109,Lakshadweep,2012,15-18 hrs (Day),0
+2110,Lakshadweep,2012,18-21 hrs (Night),0
+2111,Lakshadweep,2012,21-24 hrs (Night),0
+2112,Lakshadweep,2013,0-3 hrs. (Night),0
+2113,Lakshadweep,2013,3-6 hrs. (Night),0
+2114,Lakshadweep,2013,6-9 hrs (Day),0
+2115,Lakshadweep,2013,9-12 hrs (Day),0
+2116,Lakshadweep,2013,12-15 hrs (Day),0
+2117,Lakshadweep,2013,15-18 hrs (Day),0
+2118,Lakshadweep,2013,18-21 hrs (Night),0
+2119,Lakshadweep,2013,21-24 hrs (Night),0
+2120,Lakshadweep,2014,0-3 hrs. (Night),0
+2121,Lakshadweep,2014,3-6 hrs. (Night),0
+2122,Lakshadweep,2014,6-9 hrs (Day),0
+2123,Lakshadweep,2014,9-12 hrs (Day),0
+2124,Lakshadweep,2014,12-15 hrs (Day),1
+2125,Lakshadweep,2014,15-18 hrs (Day),0
+2126,Lakshadweep,2014,18-21 hrs (Night),0
+2127,Lakshadweep,2014,21-24 hrs (Night),0
+2128,Madhya Pradesh,2001,0-3 hrs. (Night),1418
+2129,Madhya Pradesh,2001,3-6 hrs. (Night),1740
+2130,Madhya Pradesh,2001,6-9 hrs (Day),2938
+2131,Madhya Pradesh,2001,9-12 hrs (Day),3323
+2132,Madhya Pradesh,2001,12-15 hrs (Day),2906
+2133,Madhya Pradesh,2001,15-18 hrs (Day),2875
+2134,Madhya Pradesh,2001,18-21 hrs (Night),2744
+2135,Madhya Pradesh,2001,21-24 hrs (Night),1768
+2136,Madhya Pradesh,2002,0-3 hrs. (Night),1467
+2137,Madhya Pradesh,2002,3-6 hrs. (Night),2182
+2138,Madhya Pradesh,2002,6-9 hrs (Day),3107
+2139,Madhya Pradesh,2002,9-12 hrs (Day),3801
+2140,Madhya Pradesh,2002,12-15 hrs (Day),3325
+2141,Madhya Pradesh,2002,15-18 hrs (Day),3323
+2142,Madhya Pradesh,2002,18-21 hrs (Night),3340
+2143,Madhya Pradesh,2002,21-24 hrs (Night),2334
+2144,Madhya Pradesh,2003,0-3 hrs. (Night),1872
+2145,Madhya Pradesh,2003,3-6 hrs. (Night),2165
+2146,Madhya Pradesh,2003,6-9 hrs (Day),3138
+2147,Madhya Pradesh,2003,9-12 hrs (Day),3798
+2148,Madhya Pradesh,2003,12-15 hrs (Day),3397
+2149,Madhya Pradesh,2003,15-18 hrs (Day),3128
+2150,Madhya Pradesh,2003,18-21 hrs (Night),2896
+2151,Madhya Pradesh,2003,21-24 hrs (Night),2222
+2152,Madhya Pradesh,2004,0-3 hrs. (Night),1443
+2153,Madhya Pradesh,2004,3-6 hrs. (Night),1828
+2154,Madhya Pradesh,2004,6-9 hrs (Day),3043
+2155,Madhya Pradesh,2004,9-12 hrs (Day),4301
+2156,Madhya Pradesh,2004,12-15 hrs (Day),3657
+2157,Madhya Pradesh,2004,15-18 hrs (Day),3734
+2158,Madhya Pradesh,2004,18-21 hrs (Night),3367
+2159,Madhya Pradesh,2004,21-24 hrs (Night),2218
+2160,Madhya Pradesh,2005,0-3 hrs. (Night),1504
+2161,Madhya Pradesh,2005,3-6 hrs. (Night),1770
+2162,Madhya Pradesh,2005,6-9 hrs (Day),2906
+2163,Madhya Pradesh,2005,9-12 hrs (Day),3504
+2164,Madhya Pradesh,2005,12-15 hrs (Day),3504
+2165,Madhya Pradesh,2005,15-18 hrs (Day),3245
+2166,Madhya Pradesh,2005,18-21 hrs (Night),3012
+2167,Madhya Pradesh,2005,21-24 hrs (Night),2029
+2168,Madhya Pradesh,2006,0-3 hrs. (Night),1652
+2169,Madhya Pradesh,2006,3-6 hrs. (Night),1719
+2170,Madhya Pradesh,2006,6-9 hrs (Day),3541
+2171,Madhya Pradesh,2006,9-12 hrs (Day),4160
+2172,Madhya Pradesh,2006,12-15 hrs (Day),4198
+2173,Madhya Pradesh,2006,15-18 hrs (Day),3875
+2174,Madhya Pradesh,2006,18-21 hrs (Night),3522
+2175,Madhya Pradesh,2006,21-24 hrs (Night),2371
+2176,Madhya Pradesh,2007,0-3 hrs. (Night),1867
+2177,Madhya Pradesh,2007,3-6 hrs. (Night),1927
+2178,Madhya Pradesh,2007,6-9 hrs (Day),3574
+2179,Madhya Pradesh,2007,9-12 hrs (Day),4901
+2180,Madhya Pradesh,2007,12-15 hrs (Day),4971
+2181,Madhya Pradesh,2007,15-18 hrs (Day),4345
+2182,Madhya Pradesh,2007,18-21 hrs (Night),3964
+2183,Madhya Pradesh,2007,21-24 hrs (Night),2895
+2184,Madhya Pradesh,2008,0-3 hrs. (Night),2307
+2185,Madhya Pradesh,2008,3-6 hrs. (Night),2370
+2186,Madhya Pradesh,2008,6-9 hrs (Day),4316
+2187,Madhya Pradesh,2008,9-12 hrs (Day),5946
+2188,Madhya Pradesh,2008,12-15 hrs (Day),5873
+2189,Madhya Pradesh,2008,15-18 hrs (Day),5516
+2190,Madhya Pradesh,2008,18-21 hrs (Night),4808
+2191,Madhya Pradesh,2008,21-24 hrs (Night),3180
+2192,Madhya Pradesh,2009,0-3 hrs. (Night),2275
+2193,Madhya Pradesh,2009,3-6 hrs. (Night),2408
+2194,Madhya Pradesh,2009,6-9 hrs (Day),3807
+2195,Madhya Pradesh,2009,9-12 hrs (Day),5467
+2196,Madhya Pradesh,2009,12-15 hrs (Day),4996
+2197,Madhya Pradesh,2009,15-18 hrs (Day),5157
+2198,Madhya Pradesh,2009,18-21 hrs (Night),4896
+2199,Madhya Pradesh,2009,21-24 hrs (Night),3326
+2200,Madhya Pradesh,2010,0-3 hrs. (Night),1970
+2201,Madhya Pradesh,2010,3-6 hrs. (Night),2125
+2202,Madhya Pradesh,2010,6-9 hrs (Day),3344
+2203,Madhya Pradesh,2010,9-12 hrs (Day),4994
+2204,Madhya Pradesh,2010,12-15 hrs (Day),4766
+2205,Madhya Pradesh,2010,15-18 hrs (Day),4686
+2206,Madhya Pradesh,2010,18-21 hrs (Night),4888
+2207,Madhya Pradesh,2010,21-24 hrs (Night),3354
+2208,Madhya Pradesh,2011,0-3 hrs. (Night),2083
+2209,Madhya Pradesh,2011,3-6 hrs. (Night),2248
+2210,Madhya Pradesh,2011,6-9 hrs (Day),3698
+2211,Madhya Pradesh,2011,9-12 hrs (Day),4833
+2212,Madhya Pradesh,2011,12-15 hrs (Day),4896
+2213,Madhya Pradesh,2011,15-18 hrs (Day),4999
+2214,Madhya Pradesh,2011,18-21 hrs (Night),4463
+2215,Madhya Pradesh,2011,21-24 hrs (Night),3353
+2216,Madhya Pradesh,2012,0-3 hrs. (Night),1664
+2217,Madhya Pradesh,2012,3-6 hrs. (Night),1873
+2218,Madhya Pradesh,2012,6-9 hrs (Day),3785
+2219,Madhya Pradesh,2012,9-12 hrs (Day),5082
+2220,Madhya Pradesh,2012,12-15 hrs (Day),4969
+2221,Madhya Pradesh,2012,15-18 hrs (Day),5035
+2222,Madhya Pradesh,2012,18-21 hrs (Night),4240
+2223,Madhya Pradesh,2012,21-24 hrs (Night),2525
+2224,Madhya Pradesh,2013,0-3 hrs. (Night),1747
+2225,Madhya Pradesh,2013,3-6 hrs. (Night),2126
+2226,Madhya Pradesh,2013,6-9 hrs (Day),3874
+2227,Madhya Pradesh,2013,9-12 hrs (Day),6025
+2228,Madhya Pradesh,2013,12-15 hrs (Day),5688
+2229,Madhya Pradesh,2013,15-18 hrs (Day),5991
+2230,Madhya Pradesh,2013,18-21 hrs (Night),5282
+2231,Madhya Pradesh,2013,21-24 hrs (Night),3301
+2232,Madhya Pradesh,2014,0-3 hrs. (Night),1925
+2233,Madhya Pradesh,2014,3-6 hrs. (Night),2384
+2234,Madhya Pradesh,2014,6-9 hrs (Day),5370
+2235,Madhya Pradesh,2014,9-12 hrs (Day),7106
+2236,Madhya Pradesh,2014,12-15 hrs (Day),7337
+2237,Madhya Pradesh,2014,15-18 hrs (Day),7030
+2238,Madhya Pradesh,2014,18-21 hrs (Night),5791
+2239,Madhya Pradesh,2014,21-24 hrs (Night),2755
+2240,Maharashtra,2001,0-3 hrs. (Night),3483
+2241,Maharashtra,2001,3-6 hrs. (Night),3893
+2242,Maharashtra,2001,6-9 hrs (Day),3986
+2243,Maharashtra,2001,9-12 hrs (Day),5088
+2244,Maharashtra,2001,12-15 hrs (Day),5099
+2245,Maharashtra,2001,15-18 hrs (Day),5185
+2246,Maharashtra,2001,18-21 hrs (Night),5335
+2247,Maharashtra,2001,21-24 hrs (Night),5200
+2248,Maharashtra,2002,0-3 hrs. (Night),3411
+2249,Maharashtra,2002,3-6 hrs. (Night),3412
+2250,Maharashtra,2002,6-9 hrs (Day),4533
+2251,Maharashtra,2002,9-12 hrs (Day),5744
+2252,Maharashtra,2002,12-15 hrs (Day),5622
+2253,Maharashtra,2002,15-18 hrs (Day),5812
+2254,Maharashtra,2002,18-21 hrs (Night),5796
+2255,Maharashtra,2002,21-24 hrs (Night),5231
+2256,Maharashtra,2003,0-3 hrs. (Night),3698
+2257,Maharashtra,2003,3-6 hrs. (Night),4029
+2258,Maharashtra,2003,6-9 hrs (Day),4966
+2259,Maharashtra,2003,9-12 hrs (Day),5926
+2260,Maharashtra,2003,12-15 hrs (Day),6287
+2261,Maharashtra,2003,15-18 hrs (Day),6261
+2262,Maharashtra,2003,18-21 hrs (Night),6494
+2263,Maharashtra,2003,21-24 hrs (Night),5361
+2264,Maharashtra,2004,0-3 hrs. (Night),4082
+2265,Maharashtra,2004,3-6 hrs. (Night),4352
+2266,Maharashtra,2004,6-9 hrs (Day),5077
+2267,Maharashtra,2004,9-12 hrs (Day),6115
+2268,Maharashtra,2004,12-15 hrs (Day),6380
+2269,Maharashtra,2004,15-18 hrs (Day),6559
+2270,Maharashtra,2004,18-21 hrs (Night),6542
+2271,Maharashtra,2004,21-24 hrs (Night),5432
+2272,Maharashtra,2005,0-3 hrs. (Night),4140
+2273,Maharashtra,2005,3-6 hrs. (Night),4207
+2274,Maharashtra,2005,6-9 hrs (Day),5212
+2275,Maharashtra,2005,9-12 hrs (Day),6631
+2276,Maharashtra,2005,12-15 hrs (Day),6737
+2277,Maharashtra,2005,15-18 hrs (Day),6760
+2278,Maharashtra,2005,18-21 hrs (Night),7058
+2279,Maharashtra,2005,21-24 hrs (Night),5841
+2280,Maharashtra,2006,0-3 hrs. (Night),4653
+2281,Maharashtra,2006,3-6 hrs. (Night),4724
+2282,Maharashtra,2006,6-9 hrs (Day),5569
+2283,Maharashtra,2006,9-12 hrs (Day),6498
+2284,Maharashtra,2006,12-15 hrs (Day),6735
+2285,Maharashtra,2006,15-18 hrs (Day),7013
+2286,Maharashtra,2006,18-21 hrs (Night),7393
+2287,Maharashtra,2006,21-24 hrs (Night),6302
+2288,Maharashtra,2007,0-3 hrs. (Night),5132
+2289,Maharashtra,2007,3-6 hrs. (Night),4797
+2290,Maharashtra,2007,6-9 hrs (Day),5580
+2291,Maharashtra,2007,9-12 hrs (Day),7168
+2292,Maharashtra,2007,12-15 hrs (Day),7385
+2293,Maharashtra,2007,15-18 hrs (Day),7378
+2294,Maharashtra,2007,18-21 hrs (Night),7714
+2295,Maharashtra,2007,21-24 hrs (Night),6821
+2296,Maharashtra,2008,0-3 hrs. (Night),4349
+2297,Maharashtra,2008,3-6 hrs. (Night),4633
+2298,Maharashtra,2008,6-9 hrs (Day),5669
+2299,Maharashtra,2008,9-12 hrs (Day),6911
+2300,Maharashtra,2008,12-15 hrs (Day),7019
+2301,Maharashtra,2008,15-18 hrs (Day),7070
+2302,Maharashtra,2008,18-21 hrs (Night),7610
+2303,Maharashtra,2008,21-24 hrs (Night),6418
+2304,Maharashtra,2009,0-3 hrs. (Night),4400
+2305,Maharashtra,2009,3-6 hrs. (Night),4469
+2306,Maharashtra,2009,6-9 hrs (Day),5451
+2307,Maharashtra,2009,9-12 hrs (Day),6974
+2308,Maharashtra,2009,12-15 hrs (Day),6718
+2309,Maharashtra,2009,15-18 hrs (Day),7046
+2310,Maharashtra,2009,18-21 hrs (Night),7592
+2311,Maharashtra,2009,21-24 hrs (Night),6215
+2312,Maharashtra,2010,0-3 hrs. (Night),4324
+2313,Maharashtra,2010,3-6 hrs. (Night),4585
+2314,Maharashtra,2010,6-9 hrs (Day),5658
+2315,Maharashtra,2010,9-12 hrs (Day),7050
+2316,Maharashtra,2010,12-15 hrs (Day),7233
+2317,Maharashtra,2010,15-18 hrs (Day),7583
+2318,Maharashtra,2010,18-21 hrs (Night),7836
+2319,Maharashtra,2010,21-24 hrs (Night),6350
+2320,Maharashtra,2011,0-3 hrs. (Night),4334
+2321,Maharashtra,2011,3-6 hrs. (Night),4739
+2322,Maharashtra,2011,6-9 hrs (Day),5489
+2323,Maharashtra,2011,9-12 hrs (Day),6610
+2324,Maharashtra,2011,12-15 hrs (Day),6677
+2325,Maharashtra,2011,15-18 hrs (Day),7048
+2326,Maharashtra,2011,18-21 hrs (Night),6883
+2327,Maharashtra,2011,21-24 hrs (Night),5340
+2328,Maharashtra,2012,0-3 hrs. (Night),4125
+2329,Maharashtra,2012,3-6 hrs. (Night),4655
+2330,Maharashtra,2012,6-9 hrs (Day),5239
+2331,Maharashtra,2012,9-12 hrs (Day),6093
+2332,Maharashtra,2012,12-15 hrs (Day),6176
+2333,Maharashtra,2012,15-18 hrs (Day),6857
+2334,Maharashtra,2012,18-21 hrs (Night),6668
+2335,Maharashtra,2012,21-24 hrs (Night),5434
+2336,Maharashtra,2013,0-3 hrs. (Night),3647
+2337,Maharashtra,2013,3-6 hrs. (Night),3649
+2338,Maharashtra,2013,6-9 hrs (Day),4822
+2339,Maharashtra,2013,9-12 hrs (Day),5901
+2340,Maharashtra,2013,12-15 hrs (Day),6211
+2341,Maharashtra,2013,15-18 hrs (Day),6727
+2342,Maharashtra,2013,18-21 hrs (Night),7368
+2343,Maharashtra,2013,21-24 hrs (Night),5538
+2344,Maharashtra,2014,0-3 hrs. (Night),3376
+2345,Maharashtra,2014,3-6 hrs. (Night),3330
+2346,Maharashtra,2014,6-9 hrs (Day),4853
+2347,Maharashtra,2014,9-12 hrs (Day),6430
+2348,Maharashtra,2014,12-15 hrs (Day),6522
+2349,Maharashtra,2014,15-18 hrs (Day),7126
+2350,Maharashtra,2014,18-21 hrs (Night),7421
+2351,Maharashtra,2014,21-24 hrs (Night),5324
+2352,Manipur,2001,0-3 hrs. (Night),0
+2353,Manipur,2001,3-6 hrs. (Night),7
+2354,Manipur,2001,6-9 hrs (Day),82
+2355,Manipur,2001,9-12 hrs (Day),111
+2356,Manipur,2001,12-15 hrs (Day),87
+2357,Manipur,2001,15-18 hrs (Day),87
+2358,Manipur,2001,18-21 hrs (Night),34
+2359,Manipur,2001,21-24 hrs (Night),2
+2360,Manipur,2002,0-3 hrs. (Night),0
+2361,Manipur,2002,3-6 hrs. (Night),0
+2362,Manipur,2002,6-9 hrs (Day),65
+2363,Manipur,2002,9-12 hrs (Day),161
+2364,Manipur,2002,12-15 hrs (Day),126
+2365,Manipur,2002,15-18 hrs (Day),142
+2366,Manipur,2002,18-21 hrs (Night),21
+2367,Manipur,2002,21-24 hrs (Night),5
+2368,Manipur,2003,0-3 hrs. (Night),1
+2369,Manipur,2003,3-6 hrs. (Night),18
+2370,Manipur,2003,6-9 hrs (Day),73
+2371,Manipur,2003,9-12 hrs (Day),136
+2372,Manipur,2003,12-15 hrs (Day),92
+2373,Manipur,2003,15-18 hrs (Day),134
+2374,Manipur,2003,18-21 hrs (Night),56
+2375,Manipur,2003,21-24 hrs (Night),13
+2376,Manipur,2004,0-3 hrs. (Night),0
+2377,Manipur,2004,3-6 hrs. (Night),10
+2378,Manipur,2004,6-9 hrs (Day),50
+2379,Manipur,2004,9-12 hrs (Day),129
+2380,Manipur,2004,12-15 hrs (Day),86
+2381,Manipur,2004,15-18 hrs (Day),115
+2382,Manipur,2004,18-21 hrs (Night),64
+2383,Manipur,2004,21-24 hrs (Night),14
+2384,Manipur,2005,0-3 hrs. (Night),13
+2385,Manipur,2005,3-6 hrs. (Night),26
+2386,Manipur,2005,6-9 hrs (Day),89
+2387,Manipur,2005,9-12 hrs (Day),110
+2388,Manipur,2005,12-15 hrs (Day),113
+2389,Manipur,2005,15-18 hrs (Day),115
+2390,Manipur,2005,18-21 hrs (Night),103
+2391,Manipur,2005,21-24 hrs (Night),31
+2392,Manipur,2006,0-3 hrs. (Night),7
+2393,Manipur,2006,3-6 hrs. (Night),27
+2394,Manipur,2006,6-9 hrs (Day),69
+2395,Manipur,2006,9-12 hrs (Day),129
+2396,Manipur,2006,12-15 hrs (Day),114
+2397,Manipur,2006,15-18 hrs (Day),89
+2398,Manipur,2006,18-21 hrs (Night),68
+2399,Manipur,2006,21-24 hrs (Night),18
+2400,Manipur,2007,0-3 hrs. (Night),6
+2401,Manipur,2007,3-6 hrs. (Night),27
+2402,Manipur,2007,6-9 hrs (Day),70
+2403,Manipur,2007,9-12 hrs (Day),146
+2404,Manipur,2007,12-15 hrs (Day),125
+2405,Manipur,2007,15-18 hrs (Day),89
+2406,Manipur,2007,18-21 hrs (Night),57
+2407,Manipur,2007,21-24 hrs (Night),18
+2408,Manipur,2008,0-3 hrs. (Night),11
+2409,Manipur,2008,3-6 hrs. (Night),26
+2410,Manipur,2008,6-9 hrs (Day),99
+2411,Manipur,2008,9-12 hrs (Day),134
+2412,Manipur,2008,12-15 hrs (Day),100
+2413,Manipur,2008,15-18 hrs (Day),79
+2414,Manipur,2008,18-21 hrs (Night),41
+2415,Manipur,2008,21-24 hrs (Night),12
+2416,Manipur,2009,0-3 hrs. (Night),14
+2417,Manipur,2009,3-6 hrs. (Night),24
+2418,Manipur,2009,6-9 hrs (Day),113
+2419,Manipur,2009,9-12 hrs (Day),83
+2420,Manipur,2009,12-15 hrs (Day),93
+2421,Manipur,2009,15-18 hrs (Day),138
+2422,Manipur,2009,18-21 hrs (Night),75
+2423,Manipur,2009,21-24 hrs (Night),38
+2424,Manipur,2010,0-3 hrs. (Night),27
+2425,Manipur,2010,3-6 hrs. (Night),47
+2426,Manipur,2010,6-9 hrs (Day),75
+2427,Manipur,2010,9-12 hrs (Day),124
+2428,Manipur,2010,12-15 hrs (Day),130
+2429,Manipur,2010,15-18 hrs (Day),116
+2430,Manipur,2010,18-21 hrs (Night),59
+2431,Manipur,2010,21-24 hrs (Night),24
+2432,Manipur,2011,0-3 hrs. (Night),26
+2433,Manipur,2011,3-6 hrs. (Night),52
+2434,Manipur,2011,6-9 hrs (Day),91
+2435,Manipur,2011,9-12 hrs (Day),123
+2436,Manipur,2011,12-15 hrs (Day),153
+2437,Manipur,2011,15-18 hrs (Day),107
+2438,Manipur,2011,18-21 hrs (Night),105
+2439,Manipur,2011,21-24 hrs (Night),34
+2440,Manipur,2012,0-3 hrs. (Night),54
+2441,Manipur,2012,3-6 hrs. (Night),75
+2442,Manipur,2012,6-9 hrs (Day),96
+2443,Manipur,2012,9-12 hrs (Day),143
+2444,Manipur,2012,12-15 hrs (Day),126
+2445,Manipur,2012,15-18 hrs (Day),121
+2446,Manipur,2012,18-21 hrs (Night),100
+2447,Manipur,2012,21-24 hrs (Night),56
+2448,Manipur,2013,0-3 hrs. (Night),7
+2449,Manipur,2013,3-6 hrs. (Night),13
+2450,Manipur,2013,6-9 hrs (Day),64
+2451,Manipur,2013,9-12 hrs (Day),102
+2452,Manipur,2013,12-15 hrs (Day),190
+2453,Manipur,2013,15-18 hrs (Day),142
+2454,Manipur,2013,18-21 hrs (Night),124
+2455,Manipur,2013,21-24 hrs (Night),29
+2456,Manipur,2014,0-3 hrs. (Night),7
+2457,Manipur,2014,3-6 hrs. (Night),8
+2458,Manipur,2014,6-9 hrs (Day),47
+2459,Manipur,2014,9-12 hrs (Day),162
+2460,Manipur,2014,12-15 hrs (Day),148
+2461,Manipur,2014,15-18 hrs (Day),173
+2462,Manipur,2014,18-21 hrs (Night),141
+2463,Manipur,2014,21-24 hrs (Night),49
+2464,Meghalaya,2001,0-3 hrs. (Night),10
+2465,Meghalaya,2001,3-6 hrs. (Night),11
+2466,Meghalaya,2001,6-9 hrs (Day),21
+2467,Meghalaya,2001,9-12 hrs (Day),27
+2468,Meghalaya,2001,12-15 hrs (Day),26
+2469,Meghalaya,2001,15-18 hrs (Day),25
+2470,Meghalaya,2001,18-21 hrs (Night),28
+2471,Meghalaya,2001,21-24 hrs (Night),13
+2472,Meghalaya,2002,0-3 hrs. (Night),32
+2473,Meghalaya,2002,3-6 hrs. (Night),37
+2474,Meghalaya,2002,6-9 hrs (Day),57
+2475,Meghalaya,2002,9-12 hrs (Day),84
+2476,Meghalaya,2002,12-15 hrs (Day),63
+2477,Meghalaya,2002,15-18 hrs (Day),74
+2478,Meghalaya,2002,18-21 hrs (Night),77
+2479,Meghalaya,2002,21-24 hrs (Night),41
+2480,Meghalaya,2003,0-3 hrs. (Night),43
+2481,Meghalaya,2003,3-6 hrs. (Night),44
+2482,Meghalaya,2003,6-9 hrs (Day),50
+2483,Meghalaya,2003,9-12 hrs (Day),54
+2484,Meghalaya,2003,12-15 hrs (Day),54
+2485,Meghalaya,2003,15-18 hrs (Day),49
+2486,Meghalaya,2003,18-21 hrs (Night),41
+2487,Meghalaya,2003,21-24 hrs (Night),38
+2488,Meghalaya,2004,0-3 hrs. (Night),27
+2489,Meghalaya,2004,3-6 hrs. (Night),39
+2490,Meghalaya,2004,6-9 hrs (Day),41
+2491,Meghalaya,2004,9-12 hrs (Day),52
+2492,Meghalaya,2004,12-15 hrs (Day),40
+2493,Meghalaya,2004,15-18 hrs (Day),59
+2494,Meghalaya,2004,18-21 hrs (Night),32
+2495,Meghalaya,2004,21-24 hrs (Night),38
+2496,Meghalaya,2005,0-3 hrs. (Night),12
+2497,Meghalaya,2005,3-6 hrs. (Night),29
+2498,Meghalaya,2005,6-9 hrs (Day),42
+2499,Meghalaya,2005,9-12 hrs (Day),55
+2500,Meghalaya,2005,12-15 hrs (Day),52
+2501,Meghalaya,2005,15-18 hrs (Day),50
+2502,Meghalaya,2005,18-21 hrs (Night),56
+2503,Meghalaya,2005,21-24 hrs (Night),34
+2504,Meghalaya,2006,0-3 hrs. (Night),4
+2505,Meghalaya,2006,3-6 hrs. (Night),2
+2506,Meghalaya,2006,6-9 hrs (Day),24
+2507,Meghalaya,2006,9-12 hrs (Day),22
+2508,Meghalaya,2006,12-15 hrs (Day),29
+2509,Meghalaya,2006,15-18 hrs (Day),37
+2510,Meghalaya,2006,18-21 hrs (Night),36
+2511,Meghalaya,2006,21-24 hrs (Night),22
+2512,Meghalaya,2007,0-3 hrs. (Night),3
+2513,Meghalaya,2007,3-6 hrs. (Night),5
+2514,Meghalaya,2007,6-9 hrs (Day),15
+2515,Meghalaya,2007,9-12 hrs (Day),16
+2516,Meghalaya,2007,12-15 hrs (Day),15
+2517,Meghalaya,2007,15-18 hrs (Day),24
+2518,Meghalaya,2007,18-21 hrs (Night),24
+2519,Meghalaya,2007,21-24 hrs (Night),55
+2520,Meghalaya,2008,0-3 hrs. (Night),11
+2521,Meghalaya,2008,3-6 hrs. (Night),17
+2522,Meghalaya,2008,6-9 hrs (Day),23
+2523,Meghalaya,2008,9-12 hrs (Day),22
+2524,Meghalaya,2008,12-15 hrs (Day),31
+2525,Meghalaya,2008,15-18 hrs (Day),26
+2526,Meghalaya,2008,18-21 hrs (Night),22
+2527,Meghalaya,2008,21-24 hrs (Night),39
+2528,Meghalaya,2009,0-3 hrs. (Night),17
+2529,Meghalaya,2009,3-6 hrs. (Night),16
+2530,Meghalaya,2009,6-9 hrs (Day),37
+2531,Meghalaya,2009,9-12 hrs (Day),48
+2532,Meghalaya,2009,12-15 hrs (Day),55
+2533,Meghalaya,2009,15-18 hrs (Day),53
+2534,Meghalaya,2009,18-21 hrs (Night),48
+2535,Meghalaya,2009,21-24 hrs (Night),40
+2536,Meghalaya,2010,0-3 hrs. (Night),17
+2537,Meghalaya,2010,3-6 hrs. (Night),21
+2538,Meghalaya,2010,6-9 hrs (Day),25
+2539,Meghalaya,2010,9-12 hrs (Day),39
+2540,Meghalaya,2010,12-15 hrs (Day),49
+2541,Meghalaya,2010,15-18 hrs (Day),43
+2542,Meghalaya,2010,18-21 hrs (Night),32
+2543,Meghalaya,2010,21-24 hrs (Night),31
+2544,Meghalaya,2011,0-3 hrs. (Night),10
+2545,Meghalaya,2011,3-6 hrs. (Night),22
+2546,Meghalaya,2011,6-9 hrs (Day),37
+2547,Meghalaya,2011,9-12 hrs (Day),38
+2548,Meghalaya,2011,12-15 hrs (Day),42
+2549,Meghalaya,2011,15-18 hrs (Day),47
+2550,Meghalaya,2011,18-21 hrs (Night),39
+2551,Meghalaya,2011,21-24 hrs (Night),26
+2552,Meghalaya,2012,0-3 hrs. (Night),25
+2553,Meghalaya,2012,3-6 hrs. (Night),29
+2554,Meghalaya,2012,6-9 hrs (Day),45
+2555,Meghalaya,2012,9-12 hrs (Day),61
+2556,Meghalaya,2012,12-15 hrs (Day),60
+2557,Meghalaya,2012,15-18 hrs (Day),59
+2558,Meghalaya,2012,18-21 hrs (Night),39
+2559,Meghalaya,2012,21-24 hrs (Night),37
+2560,Meghalaya,2013,0-3 hrs. (Night),7
+2561,Meghalaya,2013,3-6 hrs. (Night),17
+2562,Meghalaya,2013,6-9 hrs (Day),21
+2563,Meghalaya,2013,9-12 hrs (Day),23
+2564,Meghalaya,2013,12-15 hrs (Day),29
+2565,Meghalaya,2013,15-18 hrs (Day),28
+2566,Meghalaya,2013,18-21 hrs (Night),38
+2567,Meghalaya,2013,21-24 hrs (Night),31
+2568,Meghalaya,2014,0-3 hrs. (Night),10
+2569,Meghalaya,2014,3-6 hrs. (Night),19
+2570,Meghalaya,2014,6-9 hrs (Day),30
+2571,Meghalaya,2014,9-12 hrs (Day),45
+2572,Meghalaya,2014,12-15 hrs (Day),59
+2573,Meghalaya,2014,15-18 hrs (Day),55
+2574,Meghalaya,2014,18-21 hrs (Night),50
+2575,Meghalaya,2014,21-24 hrs (Night),33
+2576,Mizoram,2001,0-3 hrs. (Night),5
+2577,Mizoram,2001,3-6 hrs. (Night),5
+2578,Mizoram,2001,6-9 hrs (Day),10
+2579,Mizoram,2001,9-12 hrs (Day),12
+2580,Mizoram,2001,12-15 hrs (Day),11
+2581,Mizoram,2001,15-18 hrs (Day),9
+2582,Mizoram,2001,18-21 hrs (Night),14
+2583,Mizoram,2001,21-24 hrs (Night),6
+2584,Mizoram,2002,0-3 hrs. (Night),1
+2585,Mizoram,2002,3-6 hrs. (Night),5
+2586,Mizoram,2002,6-9 hrs (Day),4
+2587,Mizoram,2002,9-12 hrs (Day),9
+2588,Mizoram,2002,12-15 hrs (Day),8
+2589,Mizoram,2002,15-18 hrs (Day),4
+2590,Mizoram,2002,18-21 hrs (Night),3
+2591,Mizoram,2002,21-24 hrs (Night),7
+2592,Mizoram,2003,0-3 hrs. (Night),8
+2593,Mizoram,2003,3-6 hrs. (Night),6
+2594,Mizoram,2003,6-9 hrs (Day),8
+2595,Mizoram,2003,9-12 hrs (Day),8
+2596,Mizoram,2003,12-15 hrs (Day),13
+2597,Mizoram,2003,15-18 hrs (Day),8
+2598,Mizoram,2003,18-21 hrs (Night),9
+2599,Mizoram,2003,21-24 hrs (Night),11
+2600,Mizoram,2004,0-3 hrs. (Night),2
+2601,Mizoram,2004,3-6 hrs. (Night),5
+2602,Mizoram,2004,6-9 hrs (Day),4
+2603,Mizoram,2004,9-12 hrs (Day),6
+2604,Mizoram,2004,12-15 hrs (Day),7
+2605,Mizoram,2004,15-18 hrs (Day),4
+2606,Mizoram,2004,18-21 hrs (Night),3
+2607,Mizoram,2004,21-24 hrs (Night),7
+2608,Mizoram,2005,0-3 hrs. (Night),3
+2609,Mizoram,2005,3-6 hrs. (Night),2
+2610,Mizoram,2005,6-9 hrs (Day),5
+2611,Mizoram,2005,9-12 hrs (Day),9
+2612,Mizoram,2005,12-15 hrs (Day),15
+2613,Mizoram,2005,15-18 hrs (Day),18
+2614,Mizoram,2005,18-21 hrs (Night),16
+2615,Mizoram,2005,21-24 hrs (Night),3
+2616,Mizoram,2006,0-3 hrs. (Night),3
+2617,Mizoram,2006,3-6 hrs. (Night),9
+2618,Mizoram,2006,6-9 hrs (Day),7
+2619,Mizoram,2006,9-12 hrs (Day),10
+2620,Mizoram,2006,12-15 hrs (Day),7
+2621,Mizoram,2006,15-18 hrs (Day),13
+2622,Mizoram,2006,18-21 hrs (Night),13
+2623,Mizoram,2006,21-24 hrs (Night),10
+2624,Mizoram,2007,0-3 hrs. (Night),1
+2625,Mizoram,2007,3-6 hrs. (Night),1
+2626,Mizoram,2007,6-9 hrs (Day),3
+2627,Mizoram,2007,9-12 hrs (Day),9
+2628,Mizoram,2007,12-15 hrs (Day),14
+2629,Mizoram,2007,15-18 hrs (Day),15
+2630,Mizoram,2007,18-21 hrs (Night),8
+2631,Mizoram,2007,21-24 hrs (Night),1
+2632,Mizoram,2008,0-3 hrs. (Night),12
+2633,Mizoram,2008,3-6 hrs. (Night),9
+2634,Mizoram,2008,6-9 hrs (Day),9
+2635,Mizoram,2008,9-12 hrs (Day),12
+2636,Mizoram,2008,12-15 hrs (Day),9
+2637,Mizoram,2008,15-18 hrs (Day),12
+2638,Mizoram,2008,18-21 hrs (Night),16
+2639,Mizoram,2008,21-24 hrs (Night),8
+2640,Mizoram,2009,0-3 hrs. (Night),9
+2641,Mizoram,2009,3-6 hrs. (Night),7
+2642,Mizoram,2009,6-9 hrs (Day),9
+2643,Mizoram,2009,9-12 hrs (Day),4
+2644,Mizoram,2009,12-15 hrs (Day),7
+2645,Mizoram,2009,15-18 hrs (Day),4
+2646,Mizoram,2009,18-21 hrs (Night),16
+2647,Mizoram,2009,21-24 hrs (Night),15
+2648,Mizoram,2010,0-3 hrs. (Night),14
+2649,Mizoram,2010,3-6 hrs. (Night),13
+2650,Mizoram,2010,6-9 hrs (Day),24
+2651,Mizoram,2010,9-12 hrs (Day),12
+2652,Mizoram,2010,12-15 hrs (Day),13
+2653,Mizoram,2010,15-18 hrs (Day),16
+2654,Mizoram,2010,18-21 hrs (Night),20
+2655,Mizoram,2010,21-24 hrs (Night),13
+2656,Mizoram,2011,0-3 hrs. (Night),5
+2657,Mizoram,2011,3-6 hrs. (Night),3
+2658,Mizoram,2011,6-9 hrs (Day),10
+2659,Mizoram,2011,9-12 hrs (Day),9
+2660,Mizoram,2011,12-15 hrs (Day),8
+2661,Mizoram,2011,15-18 hrs (Day),24
+2662,Mizoram,2011,18-21 hrs (Night),20
+2663,Mizoram,2011,21-24 hrs (Night),18
+2664,Mizoram,2012,0-3 hrs. (Night),2
+2665,Mizoram,2012,3-6 hrs. (Night),11
+2666,Mizoram,2012,6-9 hrs (Day),16
+2667,Mizoram,2012,9-12 hrs (Day),26
+2668,Mizoram,2012,12-15 hrs (Day),15
+2669,Mizoram,2012,15-18 hrs (Day),24
+2670,Mizoram,2012,18-21 hrs (Night),9
+2671,Mizoram,2012,21-24 hrs (Night),7
+2672,Mizoram,2013,0-3 hrs. (Night),4
+2673,Mizoram,2013,3-6 hrs. (Night),5
+2674,Mizoram,2013,6-9 hrs (Day),9
+2675,Mizoram,2013,9-12 hrs (Day),17
+2676,Mizoram,2013,12-15 hrs (Day),16
+2677,Mizoram,2013,15-18 hrs (Day),26
+2678,Mizoram,2013,18-21 hrs (Night),20
+2679,Mizoram,2013,21-24 hrs (Night),17
+2680,Mizoram,2014,0-3 hrs. (Night),5
+2681,Mizoram,2014,3-6 hrs. (Night),12
+2682,Mizoram,2014,6-9 hrs (Day),11
+2683,Mizoram,2014,9-12 hrs (Day),9
+2684,Mizoram,2014,12-15 hrs (Day),11
+2685,Mizoram,2014,15-18 hrs (Day),20
+2686,Mizoram,2014,18-21 hrs (Night),15
+2687,Mizoram,2014,21-24 hrs (Night),12
+2688,Nagaland,2001,0-3 hrs. (Night),0
+2689,Nagaland,2001,3-6 hrs. (Night),1
+2690,Nagaland,2001,6-9 hrs (Day),3
+2691,Nagaland,2001,9-12 hrs (Day),3
+2692,Nagaland,2001,12-15 hrs (Day),9
+2693,Nagaland,2001,15-18 hrs (Day),21
+2694,Nagaland,2001,18-21 hrs (Night),19
+2695,Nagaland,2001,21-24 hrs (Night),4
+2696,Nagaland,2002,0-3 hrs. (Night),2
+2697,Nagaland,2002,3-6 hrs. (Night),4
+2698,Nagaland,2002,6-9 hrs (Day),4
+2699,Nagaland,2002,9-12 hrs (Day),7
+2700,Nagaland,2002,12-15 hrs (Day),4
+2701,Nagaland,2002,15-18 hrs (Day),9
+2702,Nagaland,2002,18-21 hrs (Night),3
+2703,Nagaland,2002,21-24 hrs (Night),1
+2704,Nagaland,2003,0-3 hrs. (Night),1
+2705,Nagaland,2003,3-6 hrs. (Night),2
+2706,Nagaland,2003,6-9 hrs (Day),8
+2707,Nagaland,2003,9-12 hrs (Day),11
+2708,Nagaland,2003,12-15 hrs (Day),7
+2709,Nagaland,2003,15-18 hrs (Day),11
+2710,Nagaland,2003,18-21 hrs (Night),13
+2711,Nagaland,2003,21-24 hrs (Night),3
+2712,Nagaland,2004,0-3 hrs. (Night),3
+2713,Nagaland,2004,3-6 hrs. (Night),2
+2714,Nagaland,2004,6-9 hrs (Day),7
+2715,Nagaland,2004,9-12 hrs (Day),17
+2716,Nagaland,2004,12-15 hrs (Day),9
+2717,Nagaland,2004,15-18 hrs (Day),15
+2718,Nagaland,2004,18-21 hrs (Night),11
+2719,Nagaland,2004,21-24 hrs (Night),4
+2720,Nagaland,2005,0-3 hrs. (Night),3
+2721,Nagaland,2005,3-6 hrs. (Night),1
+2722,Nagaland,2005,6-9 hrs (Day),6
+2723,Nagaland,2005,9-12 hrs (Day),12
+2724,Nagaland,2005,12-15 hrs (Day),13
+2725,Nagaland,2005,15-18 hrs (Day),9
+2726,Nagaland,2005,18-21 hrs (Night),7
+2727,Nagaland,2005,21-24 hrs (Night),2
+2728,Nagaland,2006,0-3 hrs. (Night),4
+2729,Nagaland,2006,3-6 hrs. (Night),5
+2730,Nagaland,2006,6-9 hrs (Day),10
+2731,Nagaland,2006,9-12 hrs (Day),17
+2732,Nagaland,2006,12-15 hrs (Day),10
+2733,Nagaland,2006,15-18 hrs (Day),15
+2734,Nagaland,2006,18-21 hrs (Night),11
+2735,Nagaland,2006,21-24 hrs (Night),5
+2736,Nagaland,2007,0-3 hrs. (Night),4
+2737,Nagaland,2007,3-6 hrs. (Night),2
+2738,Nagaland,2007,6-9 hrs (Day),13
+2739,Nagaland,2007,9-12 hrs (Day),15
+2740,Nagaland,2007,12-15 hrs (Day),18
+2741,Nagaland,2007,15-18 hrs (Day),6
+2742,Nagaland,2007,18-21 hrs (Night),10
+2743,Nagaland,2007,21-24 hrs (Night),7
+2744,Nagaland,2008,0-3 hrs. (Night),0
+2745,Nagaland,2008,3-6 hrs. (Night),2
+2746,Nagaland,2008,6-9 hrs (Day),12
+2747,Nagaland,2008,9-12 hrs (Day),18
+2748,Nagaland,2008,12-15 hrs (Day),28
+2749,Nagaland,2008,15-18 hrs (Day),28
+2750,Nagaland,2008,18-21 hrs (Night),26
+2751,Nagaland,2008,21-24 hrs (Night),12
+2752,Nagaland,2009,0-3 hrs. (Night),1
+2753,Nagaland,2009,3-6 hrs. (Night),2
+2754,Nagaland,2009,6-9 hrs (Day),7
+2755,Nagaland,2009,9-12 hrs (Day),5
+2756,Nagaland,2009,12-15 hrs (Day),11
+2757,Nagaland,2009,15-18 hrs (Day),10
+2758,Nagaland,2009,18-21 hrs (Night),3
+2759,Nagaland,2009,21-24 hrs (Night),8
+2760,Nagaland,2010,0-3 hrs. (Night),0
+2761,Nagaland,2010,3-6 hrs. (Night),1
+2762,Nagaland,2010,6-9 hrs (Day),6
+2763,Nagaland,2010,9-12 hrs (Day),4
+2764,Nagaland,2010,12-15 hrs (Day),13
+2765,Nagaland,2010,15-18 hrs (Day),9
+2766,Nagaland,2010,18-21 hrs (Night),3
+2767,Nagaland,2010,21-24 hrs (Night),8
+2768,Nagaland,2011,0-3 hrs. (Night),2
+2769,Nagaland,2011,3-6 hrs. (Night),4
+2770,Nagaland,2011,6-9 hrs (Day),2
+2771,Nagaland,2011,9-12 hrs (Day),4
+2772,Nagaland,2011,12-15 hrs (Day),6
+2773,Nagaland,2011,15-18 hrs (Day),8
+2774,Nagaland,2011,18-21 hrs (Night),3
+2775,Nagaland,2011,21-24 hrs (Night),3
+2776,Nagaland,2012,0-3 hrs. (Night),6
+2777,Nagaland,2012,3-6 hrs. (Night),0
+2778,Nagaland,2012,6-9 hrs (Day),3
+2779,Nagaland,2012,9-12 hrs (Day),4
+2780,Nagaland,2012,12-15 hrs (Day),7
+2781,Nagaland,2012,15-18 hrs (Day),6
+2782,Nagaland,2012,18-21 hrs (Night),7
+2783,Nagaland,2012,21-24 hrs (Night),9
+2784,Nagaland,2013,0-3 hrs. (Night),0
+2785,Nagaland,2013,3-6 hrs. (Night),2
+2786,Nagaland,2013,6-9 hrs (Day),5
+2787,Nagaland,2013,9-12 hrs (Day),7
+2788,Nagaland,2013,12-15 hrs (Day),10
+2789,Nagaland,2013,15-18 hrs (Day),5
+2790,Nagaland,2013,18-21 hrs (Night),6
+2791,Nagaland,2013,21-24 hrs (Night),4
+2792,Nagaland,2014,0-3 hrs. (Night),0
+2793,Nagaland,2014,3-6 hrs. (Night),2
+2794,Nagaland,2014,6-9 hrs (Day),3
+2795,Nagaland,2014,9-12 hrs (Day),3
+2796,Nagaland,2014,12-15 hrs (Day),8
+2797,Nagaland,2014,15-18 hrs (Day),6
+2798,Nagaland,2014,18-21 hrs (Night),5
+2799,Nagaland,2014,21-24 hrs (Night),1
+2800,Odisha,2001,0-3 hrs. (Night),517
+2801,Odisha,2001,3-6 hrs. (Night),811
+2802,Odisha,2001,6-9 hrs (Day),1153
+2803,Odisha,2001,9-12 hrs (Day),1005
+2804,Odisha,2001,12-15 hrs (Day),797
+2805,Odisha,2001,15-18 hrs (Day),781
+2806,Odisha,2001,18-21 hrs (Night),715
+2807,Odisha,2001,21-24 hrs (Night),627
+2808,Odisha,2002,0-3 hrs. (Night),480
+2809,Odisha,2002,3-6 hrs. (Night),722
+2810,Odisha,2002,6-9 hrs (Day),1086
+2811,Odisha,2002,9-12 hrs (Day),1132
+2812,Odisha,2002,12-15 hrs (Day),933
+2813,Odisha,2002,15-18 hrs (Day),941
+2814,Odisha,2002,18-21 hrs (Night),921
+2815,Odisha,2002,21-24 hrs (Night),635
+2816,Odisha,2003,0-3 hrs. (Night),427
+2817,Odisha,2003,3-6 hrs. (Night),949
+2818,Odisha,2003,6-9 hrs (Day),1113
+2819,Odisha,2003,9-12 hrs (Day),1020
+2820,Odisha,2003,12-15 hrs (Day),756
+2821,Odisha,2003,15-18 hrs (Day),863
+2822,Odisha,2003,18-21 hrs (Night),900
+2823,Odisha,2003,21-24 hrs (Night),647
+2824,Odisha,2004,0-3 hrs. (Night),506
+2825,Odisha,2004,3-6 hrs. (Night),805
+2826,Odisha,2004,6-9 hrs (Day),943
+2827,Odisha,2004,9-12 hrs (Day),1126
+2828,Odisha,2004,12-15 hrs (Day),844
+2829,Odisha,2004,15-18 hrs (Day),1168
+2830,Odisha,2004,18-21 hrs (Night),1097
+2831,Odisha,2004,21-24 hrs (Night),789
+2832,Odisha,2005,0-3 hrs. (Night),478
+2833,Odisha,2005,3-6 hrs. (Night),810
+2834,Odisha,2005,6-9 hrs (Day),1002
+2835,Odisha,2005,9-12 hrs (Day),1317
+2836,Odisha,2005,12-15 hrs (Day),981
+2837,Odisha,2005,15-18 hrs (Day),1251
+2838,Odisha,2005,18-21 hrs (Night),1127
+2839,Odisha,2005,21-24 hrs (Night),627
+2840,Odisha,2006,0-3 hrs. (Night),547
+2841,Odisha,2006,3-6 hrs. (Night),999
+2842,Odisha,2006,6-9 hrs (Day),986
+2843,Odisha,2006,9-12 hrs (Day),1259
+2844,Odisha,2006,12-15 hrs (Day),932
+2845,Odisha,2006,15-18 hrs (Day),1230
+2846,Odisha,2006,18-21 hrs (Night),1038
+2847,Odisha,2006,21-24 hrs (Night),738
+2848,Odisha,2007,0-3 hrs. (Night),632
+2849,Odisha,2007,3-6 hrs. (Night),904
+2850,Odisha,2007,6-9 hrs (Day),1065
+2851,Odisha,2007,9-12 hrs (Day),1454
+2852,Odisha,2007,12-15 hrs (Day),951
+2853,Odisha,2007,15-18 hrs (Day),1324
+2854,Odisha,2007,18-21 hrs (Night),1060
+2855,Odisha,2007,21-24 hrs (Night),824
+2856,Odisha,2008,0-3 hrs. (Night),595
+2857,Odisha,2008,3-6 hrs. (Night),858
+2858,Odisha,2008,6-9 hrs (Day),1076
+2859,Odisha,2008,9-12 hrs (Day),1371
+2860,Odisha,2008,12-15 hrs (Day),1075
+2861,Odisha,2008,15-18 hrs (Day),1371
+2862,Odisha,2008,18-21 hrs (Night),1033
+2863,Odisha,2008,21-24 hrs (Night),805
+2864,Odisha,2009,0-3 hrs. (Night),608
+2865,Odisha,2009,3-6 hrs. (Night),836
+2866,Odisha,2009,6-9 hrs (Day),1046
+2867,Odisha,2009,9-12 hrs (Day),1501
+2868,Odisha,2009,12-15 hrs (Day),1218
+2869,Odisha,2009,15-18 hrs (Day),1433
+2870,Odisha,2009,18-21 hrs (Night),1313
+2871,Odisha,2009,21-24 hrs (Night),937
+2872,Odisha,2010,0-3 hrs. (Night),724
+2873,Odisha,2010,3-6 hrs. (Night),928
+2874,Odisha,2010,6-9 hrs (Day),1031
+2875,Odisha,2010,9-12 hrs (Day),1504
+2876,Odisha,2010,12-15 hrs (Day),1349
+2877,Odisha,2010,15-18 hrs (Day),1492
+2878,Odisha,2010,18-21 hrs (Night),1416
+2879,Odisha,2010,21-24 hrs (Night),969
+2880,Odisha,2011,0-3 hrs. (Night),756
+2881,Odisha,2011,3-6 hrs. (Night),1015
+2882,Odisha,2011,6-9 hrs (Day),1043
+2883,Odisha,2011,9-12 hrs (Day),1442
+2884,Odisha,2011,12-15 hrs (Day),1179
+2885,Odisha,2011,15-18 hrs (Day),1516
+2886,Odisha,2011,18-21 hrs (Night),1390
+2887,Odisha,2011,21-24 hrs (Night),1057
+2888,Odisha,2012,0-3 hrs. (Night),978
+2889,Odisha,2012,3-6 hrs. (Night),1289
+2890,Odisha,2012,6-9 hrs (Day),950
+2891,Odisha,2012,9-12 hrs (Day),1189
+2892,Odisha,2012,12-15 hrs (Day),1096
+2893,Odisha,2012,15-18 hrs (Day),1261
+2894,Odisha,2012,18-21 hrs (Night),1509
+2895,Odisha,2012,21-24 hrs (Night),1013
+2896,Odisha,2013,0-3 hrs. (Night),780
+2897,Odisha,2013,3-6 hrs. (Night),1029
+2898,Odisha,2013,6-9 hrs (Day),1100
+2899,Odisha,2013,9-12 hrs (Day),1452
+2900,Odisha,2013,12-15 hrs (Day),1188
+2901,Odisha,2013,15-18 hrs (Day),1520
+2902,Odisha,2013,18-21 hrs (Night),1518
+2903,Odisha,2013,21-24 hrs (Night),1093
+2904,Odisha,2014,0-3 hrs. (Night),661
+2905,Odisha,2014,3-6 hrs. (Night),880
+2906,Odisha,2014,6-9 hrs (Day),1099
+2907,Odisha,2014,9-12 hrs (Day),1413
+2908,Odisha,2014,12-15 hrs (Day),1283
+2909,Odisha,2014,15-18 hrs (Day),1651
+2910,Odisha,2014,18-21 hrs (Night),1564
+2911,Odisha,2014,21-24 hrs (Night),1089
+2912,Puducherry,2001,0-3 hrs. (Night),24
+2913,Puducherry,2001,3-6 hrs. (Night),53
+2914,Puducherry,2001,6-9 hrs (Day),141
+2915,Puducherry,2001,9-12 hrs (Day),263
+2916,Puducherry,2001,12-15 hrs (Day),236
+2917,Puducherry,2001,15-18 hrs (Day),255
+2918,Puducherry,2001,18-21 hrs (Night),235
+2919,Puducherry,2001,21-24 hrs (Night),79
+2920,Puducherry,2002,0-3 hrs. (Night),36
+2921,Puducherry,2002,3-6 hrs. (Night),44
+2922,Puducherry,2002,6-9 hrs (Day),164
+2923,Puducherry,2002,9-12 hrs (Day),268
+2924,Puducherry,2002,12-15 hrs (Day),264
+2925,Puducherry,2002,15-18 hrs (Day),283
+2926,Puducherry,2002,18-21 hrs (Night),275
+2927,Puducherry,2002,21-24 hrs (Night),150
+2928,Puducherry,2003,0-3 hrs. (Night),40
+2929,Puducherry,2003,3-6 hrs. (Night),44
+2930,Puducherry,2003,6-9 hrs (Day),212
+2931,Puducherry,2003,9-12 hrs (Day),302
+2932,Puducherry,2003,12-15 hrs (Day),256
+2933,Puducherry,2003,15-18 hrs (Day),285
+2934,Puducherry,2003,18-21 hrs (Night),290
+2935,Puducherry,2003,21-24 hrs (Night),157
+2936,Puducherry,2004,0-3 hrs. (Night),48
+2937,Puducherry,2004,3-6 hrs. (Night),53
+2938,Puducherry,2004,6-9 hrs (Day),206
+2939,Puducherry,2004,9-12 hrs (Day),263
+2940,Puducherry,2004,12-15 hrs (Day),277
+2941,Puducherry,2004,15-18 hrs (Day),309
+2942,Puducherry,2004,18-21 hrs (Night),325
+2943,Puducherry,2004,21-24 hrs (Night),152
+2944,Puducherry,2005,0-3 hrs. (Night),57
+2945,Puducherry,2005,3-6 hrs. (Night),81
+2946,Puducherry,2005,6-9 hrs (Day),234
+2947,Puducherry,2005,9-12 hrs (Day),271
+2948,Puducherry,2005,12-15 hrs (Day),284
+2949,Puducherry,2005,15-18 hrs (Day),302
+2950,Puducherry,2005,18-21 hrs (Night),390
+2951,Puducherry,2005,21-24 hrs (Night),161
+2952,Puducherry,2006,0-3 hrs. (Night),31
+2953,Puducherry,2006,3-6 hrs. (Night),18
+2954,Puducherry,2006,6-9 hrs (Day),146
+2955,Puducherry,2006,9-12 hrs (Day),331
+2956,Puducherry,2006,12-15 hrs (Day),312
+2957,Puducherry,2006,15-18 hrs (Day),285
+2958,Puducherry,2006,18-21 hrs (Night),314
+2959,Puducherry,2006,21-24 hrs (Night),202
+2960,Puducherry,2007,0-3 hrs. (Night),51
+2961,Puducherry,2007,3-6 hrs. (Night),72
+2962,Puducherry,2007,6-9 hrs (Day),250
+2963,Puducherry,2007,9-12 hrs (Day),312
+2964,Puducherry,2007,12-15 hrs (Day),262
+2965,Puducherry,2007,15-18 hrs (Day),301
+2966,Puducherry,2007,18-21 hrs (Night),355
+2967,Puducherry,2007,21-24 hrs (Night),141
+2968,Puducherry,2008,0-3 hrs. (Night),53
+2969,Puducherry,2008,3-6 hrs. (Night),49
+2970,Puducherry,2008,6-9 hrs (Day),189
+2971,Puducherry,2008,9-12 hrs (Day),266
+2972,Puducherry,2008,12-15 hrs (Day),270
+2973,Puducherry,2008,15-18 hrs (Day),287
+2974,Puducherry,2008,18-21 hrs (Night),360
+2975,Puducherry,2008,21-24 hrs (Night),224
+2976,Puducherry,2009,0-3 hrs. (Night),41
+2977,Puducherry,2009,3-6 hrs. (Night),48
+2978,Puducherry,2009,6-9 hrs (Day),232
+2979,Puducherry,2009,9-12 hrs (Day),264
+2980,Puducherry,2009,12-15 hrs (Day),257
+2981,Puducherry,2009,15-18 hrs (Day),295
+2982,Puducherry,2009,18-21 hrs (Night),340
+2983,Puducherry,2009,21-24 hrs (Night),221
+2984,Puducherry,2010,0-3 hrs. (Night),43
+2985,Puducherry,2010,3-6 hrs. (Night),61
+2986,Puducherry,2010,6-9 hrs (Day),155
+2987,Puducherry,2010,9-12 hrs (Day),251
+2988,Puducherry,2010,12-15 hrs (Day),238
+2989,Puducherry,2010,15-18 hrs (Day),272
+2990,Puducherry,2010,18-21 hrs (Night),319
+2991,Puducherry,2010,21-24 hrs (Night),190
+2992,Puducherry,2011,0-3 hrs. (Night),38
+2993,Puducherry,2011,3-6 hrs. (Night),66
+2994,Puducherry,2011,6-9 hrs (Day),174
+2995,Puducherry,2011,9-12 hrs (Day),234
+2996,Puducherry,2011,12-15 hrs (Day),246
+2997,Puducherry,2011,15-18 hrs (Day),285
+2998,Puducherry,2011,18-21 hrs (Night),307
+2999,Puducherry,2011,21-24 hrs (Night),130
+3000,Puducherry,2012,0-3 hrs. (Night),35
+3001,Puducherry,2012,3-6 hrs. (Night),66
+3002,Puducherry,2012,6-9 hrs (Day),209
+3003,Puducherry,2012,9-12 hrs (Day),276
+3004,Puducherry,2012,12-15 hrs (Day),202
+3005,Puducherry,2012,15-18 hrs (Day),229
+3006,Puducherry,2012,18-21 hrs (Night),319
+3007,Puducherry,2012,21-24 hrs (Night),174
+3008,Puducherry,2013,0-3 hrs. (Night),31
+3009,Puducherry,2013,3-6 hrs. (Night),58
+3010,Puducherry,2013,6-9 hrs (Day),162
+3011,Puducherry,2013,9-12 hrs (Day),207
+3012,Puducherry,2013,12-15 hrs (Day),225
+3013,Puducherry,2013,15-18 hrs (Day),267
+3014,Puducherry,2013,18-21 hrs (Night),336
+3015,Puducherry,2013,21-24 hrs (Night),165
+3016,Puducherry,2014,0-3 hrs. (Night),28
+3017,Puducherry,2014,3-6 hrs. (Night),23
+3018,Puducherry,2014,6-9 hrs (Day),58
+3019,Puducherry,2014,9-12 hrs (Day),109
+3020,Puducherry,2014,12-15 hrs (Day),97
+3021,Puducherry,2014,15-18 hrs (Day),179
+3022,Puducherry,2014,18-21 hrs (Night),115
+3023,Puducherry,2014,21-24 hrs (Night),62
+3024,Punjab,2001,0-3 hrs. (Night),167
+3025,Punjab,2001,3-6 hrs. (Night),185
+3026,Punjab,2001,6-9 hrs (Day),219
+3027,Punjab,2001,9-12 hrs (Day),271
+3028,Punjab,2001,12-15 hrs (Day),233
+3029,Punjab,2001,15-18 hrs (Day),252
+3030,Punjab,2001,18-21 hrs (Night),285
+3031,Punjab,2001,21-24 hrs (Night),196
+3032,Punjab,2002,0-3 hrs. (Night),163
+3033,Punjab,2002,3-6 hrs. (Night),170
+3034,Punjab,2002,6-9 hrs (Day),185
+3035,Punjab,2002,9-12 hrs (Day),197
+3036,Punjab,2002,12-15 hrs (Day),191
+3037,Punjab,2002,15-18 hrs (Day),196
+3038,Punjab,2002,18-21 hrs (Night),205
+3039,Punjab,2002,21-24 hrs (Night),201
+3040,Punjab,2003,0-3 hrs. (Night),140
+3041,Punjab,2003,3-6 hrs. (Night),199
+3042,Punjab,2003,6-9 hrs (Day),207
+3043,Punjab,2003,9-12 hrs (Day),221
+3044,Punjab,2003,12-15 hrs (Day),167
+3045,Punjab,2003,15-18 hrs (Day),202
+3046,Punjab,2003,18-21 hrs (Night),247
+3047,Punjab,2003,21-24 hrs (Night),220
+3048,Punjab,2004,0-3 hrs. (Night),189
+3049,Punjab,2004,3-6 hrs. (Night),248
+3050,Punjab,2004,6-9 hrs (Day),250
+3051,Punjab,2004,9-12 hrs (Day),270
+3052,Punjab,2004,12-15 hrs (Day),222
+3053,Punjab,2004,15-18 hrs (Day),273
+3054,Punjab,2004,18-21 hrs (Night),333
+3055,Punjab,2004,21-24 hrs (Night),251
+3056,Punjab,2005,0-3 hrs. (Night),200
+3057,Punjab,2005,3-6 hrs. (Night),262
+3058,Punjab,2005,6-9 hrs (Day),264
+3059,Punjab,2005,9-12 hrs (Day),285
+3060,Punjab,2005,12-15 hrs (Day),235
+3061,Punjab,2005,15-18 hrs (Day),289
+3062,Punjab,2005,18-21 hrs (Night),352
+3063,Punjab,2005,21-24 hrs (Night),265
+3064,Punjab,2006,0-3 hrs. (Night),209
+3065,Punjab,2006,3-6 hrs. (Night),164
+3066,Punjab,2006,6-9 hrs (Day),278
+3067,Punjab,2006,9-12 hrs (Day),360
+3068,Punjab,2006,12-15 hrs (Day),264
+3069,Punjab,2006,15-18 hrs (Day),325
+3070,Punjab,2006,18-21 hrs (Night),404
+3071,Punjab,2006,21-24 hrs (Night),247
+3072,Punjab,2007,0-3 hrs. (Night),192
+3073,Punjab,2007,3-6 hrs. (Night),217
+3074,Punjab,2007,6-9 hrs (Day),329
+3075,Punjab,2007,9-12 hrs (Day),361
+3076,Punjab,2007,12-15 hrs (Day),291
+3077,Punjab,2007,15-18 hrs (Day),324
+3078,Punjab,2007,18-21 hrs (Night),408
+3079,Punjab,2007,21-24 hrs (Night),269
+3080,Punjab,2008,0-3 hrs. (Night),181
+3081,Punjab,2008,3-6 hrs. (Night),267
+3082,Punjab,2008,6-9 hrs (Day),344
+3083,Punjab,2008,9-12 hrs (Day),337
+3084,Punjab,2008,12-15 hrs (Day),256
+3085,Punjab,2008,15-18 hrs (Day),322
+3086,Punjab,2008,18-21 hrs (Night),436
+3087,Punjab,2008,21-24 hrs (Night),251
+3088,Punjab,2009,0-3 hrs. (Night),197
+3089,Punjab,2009,3-6 hrs. (Night),282
+3090,Punjab,2009,6-9 hrs (Day),394
+3091,Punjab,2009,9-12 hrs (Day),369
+3092,Punjab,2009,12-15 hrs (Day),298
+3093,Punjab,2009,15-18 hrs (Day),385
+3094,Punjab,2009,18-21 hrs (Night),489
+3095,Punjab,2009,21-24 hrs (Night),270
+3096,Punjab,2010,0-3 hrs. (Night),205
+3097,Punjab,2010,3-6 hrs. (Night),280
+3098,Punjab,2010,6-9 hrs (Day),347
+3099,Punjab,2010,9-12 hrs (Day),380
+3100,Punjab,2010,12-15 hrs (Day),255
+3101,Punjab,2010,15-18 hrs (Day),327
+3102,Punjab,2010,18-21 hrs (Night),418
+3103,Punjab,2010,21-24 hrs (Night),227
+3104,Punjab,2011,0-3 hrs. (Night),379
+3105,Punjab,2011,3-6 hrs. (Night),582
+3106,Punjab,2011,6-9 hrs (Day),896
+3107,Punjab,2011,9-12 hrs (Day),979
+3108,Punjab,2011,12-15 hrs (Day),861
+3109,Punjab,2011,15-18 hrs (Day),922
+3110,Punjab,2011,18-21 hrs (Night),1266
+3111,Punjab,2011,21-24 hrs (Night),611
+3112,Punjab,2012,0-3 hrs. (Night),349
+3113,Punjab,2012,3-6 hrs. (Night),537
+3114,Punjab,2012,6-9 hrs (Day),824
+3115,Punjab,2012,9-12 hrs (Day),887
+3116,Punjab,2012,12-15 hrs (Day),866
+3117,Punjab,2012,15-18 hrs (Day),1089
+3118,Punjab,2012,18-21 hrs (Night),1091
+3119,Punjab,2012,21-24 hrs (Night),685
+3120,Punjab,2013,0-3 hrs. (Night),368
+3121,Punjab,2013,3-6 hrs. (Night),575
+3122,Punjab,2013,6-9 hrs (Day),722
+3123,Punjab,2013,9-12 hrs (Day),840
+3124,Punjab,2013,12-15 hrs (Day),816
+3125,Punjab,2013,15-18 hrs (Day),980
+3126,Punjab,2013,18-21 hrs (Night),1309
+3127,Punjab,2013,21-24 hrs (Night),713
+3128,Punjab,2014,0-3 hrs. (Night),387
+3129,Punjab,2014,3-6 hrs. (Night),392
+3130,Punjab,2014,6-9 hrs (Day),683
+3131,Punjab,2014,9-12 hrs (Day),842
+3132,Punjab,2014,12-15 hrs (Day),943
+3133,Punjab,2014,15-18 hrs (Day),998
+3134,Punjab,2014,18-21 hrs (Night),1380
+3135,Punjab,2014,21-24 hrs (Night),766
+3136,Rajasthan,2001,0-3 hrs. (Night),1390
+3137,Rajasthan,2001,3-6 hrs. (Night),2344
+3138,Rajasthan,2001,6-9 hrs (Day),2880
+3139,Rajasthan,2001,9-12 hrs (Day),2895
+3140,Rajasthan,2001,12-15 hrs (Day),3024
+3141,Rajasthan,2001,15-18 hrs (Day),3170
+3142,Rajasthan,2001,18-21 hrs (Night),2690
+3143,Rajasthan,2001,21-24 hrs (Night),1606
+3144,Rajasthan,2002,0-3 hrs. (Night),1419
+3145,Rajasthan,2002,3-6 hrs. (Night),1996
+3146,Rajasthan,2002,6-9 hrs (Day),2657
+3147,Rajasthan,2002,9-12 hrs (Day),3190
+3148,Rajasthan,2002,12-15 hrs (Day),2906
+3149,Rajasthan,2002,15-18 hrs (Day),3372
+3150,Rajasthan,2002,18-21 hrs (Night),3087
+3151,Rajasthan,2002,21-24 hrs (Night),1944
+3152,Rajasthan,2003,0-3 hrs. (Night),1359
+3153,Rajasthan,2003,3-6 hrs. (Night),1768
+3154,Rajasthan,2003,6-9 hrs (Day),3264
+3155,Rajasthan,2003,9-12 hrs (Day),3709
+3156,Rajasthan,2003,12-15 hrs (Day),3236
+3157,Rajasthan,2003,15-18 hrs (Day),3615
+3158,Rajasthan,2003,18-21 hrs (Night),3013
+3159,Rajasthan,2003,21-24 hrs (Night),1969
+3160,Rajasthan,2004,0-3 hrs. (Night),1263
+3161,Rajasthan,2004,3-6 hrs. (Night),1841
+3162,Rajasthan,2004,6-9 hrs (Day),3134
+3163,Rajasthan,2004,9-12 hrs (Day),3808
+3164,Rajasthan,2004,12-15 hrs (Day),3282
+3165,Rajasthan,2004,15-18 hrs (Day),3999
+3166,Rajasthan,2004,18-21 hrs (Night),3818
+3167,Rajasthan,2004,21-24 hrs (Night),2098
+3168,Rajasthan,2005,0-3 hrs. (Night),1271
+3169,Rajasthan,2005,3-6 hrs. (Night),1895
+3170,Rajasthan,2005,6-9 hrs (Day),3243
+3171,Rajasthan,2005,9-12 hrs (Day),3645
+3172,Rajasthan,2005,12-15 hrs (Day),3559
+3173,Rajasthan,2005,15-18 hrs (Day),3792
+3174,Rajasthan,2005,18-21 hrs (Night),3721
+3175,Rajasthan,2005,21-24 hrs (Night),1989
+3176,Rajasthan,2006,0-3 hrs. (Night),1171
+3177,Rajasthan,2006,3-6 hrs. (Night),1634
+3178,Rajasthan,2006,6-9 hrs (Day),2874
+3179,Rajasthan,2006,9-12 hrs (Day),3814
+3180,Rajasthan,2006,12-15 hrs (Day),3795
+3181,Rajasthan,2006,15-18 hrs (Day),4159
+3182,Rajasthan,2006,18-21 hrs (Night),3948
+3183,Rajasthan,2006,21-24 hrs (Night),1953
+3184,Rajasthan,2007,0-3 hrs. (Night),1359
+3185,Rajasthan,2007,3-6 hrs. (Night),1735
+3186,Rajasthan,2007,6-9 hrs (Day),3078
+3187,Rajasthan,2007,9-12 hrs (Day),4064
+3188,Rajasthan,2007,12-15 hrs (Day),3672
+3189,Rajasthan,2007,15-18 hrs (Day),3658
+3190,Rajasthan,2007,18-21 hrs (Night),3698
+3191,Rajasthan,2007,21-24 hrs (Night),2621
+3192,Rajasthan,2008,0-3 hrs. (Night),1399
+3193,Rajasthan,2008,3-6 hrs. (Night),1654
+3194,Rajasthan,2008,6-9 hrs (Day),3048
+3195,Rajasthan,2008,9-12 hrs (Day),3670
+3196,Rajasthan,2008,12-15 hrs (Day),3630
+3197,Rajasthan,2008,15-18 hrs (Day),3875
+3198,Rajasthan,2008,18-21 hrs (Night),3775
+3199,Rajasthan,2008,21-24 hrs (Night),2653
+3200,Rajasthan,2009,0-3 hrs. (Night),1426
+3201,Rajasthan,2009,3-6 hrs. (Night),1825
+3202,Rajasthan,2009,6-9 hrs (Day),2933
+3203,Rajasthan,2009,9-12 hrs (Day),3666
+3204,Rajasthan,2009,12-15 hrs (Day),3908
+3205,Rajasthan,2009,15-18 hrs (Day),4291
+3206,Rajasthan,2009,18-21 hrs (Night),4389
+3207,Rajasthan,2009,21-24 hrs (Night),2676
+3208,Rajasthan,2010,0-3 hrs. (Night),1558
+3209,Rajasthan,2010,3-6 hrs. (Night),1869
+3210,Rajasthan,2010,6-9 hrs (Day),2862
+3211,Rajasthan,2010,9-12 hrs (Day),3391
+3212,Rajasthan,2010,12-15 hrs (Day),3793
+3213,Rajasthan,2010,15-18 hrs (Day),4335
+3214,Rajasthan,2010,18-21 hrs (Night),4133
+3215,Rajasthan,2010,21-24 hrs (Night),2361
+3216,Rajasthan,2011,0-3 hrs. (Night),1358
+3217,Rajasthan,2011,3-6 hrs. (Night),2152
+3218,Rajasthan,2011,6-9 hrs (Day),2576
+3219,Rajasthan,2011,9-12 hrs (Day),3216
+3220,Rajasthan,2011,12-15 hrs (Day),3693
+3221,Rajasthan,2011,15-18 hrs (Day),4125
+3222,Rajasthan,2011,18-21 hrs (Night),3913
+3223,Rajasthan,2011,21-24 hrs (Night),2212
+3224,Rajasthan,2012,0-3 hrs. (Night),1094
+3225,Rajasthan,2012,3-6 hrs. (Night),1729
+3226,Rajasthan,2012,6-9 hrs (Day),2589
+3227,Rajasthan,2012,9-12 hrs (Day),3434
+3228,Rajasthan,2012,12-15 hrs (Day),3709
+3229,Rajasthan,2012,15-18 hrs (Day),4191
+3230,Rajasthan,2012,18-21 hrs (Night),3912
+3231,Rajasthan,2012,21-24 hrs (Night),2311
+3232,Rajasthan,2013,0-3 hrs. (Night),1061
+3233,Rajasthan,2013,3-6 hrs. (Night),1519
+3234,Rajasthan,2013,6-9 hrs (Day),2638
+3235,Rajasthan,2013,9-12 hrs (Day),3867
+3236,Rajasthan,2013,12-15 hrs (Day),3863
+3237,Rajasthan,2013,15-18 hrs (Day),4281
+3238,Rajasthan,2013,18-21 hrs (Night),4143
+3239,Rajasthan,2013,21-24 hrs (Night),2214
+3240,Rajasthan,2014,0-3 hrs. (Night),1128
+3241,Rajasthan,2014,3-6 hrs. (Night),1428
+3242,Rajasthan,2014,6-9 hrs (Day),2622
+3243,Rajasthan,2014,9-12 hrs (Day),3706
+3244,Rajasthan,2014,12-15 hrs (Day),4234
+3245,Rajasthan,2014,15-18 hrs (Day),4841
+3246,Rajasthan,2014,18-21 hrs (Night),4215
+3247,Rajasthan,2014,21-24 hrs (Night),2465
+3248,Sikkim,2001,0-3 hrs. (Night),0
+3249,Sikkim,2001,3-6 hrs. (Night),2
+3250,Sikkim,2001,6-9 hrs (Day),11
+3251,Sikkim,2001,9-12 hrs (Day),8
+3252,Sikkim,2001,12-15 hrs (Day),15
+3253,Sikkim,2001,15-18 hrs (Day),6
+3254,Sikkim,2001,18-21 hrs (Night),10
+3255,Sikkim,2001,21-24 hrs (Night),3
+3256,Sikkim,2002,0-3 hrs. (Night),0
+3257,Sikkim,2002,3-6 hrs. (Night),0
+3258,Sikkim,2002,6-9 hrs (Day),169
+3259,Sikkim,2002,9-12 hrs (Day),0
+3260,Sikkim,2002,12-15 hrs (Day),126
+3261,Sikkim,2002,15-18 hrs (Day),0
+3262,Sikkim,2002,18-21 hrs (Night),56
+3263,Sikkim,2002,21-24 hrs (Night),0
+3264,Sikkim,2003,0-3 hrs. (Night),0
+3265,Sikkim,2003,3-6 hrs. (Night),0
+3266,Sikkim,2003,6-9 hrs (Day),14
+3267,Sikkim,2003,9-12 hrs (Day),24
+3268,Sikkim,2003,12-15 hrs (Day),14
+3269,Sikkim,2003,15-18 hrs (Day),35
+3270,Sikkim,2003,18-21 hrs (Night),37
+3271,Sikkim,2003,21-24 hrs (Night),7
+3272,Sikkim,2004,0-3 hrs. (Night),0
+3273,Sikkim,2004,3-6 hrs. (Night),12
+3274,Sikkim,2004,6-9 hrs (Day),18
+3275,Sikkim,2004,9-12 hrs (Day),24
+3276,Sikkim,2004,12-15 hrs (Day),34
+3277,Sikkim,2004,15-18 hrs (Day),31
+3278,Sikkim,2004,18-21 hrs (Night),33
+3279,Sikkim,2004,21-24 hrs (Night),7
+3280,Sikkim,2005,0-3 hrs. (Night),5
+3281,Sikkim,2005,3-6 hrs. (Night),11
+3282,Sikkim,2005,6-9 hrs (Day),35
+3283,Sikkim,2005,9-12 hrs (Day),32
+3284,Sikkim,2005,12-15 hrs (Day),29
+3285,Sikkim,2005,15-18 hrs (Day),42
+3286,Sikkim,2005,18-21 hrs (Night),20
+3287,Sikkim,2005,21-24 hrs (Night),15
+3288,Sikkim,2006,0-3 hrs. (Night),1
+3289,Sikkim,2006,3-6 hrs. (Night),5
+3290,Sikkim,2006,6-9 hrs (Day),6
+3291,Sikkim,2006,9-12 hrs (Day),3
+3292,Sikkim,2006,12-15 hrs (Day),8
+3293,Sikkim,2006,15-18 hrs (Day),8
+3294,Sikkim,2006,18-21 hrs (Night),5
+3295,Sikkim,2006,21-24 hrs (Night),3
+3296,Sikkim,2007,0-3 hrs. (Night),6
+3297,Sikkim,2007,3-6 hrs. (Night),3
+3298,Sikkim,2007,6-9 hrs (Day),19
+3299,Sikkim,2007,9-12 hrs (Day),25
+3300,Sikkim,2007,12-15 hrs (Day),39
+3301,Sikkim,2007,15-18 hrs (Day),34
+3302,Sikkim,2007,18-21 hrs (Night),16
+3303,Sikkim,2007,21-24 hrs (Night),8
+3304,Sikkim,2008,0-3 hrs. (Night),6
+3305,Sikkim,2008,3-6 hrs. (Night),19
+3306,Sikkim,2008,6-9 hrs (Day),26
+3307,Sikkim,2008,9-12 hrs (Day),34
+3308,Sikkim,2008,12-15 hrs (Day),46
+3309,Sikkim,2008,15-18 hrs (Day),30
+3310,Sikkim,2008,18-21 hrs (Night),22
+3311,Sikkim,2008,21-24 hrs (Night),13
+3312,Sikkim,2009,0-3 hrs. (Night),49
+3313,Sikkim,2009,3-6 hrs. (Night),56
+3314,Sikkim,2009,6-9 hrs (Day),58
+3315,Sikkim,2009,9-12 hrs (Day),107
+3316,Sikkim,2009,12-15 hrs (Day),87
+3317,Sikkim,2009,15-18 hrs (Day),127
+3318,Sikkim,2009,18-21 hrs (Night),51
+3319,Sikkim,2009,21-24 hrs (Night),29
+3320,Sikkim,2010,0-3 hrs. (Night),6
+3321,Sikkim,2010,3-6 hrs. (Night),10
+3322,Sikkim,2010,6-9 hrs (Day),18
+3323,Sikkim,2010,9-12 hrs (Day),38
+3324,Sikkim,2010,12-15 hrs (Day),19
+3325,Sikkim,2010,15-18 hrs (Day),28
+3326,Sikkim,2010,18-21 hrs (Night),28
+3327,Sikkim,2010,21-24 hrs (Night),39
+3328,Sikkim,2011,0-3 hrs. (Night),10
+3329,Sikkim,2011,3-6 hrs. (Night),12
+3330,Sikkim,2011,6-9 hrs (Day),17
+3331,Sikkim,2011,9-12 hrs (Day),19
+3332,Sikkim,2011,12-15 hrs (Day),16
+3333,Sikkim,2011,15-18 hrs (Day),17
+3334,Sikkim,2011,18-21 hrs (Night),21
+3335,Sikkim,2011,21-24 hrs (Night),17
+3336,Sikkim,2012,0-3 hrs. (Night),0
+3337,Sikkim,2012,3-6 hrs. (Night),18
+3338,Sikkim,2012,6-9 hrs (Day),12
+3339,Sikkim,2012,9-12 hrs (Day),20
+3340,Sikkim,2012,12-15 hrs (Day),8
+3341,Sikkim,2012,15-18 hrs (Day),11
+3342,Sikkim,2012,18-21 hrs (Night),27
+3343,Sikkim,2012,21-24 hrs (Night),27
+3344,Sikkim,2013,0-3 hrs. (Night),5
+3345,Sikkim,2013,3-6 hrs. (Night),9
+3346,Sikkim,2013,6-9 hrs (Day),21
+3347,Sikkim,2013,9-12 hrs (Day),29
+3348,Sikkim,2013,12-15 hrs (Day),77
+3349,Sikkim,2013,15-18 hrs (Day),62
+3350,Sikkim,2013,18-21 hrs (Night),38
+3351,Sikkim,2013,21-24 hrs (Night),3
+3352,Sikkim,2014,0-3 hrs. (Night),6
+3353,Sikkim,2014,3-6 hrs. (Night),8
+3354,Sikkim,2014,6-9 hrs (Day),15
+3355,Sikkim,2014,9-12 hrs (Day),17
+3356,Sikkim,2014,12-15 hrs (Day),12
+3357,Sikkim,2014,15-18 hrs (Day),27
+3358,Sikkim,2014,18-21 hrs (Night),29
+3359,Sikkim,2014,21-24 hrs (Night),16
+3360,Tamil Nadu,2001,0-3 hrs. (Night),4020
+3361,Tamil Nadu,2001,3-6 hrs. (Night),4672
+3362,Tamil Nadu,2001,6-9 hrs (Day),7280
+3363,Tamil Nadu,2001,9-12 hrs (Day),7775
+3364,Tamil Nadu,2001,12-15 hrs (Day),7770
+3365,Tamil Nadu,2001,15-18 hrs (Day),7887
+3366,Tamil Nadu,2001,18-21 hrs (Night),7495
+3367,Tamil Nadu,2001,21-24 hrs (Night),5079
+3368,Tamil Nadu,2002,0-3 hrs. (Night),5060
+3369,Tamil Nadu,2002,3-6 hrs. (Night),4939
+3370,Tamil Nadu,2002,6-9 hrs (Day),7072
+3371,Tamil Nadu,2002,9-12 hrs (Day),7806
+3372,Tamil Nadu,2002,12-15 hrs (Day),7269
+3373,Tamil Nadu,2002,15-18 hrs (Day),8181
+3374,Tamil Nadu,2002,18-21 hrs (Night),7530
+3375,Tamil Nadu,2002,21-24 hrs (Night),5646
+3376,Tamil Nadu,2003,0-3 hrs. (Night),4174
+3377,Tamil Nadu,2003,3-6 hrs. (Night),4805
+3378,Tamil Nadu,2003,6-9 hrs (Day),6660
+3379,Tamil Nadu,2003,9-12 hrs (Day),7648
+3380,Tamil Nadu,2003,12-15 hrs (Day),6944
+3381,Tamil Nadu,2003,15-18 hrs (Day),7809
+3382,Tamil Nadu,2003,18-21 hrs (Night),7246
+3383,Tamil Nadu,2003,21-24 hrs (Night),5739
+3384,Tamil Nadu,2004,0-3 hrs. (Night),3857
+3385,Tamil Nadu,2004,3-6 hrs. (Night),4660
+3386,Tamil Nadu,2004,6-9 hrs (Day),6556
+3387,Tamil Nadu,2004,9-12 hrs (Day),8099
+3388,Tamil Nadu,2004,12-15 hrs (Day),7545
+3389,Tamil Nadu,2004,15-18 hrs (Day),8098
+3390,Tamil Nadu,2004,18-21 hrs (Night),7791
+3391,Tamil Nadu,2004,21-24 hrs (Night),5902
+3392,Tamil Nadu,2005,0-3 hrs. (Night),6020
+3393,Tamil Nadu,2005,3-6 hrs. (Night),6545
+3394,Tamil Nadu,2005,6-9 hrs (Day),8236
+3395,Tamil Nadu,2005,9-12 hrs (Day),14568
+3396,Tamil Nadu,2005,12-15 hrs (Day),11089
+3397,Tamil Nadu,2005,15-18 hrs (Day),13789
+3398,Tamil Nadu,2005,18-21 hrs (Night),8765
+3399,Tamil Nadu,2005,21-24 hrs (Night),6468
+3400,Tamil Nadu,2006,0-3 hrs. (Night),5180
+3401,Tamil Nadu,2006,3-6 hrs. (Night),6046
+3402,Tamil Nadu,2006,6-9 hrs (Day),6784
+3403,Tamil Nadu,2006,9-12 hrs (Day),7200
+3404,Tamil Nadu,2006,12-15 hrs (Day),7241
+3405,Tamil Nadu,2006,15-18 hrs (Day),7997
+3406,Tamil Nadu,2006,18-21 hrs (Night),7896
+3407,Tamil Nadu,2006,21-24 hrs (Night),6801
+3408,Tamil Nadu,2007,0-3 hrs. (Night),5773
+3409,Tamil Nadu,2007,3-6 hrs. (Night),4850
+3410,Tamil Nadu,2007,6-9 hrs (Day),5948
+3411,Tamil Nadu,2007,9-12 hrs (Day),6938
+3412,Tamil Nadu,2007,12-15 hrs (Day),8175
+3413,Tamil Nadu,2007,15-18 hrs (Day),9777
+3414,Tamil Nadu,2007,18-21 hrs (Night),9690
+3415,Tamil Nadu,2007,21-24 hrs (Night),7966
+3416,Tamil Nadu,2008,0-3 hrs. (Night),5898
+3417,Tamil Nadu,2008,3-6 hrs. (Night),4956
+3418,Tamil Nadu,2008,6-9 hrs (Day),6078
+3419,Tamil Nadu,2008,9-12 hrs (Day),7090
+3420,Tamil Nadu,2008,12-15 hrs (Day),8354
+3421,Tamil Nadu,2008,15-18 hrs (Day),9991
+3422,Tamil Nadu,2008,18-21 hrs (Night),9902
+3423,Tamil Nadu,2008,21-24 hrs (Night),8140
+3424,Tamil Nadu,2009,0-3 hrs. (Night),4201
+3425,Tamil Nadu,2009,3-6 hrs. (Night),4520
+3426,Tamil Nadu,2009,6-9 hrs (Day),7118
+3427,Tamil Nadu,2009,9-12 hrs (Day),8662
+3428,Tamil Nadu,2009,12-15 hrs (Day),8749
+3429,Tamil Nadu,2009,15-18 hrs (Day),10262
+3430,Tamil Nadu,2009,18-21 hrs (Night),6918
+3431,Tamil Nadu,2009,21-24 hrs (Night),10364
+3432,Tamil Nadu,2010,0-3 hrs. (Night),3376
+3433,Tamil Nadu,2010,3-6 hrs. (Night),5141
+3434,Tamil Nadu,2010,6-9 hrs (Day),7896
+3435,Tamil Nadu,2010,9-12 hrs (Day),9021
+3436,Tamil Nadu,2010,12-15 hrs (Day),9526
+3437,Tamil Nadu,2010,15-18 hrs (Day),10756
+3438,Tamil Nadu,2010,18-21 hrs (Night),11881
+3439,Tamil Nadu,2010,21-24 hrs (Night),7399
+3440,Tamil Nadu,2011,0-3 hrs. (Night),3716
+3441,Tamil Nadu,2011,3-6 hrs. (Night),4915
+3442,Tamil Nadu,2011,6-9 hrs (Day),7542
+3443,Tamil Nadu,2011,9-12 hrs (Day),9319
+3444,Tamil Nadu,2011,12-15 hrs (Day),9579
+3445,Tamil Nadu,2011,15-18 hrs (Day),11485
+3446,Tamil Nadu,2011,18-21 hrs (Night),11915
+3447,Tamil Nadu,2011,21-24 hrs (Night),7402
+3448,Tamil Nadu,2012,0-3 hrs. (Night),3199
+3449,Tamil Nadu,2012,3-6 hrs. (Night),4560
+3450,Tamil Nadu,2012,6-9 hrs (Day),8241
+3451,Tamil Nadu,2012,9-12 hrs (Day),9490
+3452,Tamil Nadu,2012,12-15 hrs (Day),9806
+3453,Tamil Nadu,2012,15-18 hrs (Day),11905
+3454,Tamil Nadu,2012,18-21 hrs (Night),13020
+3455,Tamil Nadu,2012,21-24 hrs (Night),7536
+3456,Tamil Nadu,2013,0-3 hrs. (Night),2796
+3457,Tamil Nadu,2013,3-6 hrs. (Night),4047
+3458,Tamil Nadu,2013,6-9 hrs (Day),7503
+3459,Tamil Nadu,2013,9-12 hrs (Day),9515
+3460,Tamil Nadu,2013,12-15 hrs (Day),10014
+3461,Tamil Nadu,2013,15-18 hrs (Day),11761
+3462,Tamil Nadu,2013,18-21 hrs (Night),13330
+3463,Tamil Nadu,2013,21-24 hrs (Night),7272
+3464,Tamil Nadu,2014,0-3 hrs. (Night),2685
+3465,Tamil Nadu,2014,3-6 hrs. (Night),4057
+3466,Tamil Nadu,2014,6-9 hrs (Day),7973
+3467,Tamil Nadu,2014,9-12 hrs (Day),9593
+3468,Tamil Nadu,2014,12-15 hrs (Day),9955
+3469,Tamil Nadu,2014,15-18 hrs (Day),11902
+3470,Tamil Nadu,2014,18-21 hrs (Night),13927
+3471,Tamil Nadu,2014,21-24 hrs (Night),7158
+3472,Tripura,2001,0-3 hrs. (Night),4
+3473,Tripura,2001,3-6 hrs. (Night),8
+3474,Tripura,2001,6-9 hrs (Day),79
+3475,Tripura,2001,9-12 hrs (Day),198
+3476,Tripura,2001,12-15 hrs (Day),106
+3477,Tripura,2001,15-18 hrs (Day),119
+3478,Tripura,2001,18-21 hrs (Night),22
+3479,Tripura,2001,21-24 hrs (Night),8
+3480,Tripura,2002,0-3 hrs. (Night),0
+3481,Tripura,2002,3-6 hrs. (Night),0
+3482,Tripura,2002,6-9 hrs (Day),84
+3483,Tripura,2002,9-12 hrs (Day),164
+3484,Tripura,2002,12-15 hrs (Day),82
+3485,Tripura,2002,15-18 hrs (Day),122
+3486,Tripura,2002,18-21 hrs (Night),113
+3487,Tripura,2002,21-24 hrs (Night),59
+3488,Tripura,2003,0-3 hrs. (Night),1
+3489,Tripura,2003,3-6 hrs. (Night),1
+3490,Tripura,2003,6-9 hrs (Day),99
+3491,Tripura,2003,9-12 hrs (Day),174
+3492,Tripura,2003,12-15 hrs (Day),152
+3493,Tripura,2003,15-18 hrs (Day),163
+3494,Tripura,2003,18-21 hrs (Night),73
+3495,Tripura,2003,21-24 hrs (Night),13
+3496,Tripura,2004,0-3 hrs. (Night),0
+3497,Tripura,2004,3-6 hrs. (Night),10
+3498,Tripura,2004,6-9 hrs (Day),112
+3499,Tripura,2004,9-12 hrs (Day),159
+3500,Tripura,2004,12-15 hrs (Day),106
+3501,Tripura,2004,15-18 hrs (Day),130
+3502,Tripura,2004,18-21 hrs (Night),88
+3503,Tripura,2004,21-24 hrs (Night),40
+3504,Tripura,2005,0-3 hrs. (Night),11
+3505,Tripura,2005,3-6 hrs. (Night),3
+3506,Tripura,2005,6-9 hrs (Day),90
+3507,Tripura,2005,9-12 hrs (Day),185
+3508,Tripura,2005,12-15 hrs (Day),142
+3509,Tripura,2005,15-18 hrs (Day),145
+3510,Tripura,2005,18-21 hrs (Night),76
+3511,Tripura,2005,21-24 hrs (Night),10
+3512,Tripura,2006,0-3 hrs. (Night),12
+3513,Tripura,2006,3-6 hrs. (Night),34
+3514,Tripura,2006,6-9 hrs (Day),191
+3515,Tripura,2006,9-12 hrs (Day),219
+3516,Tripura,2006,12-15 hrs (Day),184
+3517,Tripura,2006,15-18 hrs (Day),90
+3518,Tripura,2006,18-21 hrs (Night),42
+3519,Tripura,2006,21-24 hrs (Night),21
+3520,Tripura,2007,0-3 hrs. (Night),7
+3521,Tripura,2007,3-6 hrs. (Night),5
+3522,Tripura,2007,6-9 hrs (Day),165
+3523,Tripura,2007,9-12 hrs (Day),199
+3524,Tripura,2007,12-15 hrs (Day),213
+3525,Tripura,2007,15-18 hrs (Day),132
+3526,Tripura,2007,18-21 hrs (Night),59
+3527,Tripura,2007,21-24 hrs (Night),21
+3528,Tripura,2008,0-3 hrs. (Night),17
+3529,Tripura,2008,3-6 hrs. (Night),26
+3530,Tripura,2008,6-9 hrs (Day),78
+3531,Tripura,2008,9-12 hrs (Day),187
+3532,Tripura,2008,12-15 hrs (Day),166
+3533,Tripura,2008,15-18 hrs (Day),143
+3534,Tripura,2008,18-21 hrs (Night),114
+3535,Tripura,2008,21-24 hrs (Night),36
+3536,Tripura,2009,0-3 hrs. (Night),10
+3537,Tripura,2009,3-6 hrs. (Night),13
+3538,Tripura,2009,6-9 hrs (Day),101
+3539,Tripura,2009,9-12 hrs (Day),179
+3540,Tripura,2009,12-15 hrs (Day),185
+3541,Tripura,2009,15-18 hrs (Day),215
+3542,Tripura,2009,18-21 hrs (Night),105
+3543,Tripura,2009,21-24 hrs (Night),57
+3544,Tripura,2010,0-3 hrs. (Night),8
+3545,Tripura,2010,3-6 hrs. (Night),17
+3546,Tripura,2010,6-9 hrs (Day),113
+3547,Tripura,2010,9-12 hrs (Day),205
+3548,Tripura,2010,12-15 hrs (Day),175
+3549,Tripura,2010,15-18 hrs (Day),183
+3550,Tripura,2010,18-21 hrs (Night),130
+3551,Tripura,2010,21-24 hrs (Night),70
+3552,Tripura,2011,0-3 hrs. (Night),4
+3553,Tripura,2011,3-6 hrs. (Night),13
+3554,Tripura,2011,6-9 hrs (Day),88
+3555,Tripura,2011,9-12 hrs (Day),157
+3556,Tripura,2011,12-15 hrs (Day),194
+3557,Tripura,2011,15-18 hrs (Day),183
+3558,Tripura,2011,18-21 hrs (Night),141
+3559,Tripura,2011,21-24 hrs (Night),54
+3560,Tripura,2012,0-3 hrs. (Night),10
+3561,Tripura,2012,3-6 hrs. (Night),18
+3562,Tripura,2012,6-9 hrs (Day),88
+3563,Tripura,2012,9-12 hrs (Day),195
+3564,Tripura,2012,12-15 hrs (Day),160
+3565,Tripura,2012,15-18 hrs (Day),205
+3566,Tripura,2012,18-21 hrs (Night),147
+3567,Tripura,2012,21-24 hrs (Night),65
+3568,Tripura,2013,0-3 hrs. (Night),20
+3569,Tripura,2013,3-6 hrs. (Night),22
+3570,Tripura,2013,6-9 hrs (Day),92
+3571,Tripura,2013,9-12 hrs (Day),174
+3572,Tripura,2013,12-15 hrs (Day),122
+3573,Tripura,2013,15-18 hrs (Day),176
+3574,Tripura,2013,18-21 hrs (Night),151
+3575,Tripura,2013,21-24 hrs (Night),61
+3576,Tripura,2014,0-3 hrs. (Night),15
+3577,Tripura,2014,3-6 hrs. (Night),21
+3578,Tripura,2014,6-9 hrs (Day),53
+3579,Tripura,2014,9-12 hrs (Day),199
+3580,Tripura,2014,12-15 hrs (Day),123
+3581,Tripura,2014,15-18 hrs (Day),161
+3582,Tripura,2014,18-21 hrs (Night),96
+3583,Tripura,2014,21-24 hrs (Night),48
+3584,Uttar Pradesh,2001,0-3 hrs. (Night),2324
+3585,Uttar Pradesh,2001,3-6 hrs. (Night),3659
+3586,Uttar Pradesh,2001,6-9 hrs (Day),2336
+3587,Uttar Pradesh,2001,9-12 hrs (Day),2243
+3588,Uttar Pradesh,2001,12-15 hrs (Day),1971
+3589,Uttar Pradesh,2001,15-18 hrs (Day),2075
+3590,Uttar Pradesh,2001,18-21 hrs (Night),2002
+3591,Uttar Pradesh,2001,21-24 hrs (Night),1311
+3592,Uttar Pradesh,2002,0-3 hrs. (Night),1444
+3593,Uttar Pradesh,2002,3-6 hrs. (Night),1716
+3594,Uttar Pradesh,2002,6-9 hrs (Day),1440
+3595,Uttar Pradesh,2002,9-12 hrs (Day),2197
+3596,Uttar Pradesh,2002,12-15 hrs (Day),2015
+3597,Uttar Pradesh,2002,15-18 hrs (Day),2098
+3598,Uttar Pradesh,2002,18-21 hrs (Night),2072
+3599,Uttar Pradesh,2002,21-24 hrs (Night),1475
+3600,Uttar Pradesh,2003,0-3 hrs. (Night),1087
+3601,Uttar Pradesh,2003,3-6 hrs. (Night),1322
+3602,Uttar Pradesh,2003,6-9 hrs (Day),1764
+3603,Uttar Pradesh,2003,9-12 hrs (Day),1721
+3604,Uttar Pradesh,2003,12-15 hrs (Day),1365
+3605,Uttar Pradesh,2003,15-18 hrs (Day),1448
+3606,Uttar Pradesh,2003,18-21 hrs (Night),1497
+3607,Uttar Pradesh,2003,21-24 hrs (Night),1150
+3608,Uttar Pradesh,2004,0-3 hrs. (Night),1262
+3609,Uttar Pradesh,2004,3-6 hrs. (Night),1645
+3610,Uttar Pradesh,2004,6-9 hrs (Day),1970
+3611,Uttar Pradesh,2004,9-12 hrs (Day),2000
+3612,Uttar Pradesh,2004,12-15 hrs (Day),1838
+3613,Uttar Pradesh,2004,15-18 hrs (Day),1933
+3614,Uttar Pradesh,2004,18-21 hrs (Night),2072
+3615,Uttar Pradesh,2004,21-24 hrs (Night),1654
+3616,Uttar Pradesh,2005,0-3 hrs. (Night),1226
+3617,Uttar Pradesh,2005,3-6 hrs. (Night),1598
+3618,Uttar Pradesh,2005,6-9 hrs (Day),2145
+3619,Uttar Pradesh,2005,9-12 hrs (Day),2233
+3620,Uttar Pradesh,2005,12-15 hrs (Day),1956
+3621,Uttar Pradesh,2005,15-18 hrs (Day),2052
+3622,Uttar Pradesh,2005,18-21 hrs (Night),1951
+3623,Uttar Pradesh,2005,21-24 hrs (Night),1528
+3624,Uttar Pradesh,2006,0-3 hrs. (Night),1860
+3625,Uttar Pradesh,2006,3-6 hrs. (Night),1731
+3626,Uttar Pradesh,2006,6-9 hrs (Day),2252
+3627,Uttar Pradesh,2006,9-12 hrs (Day),2506
+3628,Uttar Pradesh,2006,12-15 hrs (Day),1951
+3629,Uttar Pradesh,2006,15-18 hrs (Day),2189
+3630,Uttar Pradesh,2006,18-21 hrs (Night),2035
+3631,Uttar Pradesh,2006,21-24 hrs (Night),1683
+3632,Uttar Pradesh,2007,0-3 hrs. (Night),1615
+3633,Uttar Pradesh,2007,3-6 hrs. (Night),1793
+3634,Uttar Pradesh,2007,6-9 hrs (Day),2790
+3635,Uttar Pradesh,2007,9-12 hrs (Day),2835
+3636,Uttar Pradesh,2007,12-15 hrs (Day),2282
+3637,Uttar Pradesh,2007,15-18 hrs (Day),2509
+3638,Uttar Pradesh,2007,18-21 hrs (Night),2351
+3639,Uttar Pradesh,2007,21-24 hrs (Night),1856
+3640,Uttar Pradesh,2008,0-3 hrs. (Night),1791
+3641,Uttar Pradesh,2008,3-6 hrs. (Night),2236
+3642,Uttar Pradesh,2008,6-9 hrs (Day),2572
+3643,Uttar Pradesh,2008,9-12 hrs (Day),2723
+3644,Uttar Pradesh,2008,12-15 hrs (Day),2467
+3645,Uttar Pradesh,2008,15-18 hrs (Day),2672
+3646,Uttar Pradesh,2008,18-21 hrs (Night),2592
+3647,Uttar Pradesh,2008,21-24 hrs (Night),2011
+3648,Uttar Pradesh,2009,0-3 hrs. (Night),2219
+3649,Uttar Pradesh,2009,3-6 hrs. (Night),2894
+3650,Uttar Pradesh,2009,6-9 hrs (Day),1338
+3651,Uttar Pradesh,2009,9-12 hrs (Day),3478
+3652,Uttar Pradesh,2009,12-15 hrs (Day),2989
+3653,Uttar Pradesh,2009,15-18 hrs (Day),3074
+3654,Uttar Pradesh,2009,18-21 hrs (Night),3404
+3655,Uttar Pradesh,2009,21-24 hrs (Night),2589
+3656,Uttar Pradesh,2010,0-3 hrs. (Night),2232
+3657,Uttar Pradesh,2010,3-6 hrs. (Night),2924
+3658,Uttar Pradesh,2010,6-9 hrs (Day),3602
+3659,Uttar Pradesh,2010,9-12 hrs (Day),3588
+3660,Uttar Pradesh,2010,12-15 hrs (Day),3208
+3661,Uttar Pradesh,2010,15-18 hrs (Day),3194
+3662,Uttar Pradesh,2010,18-21 hrs (Night),3573
+3663,Uttar Pradesh,2010,21-24 hrs (Night),3095
+3664,Uttar Pradesh,2011,0-3 hrs. (Night),2096
+3665,Uttar Pradesh,2011,3-6 hrs. (Night),3012
+3666,Uttar Pradesh,2011,6-9 hrs (Day),3009
+3667,Uttar Pradesh,2011,9-12 hrs (Day),3501
+3668,Uttar Pradesh,2011,12-15 hrs (Day),3137
+3669,Uttar Pradesh,2011,15-18 hrs (Day),3450
+3670,Uttar Pradesh,2011,18-21 hrs (Night),3617
+3671,Uttar Pradesh,2011,21-24 hrs (Night),2691
+3672,Uttar Pradesh,2012,0-3 hrs. (Night),1994
+3673,Uttar Pradesh,2012,3-6 hrs. (Night),2708
+3674,Uttar Pradesh,2012,6-9 hrs (Day),3424
+3675,Uttar Pradesh,2012,9-12 hrs (Day),3600
+3676,Uttar Pradesh,2012,12-15 hrs (Day),3128
+3677,Uttar Pradesh,2012,15-18 hrs (Day),3619
+3678,Uttar Pradesh,2012,18-21 hrs (Night),3620
+3679,Uttar Pradesh,2012,21-24 hrs (Night),2385
+3680,Uttar Pradesh,2013,0-3 hrs. (Night),2134
+3681,Uttar Pradesh,2013,3-6 hrs. (Night),2796
+3682,Uttar Pradesh,2013,6-9 hrs (Day),3604
+3683,Uttar Pradesh,2013,9-12 hrs (Day),3861
+3684,Uttar Pradesh,2013,12-15 hrs (Day),3469
+3685,Uttar Pradesh,2013,15-18 hrs (Day),3674
+3686,Uttar Pradesh,2013,18-21 hrs (Night),3883
+3687,Uttar Pradesh,2013,21-24 hrs (Night),2554
+3688,Uttar Pradesh,2014,0-3 hrs. (Night),2106
+3689,Uttar Pradesh,2014,3-6 hrs. (Night),2824
+3690,Uttar Pradesh,2014,6-9 hrs (Day),3376
+3691,Uttar Pradesh,2014,9-12 hrs (Day),3547
+3692,Uttar Pradesh,2014,12-15 hrs (Day),3522
+3693,Uttar Pradesh,2014,15-18 hrs (Day),3929
+3694,Uttar Pradesh,2014,18-21 hrs (Night),4099
+3695,Uttar Pradesh,2014,21-24 hrs (Night),2661
+3696,Uttarakhand,2001,0-3 hrs. (Night),94
+3697,Uttarakhand,2001,3-6 hrs. (Night),152
+3698,Uttarakhand,2001,6-9 hrs (Day),138
+3699,Uttarakhand,2001,9-12 hrs (Day),130
+3700,Uttarakhand,2001,12-15 hrs (Day),124
+3701,Uttarakhand,2001,15-18 hrs (Day),118
+3702,Uttarakhand,2001,18-21 hrs (Night),141
+3703,Uttarakhand,2001,21-24 hrs (Night),106
+3704,Uttarakhand,2002,0-3 hrs. (Night),33
+3705,Uttarakhand,2002,3-6 hrs. (Night),65
+3706,Uttarakhand,2002,6-9 hrs (Day),153
+3707,Uttarakhand,2002,9-12 hrs (Day),231
+3708,Uttarakhand,2002,12-15 hrs (Day),222
+3709,Uttarakhand,2002,15-18 hrs (Day),240
+3710,Uttarakhand,2002,18-21 hrs (Night),104
+3711,Uttarakhand,2002,21-24 hrs (Night),69
+3712,Uttarakhand,2003,0-3 hrs. (Night),47
+3713,Uttarakhand,2003,3-6 hrs. (Night),40
+3714,Uttarakhand,2003,6-9 hrs (Day),143
+3715,Uttarakhand,2003,9-12 hrs (Day),259
+3716,Uttarakhand,2003,12-15 hrs (Day),264
+3717,Uttarakhand,2003,15-18 hrs (Day),194
+3718,Uttarakhand,2003,18-21 hrs (Night),156
+3719,Uttarakhand,2003,21-24 hrs (Night),83
+3720,Uttarakhand,2004,0-3 hrs. (Night),49
+3721,Uttarakhand,2004,3-6 hrs. (Night),38
+3722,Uttarakhand,2004,6-9 hrs (Day),152
+3723,Uttarakhand,2004,9-12 hrs (Day),214
+3724,Uttarakhand,2004,12-15 hrs (Day),247
+3725,Uttarakhand,2004,15-18 hrs (Day),281
+3726,Uttarakhand,2004,18-21 hrs (Night),178
+3727,Uttarakhand,2004,21-24 hrs (Night),93
+3728,Uttarakhand,2005,0-3 hrs. (Night),36
+3729,Uttarakhand,2005,3-6 hrs. (Night),45
+3730,Uttarakhand,2005,6-9 hrs (Day),146
+3731,Uttarakhand,2005,9-12 hrs (Day),234
+3732,Uttarakhand,2005,12-15 hrs (Day),268
+3733,Uttarakhand,2005,15-18 hrs (Day),252
+3734,Uttarakhand,2005,18-21 hrs (Night),228
+3735,Uttarakhand,2005,21-24 hrs (Night),123
+3736,Uttarakhand,2006,0-3 hrs. (Night),39
+3737,Uttarakhand,2006,3-6 hrs. (Night),44
+3738,Uttarakhand,2006,6-9 hrs (Day),187
+3739,Uttarakhand,2006,9-12 hrs (Day),245
+3740,Uttarakhand,2006,12-15 hrs (Day),268
+3741,Uttarakhand,2006,15-18 hrs (Day),299
+3742,Uttarakhand,2006,18-21 hrs (Night),238
+3743,Uttarakhand,2006,21-24 hrs (Night),141
+3744,Uttarakhand,2007,0-3 hrs. (Night),42
+3745,Uttarakhand,2007,3-6 hrs. (Night),53
+3746,Uttarakhand,2007,6-9 hrs (Day),226
+3747,Uttarakhand,2007,9-12 hrs (Day),303
+3748,Uttarakhand,2007,12-15 hrs (Day),336
+3749,Uttarakhand,2007,15-18 hrs (Day),241
+3750,Uttarakhand,2007,18-21 hrs (Night),197
+3751,Uttarakhand,2007,21-24 hrs (Night),124
+3752,Uttarakhand,2008,0-3 hrs. (Night),73
+3753,Uttarakhand,2008,3-6 hrs. (Night),86
+3754,Uttarakhand,2008,6-9 hrs (Day),173
+3755,Uttarakhand,2008,9-12 hrs (Day),209
+3756,Uttarakhand,2008,12-15 hrs (Day),237
+3757,Uttarakhand,2008,15-18 hrs (Day),271
+3758,Uttarakhand,2008,18-21 hrs (Night),213
+3759,Uttarakhand,2008,21-24 hrs (Night),147
+3760,Uttarakhand,2009,0-3 hrs. (Night),47
+3761,Uttarakhand,2009,3-6 hrs. (Night),67
+3762,Uttarakhand,2009,6-9 hrs (Day),210
+3763,Uttarakhand,2009,9-12 hrs (Day),254
+3764,Uttarakhand,2009,12-15 hrs (Day),234
+3765,Uttarakhand,2009,15-18 hrs (Day),284
+3766,Uttarakhand,2009,18-21 hrs (Night),186
+3767,Uttarakhand,2009,21-24 hrs (Night),101
+3768,Uttarakhand,2010,0-3 hrs. (Night),51
+3769,Uttarakhand,2010,3-6 hrs. (Night),107
+3770,Uttarakhand,2010,6-9 hrs (Day),179
+3771,Uttarakhand,2010,9-12 hrs (Day),214
+3772,Uttarakhand,2010,12-15 hrs (Day),275
+3773,Uttarakhand,2010,15-18 hrs (Day),308
+3774,Uttarakhand,2010,18-21 hrs (Night),202
+3775,Uttarakhand,2010,21-24 hrs (Night),143
+3776,Uttarakhand,2011,0-3 hrs. (Night),35
+3777,Uttarakhand,2011,3-6 hrs. (Night),43
+3778,Uttarakhand,2011,6-9 hrs (Day),183
+3779,Uttarakhand,2011,9-12 hrs (Day),288
+3780,Uttarakhand,2011,12-15 hrs (Day),280
+3781,Uttarakhand,2011,15-18 hrs (Day),288
+3782,Uttarakhand,2011,18-21 hrs (Night),241
+3783,Uttarakhand,2011,21-24 hrs (Night),137
+3784,Uttarakhand,2012,0-3 hrs. (Night),36
+3785,Uttarakhand,2012,3-6 hrs. (Night),80
+3786,Uttarakhand,2012,6-9 hrs (Day),171
+3787,Uttarakhand,2012,9-12 hrs (Day),283
+3788,Uttarakhand,2012,12-15 hrs (Day),205
+3789,Uttarakhand,2012,15-18 hrs (Day),275
+3790,Uttarakhand,2012,18-21 hrs (Night),308
+3791,Uttarakhand,2012,21-24 hrs (Night),97
+3792,Uttarakhand,2013,0-3 hrs. (Night),39
+3793,Uttarakhand,2013,3-6 hrs. (Night),67
+3794,Uttarakhand,2013,6-9 hrs (Day),191
+3795,Uttarakhand,2013,9-12 hrs (Day),222
+3796,Uttarakhand,2013,12-15 hrs (Day),191
+3797,Uttarakhand,2013,15-18 hrs (Day),230
+3798,Uttarakhand,2013,18-21 hrs (Night),235
+3799,Uttarakhand,2013,21-24 hrs (Night),122
+3800,Uttarakhand,2014,0-3 hrs. (Night),61
+3801,Uttarakhand,2014,3-6 hrs. (Night),81
+3802,Uttarakhand,2014,6-9 hrs (Day),95
+3803,Uttarakhand,2014,9-12 hrs (Day),122
+3804,Uttarakhand,2014,12-15 hrs (Day),117
+3805,Uttarakhand,2014,15-18 hrs (Day),137
+3806,Uttarakhand,2014,18-21 hrs (Night),113
+3807,Uttarakhand,2014,21-24 hrs (Night),75
+3808,West Bengal,2001,0-3 hrs. (Night),832
+3809,West Bengal,2001,3-6 hrs. (Night),1161
+3810,West Bengal,2001,6-9 hrs (Day),1372
+3811,West Bengal,2001,9-12 hrs (Day),1862
+3812,West Bengal,2001,12-15 hrs (Day),1759
+3813,West Bengal,2001,15-18 hrs (Day),1677
+3814,West Bengal,2001,18-21 hrs (Night),1808
+3815,West Bengal,2001,21-24 hrs (Night),959
+3816,West Bengal,2002,0-3 hrs. (Night),776
+3817,West Bengal,2002,3-6 hrs. (Night),1240
+3818,West Bengal,2002,6-9 hrs (Day),1461
+3819,West Bengal,2002,9-12 hrs (Day),1907
+3820,West Bengal,2002,12-15 hrs (Day),1782
+3821,West Bengal,2002,15-18 hrs (Day),1497
+3822,West Bengal,2002,18-21 hrs (Night),1549
+3823,West Bengal,2002,21-24 hrs (Night),1025
+3824,West Bengal,2003,0-3 hrs. (Night),726
+3825,West Bengal,2003,3-6 hrs. (Night),1182
+3826,West Bengal,2003,6-9 hrs (Day),1442
+3827,West Bengal,2003,9-12 hrs (Day),1989
+3828,West Bengal,2003,12-15 hrs (Day),1726
+3829,West Bengal,2003,15-18 hrs (Day),1644
+3830,West Bengal,2003,18-21 hrs (Night),1624
+3831,West Bengal,2003,21-24 hrs (Night),1042
+3832,West Bengal,2004,0-3 hrs. (Night),1117
+3833,West Bengal,2004,3-6 hrs. (Night),1388
+3834,West Bengal,2004,6-9 hrs (Day),1582
+3835,West Bengal,2004,9-12 hrs (Day),2061
+3836,West Bengal,2004,12-15 hrs (Day),1774
+3837,West Bengal,2004,15-18 hrs (Day),1848
+3838,West Bengal,2004,18-21 hrs (Night),1258
+3839,West Bengal,2004,21-24 hrs (Night),1124
+3840,West Bengal,2005,0-3 hrs. (Night),1067
+3841,West Bengal,2005,3-6 hrs. (Night),1284
+3842,West Bengal,2005,6-9 hrs (Day),1626
+3843,West Bengal,2005,9-12 hrs (Day),2005
+3844,West Bengal,2005,12-15 hrs (Day),1709
+3845,West Bengal,2005,15-18 hrs (Day),1846
+3846,West Bengal,2005,18-21 hrs (Night),1629
+3847,West Bengal,2005,21-24 hrs (Night),1015
+3848,West Bengal,2006,0-3 hrs. (Night),1143
+3849,West Bengal,2006,3-6 hrs. (Night),1470
+3850,West Bengal,2006,6-9 hrs (Day),1772
+3851,West Bengal,2006,9-12 hrs (Day),2033
+3852,West Bengal,2006,12-15 hrs (Day),1897
+3853,West Bengal,2006,15-18 hrs (Day),1929
+3854,West Bengal,2006,18-21 hrs (Night),1825
+3855,West Bengal,2006,21-24 hrs (Night),1016
+3856,West Bengal,2007,0-3 hrs. (Night),1203
+3857,West Bengal,2007,3-6 hrs. (Night),1567
+3858,West Bengal,2007,6-9 hrs (Day),1621
+3859,West Bengal,2007,9-12 hrs (Day),2179
+3860,West Bengal,2007,12-15 hrs (Day),2106
+3861,West Bengal,2007,15-18 hrs (Day),2201
+3862,West Bengal,2007,18-21 hrs (Night),1752
+3863,West Bengal,2007,21-24 hrs (Night),1325
+3864,West Bengal,2008,0-3 hrs. (Night),888
+3865,West Bengal,2008,3-6 hrs. (Night),1150
+3866,West Bengal,2008,6-9 hrs (Day),1600
+3867,West Bengal,2008,9-12 hrs (Day),1960
+3868,West Bengal,2008,12-15 hrs (Day),1756
+3869,West Bengal,2008,15-18 hrs (Day),1689
+3870,West Bengal,2008,18-21 hrs (Night),1554
+3871,West Bengal,2008,21-24 hrs (Night),950
+3872,West Bengal,2009,0-3 hrs. (Night),942
+3873,West Bengal,2009,3-6 hrs. (Night),1353
+3874,West Bengal,2009,6-9 hrs (Day),1771
+3875,West Bengal,2009,9-12 hrs (Day),2427
+3876,West Bengal,2009,12-15 hrs (Day),2158
+3877,West Bengal,2009,15-18 hrs (Day),2256
+3878,West Bengal,2009,18-21 hrs (Night),1791
+3879,West Bengal,2009,21-24 hrs (Night),1261
+3880,West Bengal,2010,0-3 hrs. (Night),1241
+3881,West Bengal,2010,3-6 hrs. (Night),1397
+3882,West Bengal,2010,6-9 hrs (Day),1721
+3883,West Bengal,2010,9-12 hrs (Day),2508
+3884,West Bengal,2010,12-15 hrs (Day),2272
+3885,West Bengal,2010,15-18 hrs (Day),2296
+3886,West Bengal,2010,18-21 hrs (Night),1831
+3887,West Bengal,2010,21-24 hrs (Night),1459
+3888,West Bengal,2011,0-3 hrs. (Night),1200
+3889,West Bengal,2011,3-6 hrs. (Night),1493
+3890,West Bengal,2011,6-9 hrs (Day),1687
+3891,West Bengal,2011,9-12 hrs (Day),2553
+3892,West Bengal,2011,12-15 hrs (Day),2182
+3893,West Bengal,2011,15-18 hrs (Day),2196
+3894,West Bengal,2011,18-21 hrs (Night),1812
+3895,West Bengal,2011,21-24 hrs (Night),1345
+3896,West Bengal,2012,0-3 hrs. (Night),1346
+3897,West Bengal,2012,3-6 hrs. (Night),1511
+3898,West Bengal,2012,6-9 hrs (Day),1837
+3899,West Bengal,2012,9-12 hrs (Day),2831
+3900,West Bengal,2012,12-15 hrs (Day),2328
+3901,West Bengal,2012,15-18 hrs (Day),2268
+3902,West Bengal,2012,18-21 hrs (Night),1966
+3903,West Bengal,2012,21-24 hrs (Night),1521
+3904,West Bengal,2013,0-3 hrs. (Night),1442
+3905,West Bengal,2013,3-6 hrs. (Night),1911
+3906,West Bengal,2013,6-9 hrs (Day),2136
+3907,West Bengal,2013,9-12 hrs (Day),2900
+3908,West Bengal,2013,12-15 hrs (Day),2246
+3909,West Bengal,2013,15-18 hrs (Day),2366
+3910,West Bengal,2013,18-21 hrs (Night),2137
+3911,West Bengal,2013,21-24 hrs (Night),1411
+3912,West Bengal,2014,0-3 hrs. (Night),1455
+3913,West Bengal,2014,3-6 hrs. (Night),1634
+3914,West Bengal,2014,6-9 hrs (Day),2022
+3915,West Bengal,2014,9-12 hrs (Day),2998
+3916,West Bengal,2014,12-15 hrs (Day),2570
+3917,West Bengal,2014,15-18 hrs (Day),2458
+3918,West Bengal,2014,18-21 hrs (Night),2132
+3919,West Bengal,2014,21-24 hrs (Night),1836
